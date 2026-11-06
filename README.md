@@ -44,6 +44,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/biology/plant-morphology/` | Crop organs and morphology / 作物器官与形态 |
 | `icons/experiments/plant-phenotyping/` | Plant experimental setups / 植物实验场景 |
 | `icons/biology/molecular-components/` | Molecular mechanism components / 分子机制组件 |
+| `icons/experiments/reporter-assays/` | Reporter and molecular assay illustrations / 报告基因与分子实验 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -347,4 +348,21 @@ Editable conceptual illustrations; biological details and experimental interpret
 | RNA polymerase on DNA / DNA 上的 RNA 聚合酶 | Small interfering RNA duplex / 小干扰 RNA 双链 | Transfer RNA / 转运 RNA | Ubiquitin tagged protein / 泛素化蛋白 |
 | --- | --- | --- | --- |
 | [![RNA polymerase on DNA](icons/biology/molecular-components/rna-polymerase-dna.svg)](icons/biology/molecular-components/rna-polymerase-dna.svg) | [![Small interfering RNA duplex](icons/biology/molecular-components/small-interfering-rna.svg)](icons/biology/molecular-components/small-interfering-rna.svg) | [![Transfer RNA](icons/biology/molecular-components/transfer-rna.svg)](icons/biology/molecular-components/transfer-rna.svg) | [![Ubiquitin tagged protein](icons/biology/molecular-components/ubiquitin-protein-tag.svg)](icons/biology/molecular-components/ubiquitin-protein-tag.svg) |
+
+
+## Reporter assays | 报告基因实验
+
+Editable conceptual examples; staining patterns, construct organization, and experimental interpretation depend on the actual experiment. 可编辑示意素材；染色模式、载体结构及实验解释应依据具体实验调整。
+
+| Bacterial suspension tube / 细菌悬液管 | EMSA gel mobility shift / EMSA 凝胶迁移率变化 | GUS stained leaf / GUS 染色叶片 | GUS stained root / GUS 染色根系 |
+| --- | --- | --- | --- |
+| [![Bacterial suspension tube](icons/experiments/reporter-assays/bacterial-culture-tube.svg)](icons/experiments/reporter-assays/bacterial-culture-tube.svg) | [![EMSA gel mobility shift](icons/experiments/reporter-assays/emsa-gel-shift.svg)](icons/experiments/reporter-assays/emsa-gel-shift.svg) | [![GUS stained leaf](icons/experiments/reporter-assays/gus-stained-leaf.svg)](icons/experiments/reporter-assays/gus-stained-leaf.svg) | [![GUS stained root](icons/experiments/reporter-assays/gus-stained-root.svg)](icons/experiments/reporter-assays/gus-stained-root.svg) |
+
+| GUS stained tissue section / GUS 染色组织切片 | Histochemical staining vial / 组织化学染色瓶 | Leaf syringe infiltration / 叶片注射渗透 | Luciferase reporter leaf / 荧光素酶报告叶片 |
+| --- | --- | --- | --- |
+| [![GUS stained tissue section](icons/experiments/reporter-assays/gus-stained-tissue-section.svg)](icons/experiments/reporter-assays/gus-stained-tissue-section.svg) | [![Histochemical staining vial](icons/experiments/reporter-assays/histochemical-staining-vial.svg)](icons/experiments/reporter-assays/histochemical-staining-vial.svg) | [![Leaf syringe infiltration](icons/experiments/reporter-assays/leaf-infiltration-syringe.svg)](icons/experiments/reporter-assays/leaf-infiltration-syringe.svg) | [![Luciferase reporter leaf](icons/experiments/reporter-assays/luciferase-reporter-leaf.svg)](icons/experiments/reporter-assays/luciferase-reporter-leaf.svg) |
+
+| Promoter GUS reporter construct / 启动子 GUS 报告载体元件 | Promoter LUC reporter construct / 启动子 LUC 报告载体元件 | qPCR fluorescence tubes / qPCR 荧光反应管 | Western blot strip / 蛋白免疫印迹条带 |
+| --- | --- | --- | --- |
+| [![Promoter GUS reporter construct](icons/experiments/reporter-assays/promoter-gus-reporter.svg)](icons/experiments/reporter-assays/promoter-gus-reporter.svg) | [![Promoter LUC reporter construct](icons/experiments/reporter-assays/promoter-luciferase-reporter.svg)](icons/experiments/reporter-assays/promoter-luciferase-reporter.svg) | [![qPCR fluorescence tubes](icons/experiments/reporter-assays/qpcr-fluorescence-tubes.svg)](icons/experiments/reporter-assays/qpcr-fluorescence-tubes.svg) | [![Western blot strip](icons/experiments/reporter-assays/western-blot-strip.svg)](icons/experiments/reporter-assays/western-blot-strip.svg) |
 

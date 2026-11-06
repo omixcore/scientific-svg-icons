@@ -208,3 +208,15 @@ MOL-COMP-017,icons/biology/molecular-components/rna-polymerase-dna.svg,biology/m
 MOL-COMP-018,icons/biology/molecular-components/small-interfering-rna.svg,biology/molecular-components,Small interfering RNA duplex,小干扰 RNA 双链,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-019,icons/biology/molecular-components/transfer-rna.svg,biology/molecular-components,Transfer RNA,转运 RNA,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-020,icons/biology/molecular-components/ubiquitin-protein-tag.svg,biology/molecular-components,Ubiquitin tagged protein,泛素化蛋白,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-001,icons/experiments/reporter-assays/bacterial-culture-tube.svg,experiments/reporter-assays,Bacterial suspension tube,细菌悬液管,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-002,icons/experiments/reporter-assays/emsa-gel-shift.svg,experiments/reporter-assays,EMSA gel mobility shift,EMSA 凝胶迁移率变化,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-003,icons/experiments/reporter-assays/gus-stained-leaf.svg,experiments/reporter-assays,GUS stained leaf,GUS 染色叶片,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-004,icons/experiments/reporter-assays/gus-stained-root.svg,experiments/reporter-assays,GUS stained root,GUS 染色根系,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-005,icons/experiments/reporter-assays/gus-stained-tissue-section.svg,experiments/reporter-assays,GUS stained tissue section,GUS 染色组织切片,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-006,icons/experiments/reporter-assays/histochemical-staining-vial.svg,experiments/reporter-assays,Histochemical staining vial,组织化学染色瓶,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-007,icons/experiments/reporter-assays/leaf-infiltration-syringe.svg,experiments/reporter-assays,Leaf syringe infiltration,叶片注射渗透,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-008,icons/experiments/reporter-assays/luciferase-reporter-leaf.svg,experiments/reporter-assays,Luciferase reporter leaf,荧光素酶报告叶片,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-009,icons/experiments/reporter-assays/promoter-gus-reporter.svg,experiments/reporter-assays,Promoter GUS reporter construct,启动子 GUS 报告载体元件,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-010,icons/experiments/reporter-assays/promoter-luciferase-reporter.svg,experiments/reporter-assays,Promoter LUC reporter construct,启动子 LUC 报告载体元件,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-011,icons/experiments/reporter-assays/qpcr-fluorescence-tubes.svg,experiments/reporter-assays,qPCR fluorescence tubes,qPCR 荧光反应管,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-012,icons/experiments/reporter-assays/western-blot-strip.svg,experiments/reporter-assays,Western blot strip,蛋白免疫印迹条带,original-project-artwork,AI-assisted,not-assigned,draft
