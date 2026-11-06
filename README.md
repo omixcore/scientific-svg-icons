@@ -45,6 +45,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/plant-phenotyping/` | Plant experimental setups / 植物实验场景 |
 | `icons/biology/molecular-components/` | Molecular mechanism components / 分子机制组件 |
 | `icons/experiments/reporter-assays/` | Reporter and molecular assay illustrations / 报告基因与分子实验 |
+| `icons/experiments/plant-tissue-culture/` | Plant tissue culture / 植物组织培养 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -365,4 +366,21 @@ Editable conceptual examples; staining patterns, construct organization, and exp
 | Promoter GUS reporter construct / 启动子 GUS 报告载体元件 | Promoter LUC reporter construct / 启动子 LUC 报告载体元件 | qPCR fluorescence tubes / qPCR 荧光反应管 | Western blot strip / 蛋白免疫印迹条带 |
 | --- | --- | --- | --- |
 | [![Promoter GUS reporter construct](icons/experiments/reporter-assays/promoter-gus-reporter.svg)](icons/experiments/reporter-assays/promoter-gus-reporter.svg) | [![Promoter LUC reporter construct](icons/experiments/reporter-assays/promoter-luciferase-reporter.svg)](icons/experiments/reporter-assays/promoter-luciferase-reporter.svg) | [![qPCR fluorescence tubes](icons/experiments/reporter-assays/qpcr-fluorescence-tubes.svg)](icons/experiments/reporter-assays/qpcr-fluorescence-tubes.svg) | [![Western blot strip](icons/experiments/reporter-assays/western-blot-strip.svg)](icons/experiments/reporter-assays/western-blot-strip.svg) |
+
+
+## Plant tissue culture | 植物组织培养
+
+Editable conceptual components for plant tissue culture. Callus, shoot regeneration and rooting are schematic and do not establish transformation or experimental success. 可编辑植物组织培养示意素材；愈伤组织、芽再生和生根的图示不代表转化成功或实验结果。
+
+| Callus culture vessel / 愈伤组织培养瓶 | Callus on medium / 培养基上的愈伤组织 | Plant tissue culture vessel / 植物组织培养瓶 | Explant on medium / 培养基上的外植体 |
+| --- | --- | --- | --- |
+| [![Callus culture vessel](icons/experiments/plant-tissue-culture/callus-culture-vessel.svg)](icons/experiments/plant-tissue-culture/callus-culture-vessel.svg) | [![Callus on medium](icons/experiments/plant-tissue-culture/callus-on-medium.svg)](icons/experiments/plant-tissue-culture/callus-on-medium.svg) | [![Plant tissue culture vessel](icons/experiments/plant-tissue-culture/culture-vessel.svg)](icons/experiments/plant-tissue-culture/culture-vessel.svg) | [![Explant on medium](icons/experiments/plant-tissue-culture/explant-on-medium.svg)](icons/experiments/plant-tissue-culture/explant-on-medium.svg) |
+
+| Explant transfer with forceps / 镊子转移外植体 | Liquid culture medium flask / 液体培养基锥形瓶 | Maize immature embryo explant / 玉米幼胚外植体 | Plantlet acclimatization / 组培苗移栽驯化 |
+| --- | --- | --- | --- |
+| [![Explant transfer with forceps](icons/experiments/plant-tissue-culture/forceps-transfer-explant.svg)](icons/experiments/plant-tissue-culture/forceps-transfer-explant.svg) | [![Liquid culture medium flask](icons/experiments/plant-tissue-culture/liquid-medium-flask.svg)](icons/experiments/plant-tissue-culture/liquid-medium-flask.svg) | [![Maize immature embryo explant](icons/experiments/plant-tissue-culture/maize-immature-embryo-explant.svg)](icons/experiments/plant-tissue-culture/maize-immature-embryo-explant.svg) | [![Plantlet acclimatization](icons/experiments/plant-tissue-culture/plantlet-acclimatization.svg)](icons/experiments/plant-tissue-culture/plantlet-acclimatization.svg) |
+
+| Rooted plantlet in culture / 生根培养苗 | Seed surface sterilization / 种子表面消毒 | Shoot regeneration / 芽再生 | Stem segment explant / 茎段外植体 |
+| --- | --- | --- | --- |
+| [![Rooted plantlet in culture](icons/experiments/plant-tissue-culture/rooted-plantlet.svg)](icons/experiments/plant-tissue-culture/rooted-plantlet.svg) | [![Seed surface sterilization](icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg)](icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg) | [![Shoot regeneration](icons/experiments/plant-tissue-culture/shoot-regeneration.svg)](icons/experiments/plant-tissue-culture/shoot-regeneration.svg) | [![Stem segment explant](icons/experiments/plant-tissue-culture/stem-explant.svg)](icons/experiments/plant-tissue-culture/stem-explant.svg) |
 
