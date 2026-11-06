@@ -154,3 +154,57 @@ LAB-SUP-017,icons/experiments/lab-supplies/seed-envelope.svg,experiments/lab-sup
 LAB-SUP-018,icons/experiments/lab-supplies/serological-pipette.svg,experiments/lab-supplies,Serological pipette,血清移液管,original-project-artwork,AI-assisted,not-assigned,draft
 LAB-SUP-019,icons/experiments/lab-supplies/tube-rack.svg,experiments/lab-supplies,Microtube rack,离心管架,original-project-artwork,AI-assisted,not-assigned,draft
 LAB-SUP-020,icons/experiments/lab-supplies/wash-bottle.svg,experiments/lab-supplies,Wash bottle,洗瓶,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-001,icons/biology/plant-morphology/arabidopsis-rosette.svg,biology/plant-morphology,Arabidopsis rosette,拟南芥莲座叶,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-002,icons/biology/plant-morphology/cotton-boll.svg,biology/plant-morphology,Open cotton boll,吐絮棉铃,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-003,icons/biology/plant-morphology/foxtail-millet-panicle.svg,biology/plant-morphology,Foxtail millet panicle,谷子穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-004,icons/biology/plant-morphology/germinating-maize-kernel.svg,biology/plant-morphology,Germinating maize kernel,萌发玉米籽粒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-005,icons/biology/plant-morphology/lateral-root-emergence.svg,biology/plant-morphology,Lateral root emergence,侧根发生,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-006,icons/biology/plant-morphology/leaf-disc.svg,biology/plant-morphology,Leaf disc,叶圆片,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-007,icons/biology/plant-morphology/legume-root-nodules.svg,biology/plant-morphology,Legume root nodules,豆科植物根瘤,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-008,icons/biology/plant-morphology/maize-crown-root-system.svg,biology/plant-morphology,Maize crown root system,玉米冠根,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-009,icons/biology/plant-morphology/maize-ear.svg,biology/plant-morphology,Maize ear with exposed kernels,玉米果穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-010,icons/biology/plant-morphology/maize-ear-silk.svg,biology/plant-morphology,Maize ear silk,玉米花丝,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-011,icons/biology/plant-morphology/maize-kernel.svg,biology/plant-morphology,Maize kernel,玉米籽粒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-012,icons/biology/plant-morphology/maize-kernel-longitudinal-section.svg,biology/plant-morphology,Maize kernel longitudinal section,玉米籽粒纵切面,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-013,icons/biology/plant-morphology/maize-leaf-parallel-veins.svg,biology/plant-morphology,Maize leaf with parallel veins,玉米叶片平行叶脉,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-014,icons/biology/plant-morphology/maize-pollen-grain.svg,biology/plant-morphology,Maize pollen grain,玉米花粉粒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-015,icons/biology/plant-morphology/maize-tassel.svg,biology/plant-morphology,Maize tassel,玉米雄穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-016,icons/biology/plant-morphology/maize-whole-plant.svg,biology/plant-morphology,Maize plant,玉米植株,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-017,icons/biology/plant-morphology/potato-tuber.svg,biology/plant-morphology,Potato tuber,马铃薯块茎,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-018,icons/biology/plant-morphology/rice-panicle.svg,biology/plant-morphology,Rice panicle,水稻圆锥花序,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-019,icons/biology/plant-morphology/sorghum-panicle.svg,biology/plant-morphology,Sorghum panicle,高粱圆锥花序,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-020,icons/biology/plant-morphology/soybean-pod.svg,biology/plant-morphology,Soybean pod,大豆豆荚,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-021,icons/biology/plant-morphology/tomato-fruit.svg,biology/plant-morphology,Tomato fruit,番茄果实,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-022,icons/biology/plant-morphology/wheat-spike.svg,biology/plant-morphology,Wheat spike,小麦穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-001,icons/experiments/plant-phenotyping/foliar-spray.svg,experiments/plant-phenotyping,Foliar spraying,叶面喷施,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-002,icons/experiments/plant-phenotyping/germination-dish.svg,experiments/plant-phenotyping,Seed germination dish,培养皿种子萌发,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-003,icons/experiments/plant-phenotyping/hydroponic-plant.svg,experiments/plant-phenotyping,Hydroponic plant,水培植株,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-004,icons/experiments/plant-phenotyping/leaf-chlorophyll-meter.svg,experiments/plant-phenotyping,Leaf chlorophyll meter,叶片叶绿素仪,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-005,icons/experiments/plant-phenotyping/leaf-disc-punch.svg,experiments/plant-phenotyping,Leaf disc punch,叶片打孔器,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-006,icons/experiments/plant-phenotyping/leaf-gas-exchange-chamber.svg,experiments/plant-phenotyping,Leaf gas-exchange chamber,叶片气体交换叶室,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-007,icons/experiments/plant-phenotyping/plant-label.svg,experiments/plant-phenotyping,Plant label,植物标牌,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-008,icons/experiments/plant-phenotyping/plant-sample-bag.svg,experiments/plant-phenotyping,Plant sample bag,植物样品袋,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-009,icons/experiments/plant-phenotyping/potted-plant.svg,experiments/plant-phenotyping,Plant in pot,盆栽植株,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-010,icons/experiments/plant-phenotyping/root-imaging-tray.svg,experiments/plant-phenotyping,Root imaging tray,根系成像托盘,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-011,icons/experiments/plant-phenotyping/root-rinsing.svg,experiments/plant-phenotyping,Root rinsing,根系冲洗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-012,icons/experiments/plant-phenotyping/seedling-tray.svg,experiments/plant-phenotyping,Seedling tray,育苗盘,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-001,icons/biology/molecular-components/affinity-column.svg,biology/molecular-components,Affinity chromatography column,亲和层析柱,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-002,icons/biology/molecular-components/antibody-antigen-binding.svg,biology/molecular-components,Antibody and antigen binding,抗体与抗原结合,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-003,icons/biology/molecular-components/antibody-coated-bead.svg,biology/molecular-components,Antibody-coated bead,抗体偶联微珠,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-004,icons/biology/molecular-components/double-stranded-rna.svg,biology/molecular-components,Double-stranded RNA,双链 RNA,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-005,icons/biology/molecular-components/enzyme-substrate-binding.svg,biology/molecular-components,Enzyme and substrate binding,酶与底物结合,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-006,icons/biology/molecular-components/igg-antibody.svg,biology/molecular-components,IgG antibody,IgG 抗体,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-007,icons/biology/molecular-components/magnetic-bead.svg,biology/molecular-components,Magnetic bead,磁珠,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-008,icons/biology/molecular-components/messenger-rna.svg,biology/molecular-components,Messenger RNA,信使 RNA,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-009,icons/biology/molecular-components/nucleosome.svg,biology/molecular-components,Nucleosome,核小体,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-010,icons/biology/molecular-components/nucleosome-array.svg,biology/molecular-components,Nucleosome array,核小体阵列,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-011,icons/biology/molecular-components/plasmid-vector.svg,biology/molecular-components,Circular plasmid vector,环状质粒载体,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-012,icons/biology/molecular-components/polyubiquitin-chain.svg,biology/molecular-components,Polyubiquitin chain,多聚泛素链,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-013,icons/biology/molecular-components/protein-dimer.svg,biology/molecular-components,Protein dimer,蛋白质二聚体,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-014,icons/biology/molecular-components/protein-domain-architecture.svg,biology/molecular-components,Protein domain architecture,蛋白结构域示意,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-015,icons/biology/molecular-components/protein-trimer.svg,biology/molecular-components,Protein trimer,蛋白质三聚体,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-016,icons/biology/molecular-components/rna-hairpin.svg,biology/molecular-components,RNA hairpin,RNA 发夹结构,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-017,icons/biology/molecular-components/rna-polymerase-dna.svg,biology/molecular-components,RNA polymerase on DNA,DNA 上的 RNA 聚合酶,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-018,icons/biology/molecular-components/small-interfering-rna.svg,biology/molecular-components,Small interfering RNA duplex,小干扰 RNA 双链,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-019,icons/biology/molecular-components/transfer-rna.svg,biology/molecular-components,Transfer RNA,转运 RNA,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-020,icons/biology/molecular-components/ubiquitin-protein-tag.svg,biology/molecular-components,Ubiquitin tagged protein,泛素化蛋白,original-project-artwork,AI-assisted,not-assigned,draft

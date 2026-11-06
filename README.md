@@ -41,6 +41,9 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/` | Microscopy and laboratory equipment / 显微观察与实验室设备 |
 | `icons/diagrams/pathways/` | Pathway and interaction symbols / 通路与调控符号 |
 | `icons/diagrams/workflows/` | Experimental and bioinformatics workflows / 实验及生物信息学流程 |
+| `icons/biology/plant-morphology/` | Crop organs and morphology / 作物器官与形态 |
+| `icons/experiments/plant-phenotyping/` | Plant experimental setups / 植物实验场景 |
+| `icons/biology/molecular-components/` | Molecular mechanism components / 分子机制组件 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -273,4 +276,75 @@ Editable illustrations of common laboratory supplies and plant-sample handling e
 | Seed envelope / 种子纸袋 | Serological pipette / 血清移液管 | Microtube rack / 离心管架 | Wash bottle / 洗瓶 |
 | --- | --- | --- | --- |
 | [![Seed envelope](icons/experiments/lab-supplies/seed-envelope.svg)](icons/experiments/lab-supplies/seed-envelope.svg) | [![Serological pipette](icons/experiments/lab-supplies/serological-pipette.svg)](icons/experiments/lab-supplies/serological-pipette.svg) | [![Microtube rack](icons/experiments/lab-supplies/tube-rack.svg)](icons/experiments/lab-supplies/tube-rack.svg) | [![Wash bottle](icons/experiments/lab-supplies/wash-bottle.svg)](icons/experiments/lab-supplies/wash-bottle.svg) |
+
+
+## Plant morphology | 植物形态
+
+Editable conceptual illustrations; biological details and experimental interpretation should be checked for the specific species or assay. 可编辑示意素材；具体结构和实验含义应结合物种及实验核对。
+
+| Arabidopsis rosette / 拟南芥莲座叶 | Open cotton boll / 吐絮棉铃 | Foxtail millet panicle / 谷子穗 | Germinating maize kernel / 萌发玉米籽粒 |
+| --- | --- | --- | --- |
+| [![Arabidopsis rosette](icons/biology/plant-morphology/arabidopsis-rosette.svg)](icons/biology/plant-morphology/arabidopsis-rosette.svg) | [![Open cotton boll](icons/biology/plant-morphology/cotton-boll.svg)](icons/biology/plant-morphology/cotton-boll.svg) | [![Foxtail millet panicle](icons/biology/plant-morphology/foxtail-millet-panicle.svg)](icons/biology/plant-morphology/foxtail-millet-panicle.svg) | [![Germinating maize kernel](icons/biology/plant-morphology/germinating-maize-kernel.svg)](icons/biology/plant-morphology/germinating-maize-kernel.svg) |
+
+| Lateral root emergence / 侧根发生 | Leaf disc / 叶圆片 | Legume root nodules / 豆科植物根瘤 | Maize crown root system / 玉米冠根 |
+| --- | --- | --- | --- |
+| [![Lateral root emergence](icons/biology/plant-morphology/lateral-root-emergence.svg)](icons/biology/plant-morphology/lateral-root-emergence.svg) | [![Leaf disc](icons/biology/plant-morphology/leaf-disc.svg)](icons/biology/plant-morphology/leaf-disc.svg) | [![Legume root nodules](icons/biology/plant-morphology/legume-root-nodules.svg)](icons/biology/plant-morphology/legume-root-nodules.svg) | [![Maize crown root system](icons/biology/plant-morphology/maize-crown-root-system.svg)](icons/biology/plant-morphology/maize-crown-root-system.svg) |
+
+| Maize ear with exposed kernels / 玉米果穗 | Maize ear silk / 玉米花丝 | Maize kernel / 玉米籽粒 | Maize kernel longitudinal section / 玉米籽粒纵切面 |
+| --- | --- | --- | --- |
+| [![Maize ear with exposed kernels](icons/biology/plant-morphology/maize-ear.svg)](icons/biology/plant-morphology/maize-ear.svg) | [![Maize ear silk](icons/biology/plant-morphology/maize-ear-silk.svg)](icons/biology/plant-morphology/maize-ear-silk.svg) | [![Maize kernel](icons/biology/plant-morphology/maize-kernel.svg)](icons/biology/plant-morphology/maize-kernel.svg) | [![Maize kernel longitudinal section](icons/biology/plant-morphology/maize-kernel-longitudinal-section.svg)](icons/biology/plant-morphology/maize-kernel-longitudinal-section.svg) |
+
+| Maize leaf with parallel veins / 玉米叶片平行叶脉 | Maize pollen grain / 玉米花粉粒 | Maize tassel / 玉米雄穗 | Maize plant / 玉米植株 |
+| --- | --- | --- | --- |
+| [![Maize leaf with parallel veins](icons/biology/plant-morphology/maize-leaf-parallel-veins.svg)](icons/biology/plant-morphology/maize-leaf-parallel-veins.svg) | [![Maize pollen grain](icons/biology/plant-morphology/maize-pollen-grain.svg)](icons/biology/plant-morphology/maize-pollen-grain.svg) | [![Maize tassel](icons/biology/plant-morphology/maize-tassel.svg)](icons/biology/plant-morphology/maize-tassel.svg) | [![Maize plant](icons/biology/plant-morphology/maize-whole-plant.svg)](icons/biology/plant-morphology/maize-whole-plant.svg) |
+
+| Potato tuber / 马铃薯块茎 | Rice panicle / 水稻圆锥花序 | Sorghum panicle / 高粱圆锥花序 | Soybean pod / 大豆豆荚 |
+| --- | --- | --- | --- |
+| [![Potato tuber](icons/biology/plant-morphology/potato-tuber.svg)](icons/biology/plant-morphology/potato-tuber.svg) | [![Rice panicle](icons/biology/plant-morphology/rice-panicle.svg)](icons/biology/plant-morphology/rice-panicle.svg) | [![Sorghum panicle](icons/biology/plant-morphology/sorghum-panicle.svg)](icons/biology/plant-morphology/sorghum-panicle.svg) | [![Soybean pod](icons/biology/plant-morphology/soybean-pod.svg)](icons/biology/plant-morphology/soybean-pod.svg) |
+
+| Tomato fruit / 番茄果实 | Wheat spike / 小麦穗 |  |  |
+| --- | --- | --- | --- |
+| [![Tomato fruit](icons/biology/plant-morphology/tomato-fruit.svg)](icons/biology/plant-morphology/tomato-fruit.svg) | [![Wheat spike](icons/biology/plant-morphology/wheat-spike.svg)](icons/biology/plant-morphology/wheat-spike.svg) |  |  |
+
+
+## Plant phenotyping | 植物表型实验
+
+Editable conceptual illustrations; biological details and experimental interpretation should be checked for the specific species or assay. 可编辑示意素材；具体结构和实验含义应结合物种及实验核对。
+
+| Foliar spraying / 叶面喷施 | Seed germination dish / 培养皿种子萌发 | Hydroponic plant / 水培植株 | Leaf chlorophyll meter / 叶片叶绿素仪 |
+| --- | --- | --- | --- |
+| [![Foliar spraying](icons/experiments/plant-phenotyping/foliar-spray.svg)](icons/experiments/plant-phenotyping/foliar-spray.svg) | [![Seed germination dish](icons/experiments/plant-phenotyping/germination-dish.svg)](icons/experiments/plant-phenotyping/germination-dish.svg) | [![Hydroponic plant](icons/experiments/plant-phenotyping/hydroponic-plant.svg)](icons/experiments/plant-phenotyping/hydroponic-plant.svg) | [![Leaf chlorophyll meter](icons/experiments/plant-phenotyping/leaf-chlorophyll-meter.svg)](icons/experiments/plant-phenotyping/leaf-chlorophyll-meter.svg) |
+
+| Leaf disc punch / 叶片打孔器 | Leaf gas-exchange chamber / 叶片气体交换叶室 | Plant label / 植物标牌 | Plant sample bag / 植物样品袋 |
+| --- | --- | --- | --- |
+| [![Leaf disc punch](icons/experiments/plant-phenotyping/leaf-disc-punch.svg)](icons/experiments/plant-phenotyping/leaf-disc-punch.svg) | [![Leaf gas-exchange chamber](icons/experiments/plant-phenotyping/leaf-gas-exchange-chamber.svg)](icons/experiments/plant-phenotyping/leaf-gas-exchange-chamber.svg) | [![Plant label](icons/experiments/plant-phenotyping/plant-label.svg)](icons/experiments/plant-phenotyping/plant-label.svg) | [![Plant sample bag](icons/experiments/plant-phenotyping/plant-sample-bag.svg)](icons/experiments/plant-phenotyping/plant-sample-bag.svg) |
+
+| Plant in pot / 盆栽植株 | Root imaging tray / 根系成像托盘 | Root rinsing / 根系冲洗 | Seedling tray / 育苗盘 |
+| --- | --- | --- | --- |
+| [![Plant in pot](icons/experiments/plant-phenotyping/potted-plant.svg)](icons/experiments/plant-phenotyping/potted-plant.svg) | [![Root imaging tray](icons/experiments/plant-phenotyping/root-imaging-tray.svg)](icons/experiments/plant-phenotyping/root-imaging-tray.svg) | [![Root rinsing](icons/experiments/plant-phenotyping/root-rinsing.svg)](icons/experiments/plant-phenotyping/root-rinsing.svg) | [![Seedling tray](icons/experiments/plant-phenotyping/seedling-tray.svg)](icons/experiments/plant-phenotyping/seedling-tray.svg) |
+
+
+## Molecular components | 分子机制组件
+
+Editable conceptual illustrations; biological details and experimental interpretation should be checked for the specific species or assay. 可编辑示意素材；具体结构和实验含义应结合物种及实验核对。
+
+| Affinity chromatography column / 亲和层析柱 | Antibody and antigen binding / 抗体与抗原结合 | Antibody-coated bead / 抗体偶联微珠 | Double-stranded RNA / 双链 RNA |
+| --- | --- | --- | --- |
+| [![Affinity chromatography column](icons/biology/molecular-components/affinity-column.svg)](icons/biology/molecular-components/affinity-column.svg) | [![Antibody and antigen binding](icons/biology/molecular-components/antibody-antigen-binding.svg)](icons/biology/molecular-components/antibody-antigen-binding.svg) | [![Antibody-coated bead](icons/biology/molecular-components/antibody-coated-bead.svg)](icons/biology/molecular-components/antibody-coated-bead.svg) | [![Double-stranded RNA](icons/biology/molecular-components/double-stranded-rna.svg)](icons/biology/molecular-components/double-stranded-rna.svg) |
+
+| Enzyme and substrate binding / 酶与底物结合 | IgG antibody / IgG 抗体 | Magnetic bead / 磁珠 | Messenger RNA / 信使 RNA |
+| --- | --- | --- | --- |
+| [![Enzyme and substrate binding](icons/biology/molecular-components/enzyme-substrate-binding.svg)](icons/biology/molecular-components/enzyme-substrate-binding.svg) | [![IgG antibody](icons/biology/molecular-components/igg-antibody.svg)](icons/biology/molecular-components/igg-antibody.svg) | [![Magnetic bead](icons/biology/molecular-components/magnetic-bead.svg)](icons/biology/molecular-components/magnetic-bead.svg) | [![Messenger RNA](icons/biology/molecular-components/messenger-rna.svg)](icons/biology/molecular-components/messenger-rna.svg) |
+
+| Nucleosome / 核小体 | Nucleosome array / 核小体阵列 | Circular plasmid vector / 环状质粒载体 | Polyubiquitin chain / 多聚泛素链 |
+| --- | --- | --- | --- |
+| [![Nucleosome](icons/biology/molecular-components/nucleosome.svg)](icons/biology/molecular-components/nucleosome.svg) | [![Nucleosome array](icons/biology/molecular-components/nucleosome-array.svg)](icons/biology/molecular-components/nucleosome-array.svg) | [![Circular plasmid vector](icons/biology/molecular-components/plasmid-vector.svg)](icons/biology/molecular-components/plasmid-vector.svg) | [![Polyubiquitin chain](icons/biology/molecular-components/polyubiquitin-chain.svg)](icons/biology/molecular-components/polyubiquitin-chain.svg) |
+
+| Protein dimer / 蛋白质二聚体 | Protein domain architecture / 蛋白结构域示意 | Protein trimer / 蛋白质三聚体 | RNA hairpin / RNA 发夹结构 |
+| --- | --- | --- | --- |
+| [![Protein dimer](icons/biology/molecular-components/protein-dimer.svg)](icons/biology/molecular-components/protein-dimer.svg) | [![Protein domain architecture](icons/biology/molecular-components/protein-domain-architecture.svg)](icons/biology/molecular-components/protein-domain-architecture.svg) | [![Protein trimer](icons/biology/molecular-components/protein-trimer.svg)](icons/biology/molecular-components/protein-trimer.svg) | [![RNA hairpin](icons/biology/molecular-components/rna-hairpin.svg)](icons/biology/molecular-components/rna-hairpin.svg) |
+
+| RNA polymerase on DNA / DNA 上的 RNA 聚合酶 | Small interfering RNA duplex / 小干扰 RNA 双链 | Transfer RNA / 转运 RNA | Ubiquitin tagged protein / 泛素化蛋白 |
+| --- | --- | --- | --- |
+| [![RNA polymerase on DNA](icons/biology/molecular-components/rna-polymerase-dna.svg)](icons/biology/molecular-components/rna-polymerase-dna.svg) | [![Small interfering RNA duplex](icons/biology/molecular-components/small-interfering-rna.svg)](icons/biology/molecular-components/small-interfering-rna.svg) | [![Transfer RNA](icons/biology/molecular-components/transfer-rna.svg)](icons/biology/molecular-components/transfer-rna.svg) | [![Ubiquitin tagged protein](icons/biology/molecular-components/ubiquitin-protein-tag.svg)](icons/biology/molecular-components/ubiquitin-protein-tag.svg) |
 
