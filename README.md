@@ -50,6 +50,16 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/plant-physiology/` | Plant physiology and salt stress assays / 植物生理与盐胁迫实验 |
 | `icons/omics/transcriptomics/` | Transcriptomics and RNA sequencing / 转录组与 RNA 测序 |
 | `icons/omics/proteomics-workflow/` | Proteomics workflow components / 蛋白组学流程组件 |
+| `icons/biology/cell-processes/` | Cell processes / 细胞过程 |
+| `icons/biology/development-ecology/` | Development and ecology / 发育与生态 |
+| `icons/biology/nucleic-acid-operations/` | Nucleic acid operations / 核酸操作 |
+| `icons/biology/protein-mechanisms/` | Protein mechanisms / 蛋白分子机制 |
+| `icons/biology/transport-mechanisms/` | Transport mechanisms / 物质运输机制 |
+| `icons/experiments/field-research/` | Field research / 田间试验 |
+| `icons/experiments/research-apparatus/` | Research apparatus / 科研仪器 |
+| `icons/experiments/specimen-preparation/` | Specimen preparation / 样品制备 |
+| `icons/omics/metabolomics-workflow/` | Metabolomics workflow / 代谢组流程 |
+| `icons/omics/statistical-components/` | Statistical components / 统计分析组件 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -455,4 +465,151 @@ Editable conceptual components for protein preparation and mass spectrometry. Sp
 | Protein extraction tube / 蛋白质提取管 | Protein inference / 蛋白推断 | Protein quantification plate / 蛋白浓度测定板 | Tandem MS fragmentation / 串联质谱碎裂 |
 | --- | --- | --- | --- |
 | [![Protein extraction tube](icons/omics/proteomics-workflow/protein-extraction-tube.svg)](icons/omics/proteomics-workflow/protein-extraction-tube.svg) | [![Protein inference](icons/omics/proteomics-workflow/protein-inference.svg)](icons/omics/proteomics-workflow/protein-inference.svg) | [![Protein quantification plate](icons/omics/proteomics-workflow/protein-quantification-plate.svg)](icons/omics/proteomics-workflow/protein-quantification-plate.svg) | [![Tandem MS fragmentation](icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg)](icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg) |
+
+
+## Batch of 120 additions | 本批新增 120 个
+
+This batch adds 120 editable conceptual assets across ten categories. Total repository SVG count after this batch: **400**. 本批新增 120 个可编辑示意素材，分为十类；本批完成后仓库共有 **400 个 SVG**。
+
+Shapes, arrows and example data are schematic. Adapt biological relationships, instrument details and measurements to the experiment. 图形、箭头和示例数据为示意；生物学关系、仪器细节和测量需按实际实验调整。
+
+### Cell processes | 细胞过程
+
+| Autophagic sequestration / 自噬包裹 | Cell division plane / 细胞分裂平面 | Cell turgor / 细胞膨压 | Cytoplasmic streaming / 细胞质流动 |
+| --- | --- | --- | --- |
+| [![Autophagic sequestration](icons/biology/cell-processes/autophagic-sequestration.svg)](icons/biology/cell-processes/autophagic-sequestration.svg) | [![Cell division plane](icons/biology/cell-processes/cell-division-plane.svg)](icons/biology/cell-processes/cell-division-plane.svg) | [![Cell turgor](icons/biology/cell-processes/cell-turgor.svg)](icons/biology/cell-processes/cell-turgor.svg) | [![Cytoplasmic streaming](icons/biology/cell-processes/cytoplasmic-streaming.svg)](icons/biology/cell-processes/cytoplasmic-streaming.svg) |
+
+| Endocytosis / 内吞作用 | Exocytosis / 胞吐作用 | Nuclear export / 核输出 | Nuclear import / 核输入 |
+| --- | --- | --- | --- |
+| [![Endocytosis](icons/biology/cell-processes/endocytosis.svg)](icons/biology/cell-processes/endocytosis.svg) | [![Exocytosis](icons/biology/cell-processes/exocytosis.svg)](icons/biology/cell-processes/exocytosis.svg) | [![Nuclear export](icons/biology/cell-processes/nuclear-export.svg)](icons/biology/cell-processes/nuclear-export.svg) | [![Nuclear import](icons/biology/cell-processes/nuclear-import.svg)](icons/biology/cell-processes/nuclear-import.svg) |
+
+| Organelle contact site / 细胞器接触位点 | Plasmolysis / 质壁分离 | Vacuolar sequestration / 液泡区隔化 | Vesicle fusion / 囊泡融合 |
+| --- | --- | --- | --- |
+| [![Organelle contact site](icons/biology/cell-processes/organelle-contact-site.svg)](icons/biology/cell-processes/organelle-contact-site.svg) | [![Plasmolysis](icons/biology/cell-processes/plasmolysis.svg)](icons/biology/cell-processes/plasmolysis.svg) | [![Vacuolar sequestration](icons/biology/cell-processes/vacuolar-sequestration.svg)](icons/biology/cell-processes/vacuolar-sequestration.svg) | [![Vesicle fusion](icons/biology/cell-processes/vesicle-fusion.svg)](icons/biology/cell-processes/vesicle-fusion.svg) |
+
+### Development and ecology | 发育与生态
+
+| Fruit development / 果实发育 | Plant graft union / 植物嫁接接口 | Mycorrhizal association / 菌根互作 | Pollen tube growth / 花粉管伸长 |
+| --- | --- | --- | --- |
+| [![Fruit development](icons/biology/development-ecology/fruit-development.svg)](icons/biology/development-ecology/fruit-development.svg) | [![Plant graft union](icons/biology/development-ecology/graft-union.svg)](icons/biology/development-ecology/graft-union.svg) | [![Mycorrhizal association](icons/biology/development-ecology/mycorrhizal-association.svg)](icons/biology/development-ecology/mycorrhizal-association.svg) | [![Pollen tube growth](icons/biology/development-ecology/pollen-tube-growth.svg)](icons/biology/development-ecology/pollen-tube-growth.svg) |
+
+| Root exudation / 根系分泌 | Root gravitropism / 根向重力性 | Root nodule section / 根瘤切面 | Root surface biofilm / 根表生物膜 |
+| --- | --- | --- | --- |
+| [![Root exudation](icons/biology/development-ecology/root-exudation.svg)](icons/biology/development-ecology/root-exudation.svg) | [![Root gravitropism](icons/biology/development-ecology/root-gravitropism.svg)](icons/biology/development-ecology/root-gravitropism.svg) | [![Root nodule section](icons/biology/development-ecology/root-nodule-section.svg)](icons/biology/development-ecology/root-nodule-section.svg) | [![Root surface biofilm](icons/biology/development-ecology/root-surface-biofilm.svg)](icons/biology/development-ecology/root-surface-biofilm.svg) |
+
+| Seed dispersal / 种子传播 | Seed dormancy / 种子休眠 | Seedling growth comparison / 幼苗生长比较 | Shoot phototropism / 茎向光性 |
+| --- | --- | --- | --- |
+| [![Seed dispersal](icons/biology/development-ecology/seed-dispersal.svg)](icons/biology/development-ecology/seed-dispersal.svg) | [![Seed dormancy](icons/biology/development-ecology/seed-dormancy.svg)](icons/biology/development-ecology/seed-dormancy.svg) | [![Seedling growth comparison](icons/biology/development-ecology/seedling-growth-comparison.svg)](icons/biology/development-ecology/seedling-growth-comparison.svg) | [![Shoot phototropism](icons/biology/development-ecology/shoot-phototropism.svg)](icons/biology/development-ecology/shoot-phototropism.svg) |
+
+### Nucleic acid operations | 核酸操作
+
+| Base editing concept / 碱基编辑示意 | DNA double strand break / DNA 双链断裂 | DNA end joining / DNA 末端连接 | DNA band excision / DNA 条带切胶 |
+| --- | --- | --- | --- |
+| [![Base editing concept](icons/biology/nucleic-acid-operations/base-editing-concept.svg)](icons/biology/nucleic-acid-operations/base-editing-concept.svg) | [![DNA double strand break](icons/biology/nucleic-acid-operations/dna-double-strand-break.svg)](icons/biology/nucleic-acid-operations/dna-double-strand-break.svg) | [![DNA end joining](icons/biology/nucleic-acid-operations/dna-end-joining.svg)](icons/biology/nucleic-acid-operations/dna-end-joining.svg) | [![DNA band excision](icons/biology/nucleic-acid-operations/dna-gel-excision.svg)](icons/biology/nucleic-acid-operations/dna-gel-excision.svg) |
+
+| DNA ligation / DNA 连接 | DNA methylation / DNA 甲基化 | DNA pull down / DNA pull-down | Fluorescent DNA probe / 荧光 DNA 探针 |
+| --- | --- | --- | --- |
+| [![DNA ligation](icons/biology/nucleic-acid-operations/dna-ligation.svg)](icons/biology/nucleic-acid-operations/dna-ligation.svg) | [![DNA methylation](icons/biology/nucleic-acid-operations/dna-methylation.svg)](icons/biology/nucleic-acid-operations/dna-methylation.svg) | [![DNA pull down](icons/biology/nucleic-acid-operations/dna-pulldown.svg)](icons/biology/nucleic-acid-operations/dna-pulldown.svg) | [![Fluorescent DNA probe](icons/biology/nucleic-acid-operations/fluorescent-dna-probe.svg)](icons/biology/nucleic-acid-operations/fluorescent-dna-probe.svg) |
+
+| Homology directed repair / 同源定向修复 | PCR primer pair / PCR 引物对 | Restriction digest / 限制性内切酶酶切 | RNA interference concept / RNA 干扰示意 |
+| --- | --- | --- | --- |
+| [![Homology directed repair](icons/biology/nucleic-acid-operations/homology-directed-repair.svg)](icons/biology/nucleic-acid-operations/homology-directed-repair.svg) | [![PCR primer pair](icons/biology/nucleic-acid-operations/pcr-primer-pair.svg)](icons/biology/nucleic-acid-operations/pcr-primer-pair.svg) | [![Restriction digest](icons/biology/nucleic-acid-operations/restriction-digest.svg)](icons/biology/nucleic-acid-operations/restriction-digest.svg) | [![RNA interference concept](icons/biology/nucleic-acid-operations/rna-interference-concept.svg)](icons/biology/nucleic-acid-operations/rna-interference-concept.svg) |
+
+### Protein mechanisms | 蛋白分子机制
+
+| Allosteric regulation / 变构调节 | Biomolecular condensate / 生物分子凝聚体 | Cofactor binding / 辅因子结合 | Competitive inhibition / 竞争性抑制 |
+| --- | --- | --- | --- |
+| [![Allosteric regulation](icons/biology/protein-mechanisms/allosteric-regulation.svg)](icons/biology/protein-mechanisms/allosteric-regulation.svg) | [![Biomolecular condensate](icons/biology/protein-mechanisms/biomolecular-condensate.svg)](icons/biology/protein-mechanisms/biomolecular-condensate.svg) | [![Cofactor binding](icons/biology/protein-mechanisms/cofactor-binding.svg)](icons/biology/protein-mechanisms/cofactor-binding.svg) | [![Competitive inhibition](icons/biology/protein-mechanisms/competitive-inhibition.svg)](icons/biology/protein-mechanisms/competitive-inhibition.svg) |
+
+| Disulfide bond / 二硫键 | Enzyme turnover / 酶催化周转 | Protein aggregation / 蛋白聚集 | Protein complex dissociation / 蛋白复合体解离 |
+| --- | --- | --- | --- |
+| [![Disulfide bond](icons/biology/protein-mechanisms/disulfide-bond.svg)](icons/biology/protein-mechanisms/disulfide-bond.svg) | [![Enzyme turnover](icons/biology/protein-mechanisms/enzyme-turnover.svg)](icons/biology/protein-mechanisms/enzyme-turnover.svg) | [![Protein aggregation](icons/biology/protein-mechanisms/protein-aggregation.svg)](icons/biology/protein-mechanisms/protein-aggregation.svg) | [![Protein complex dissociation](icons/biology/protein-mechanisms/protein-complex-dissociation.svg)](icons/biology/protein-mechanisms/protein-complex-dissociation.svg) |
+
+| Protein glycosylation / 蛋白糖基化 | Protein unfolding / 蛋白展开 | Proteolytic activation / 蛋白水解激活 | Scaffold mediated assembly / 支架蛋白介导组装 |
+| --- | --- | --- | --- |
+| [![Protein glycosylation](icons/biology/protein-mechanisms/protein-glycosylation.svg)](icons/biology/protein-mechanisms/protein-glycosylation.svg) | [![Protein unfolding](icons/biology/protein-mechanisms/protein-unfolding.svg)](icons/biology/protein-mechanisms/protein-unfolding.svg) | [![Proteolytic activation](icons/biology/protein-mechanisms/proteolytic-activation.svg)](icons/biology/protein-mechanisms/proteolytic-activation.svg) | [![Scaffold mediated assembly](icons/biology/protein-mechanisms/scaffold-protein-assembly.svg)](icons/biology/protein-mechanisms/scaffold-protein-assembly.svg) |
+
+### Transport mechanisms | 物质运输机制
+
+| Antiport / 反向交换运输 | Apoplastic transport pathway / 质外体运输途径 | Aquaporin mediated water transport / 水通道蛋白介导水运输 | Facilitated diffusion / 易化扩散 |
+| --- | --- | --- | --- |
+| [![Antiport](icons/biology/transport-mechanisms/antiport.svg)](icons/biology/transport-mechanisms/antiport.svg) | [![Apoplastic transport pathway](icons/biology/transport-mechanisms/apoplastic-pathway.svg)](icons/biology/transport-mechanisms/apoplastic-pathway.svg) | [![Aquaporin mediated water transport](icons/biology/transport-mechanisms/aquaporin-concept.svg)](icons/biology/transport-mechanisms/aquaporin-concept.svg) | [![Facilitated diffusion](icons/biology/transport-mechanisms/facilitated-diffusion.svg)](icons/biology/transport-mechanisms/facilitated-diffusion.svg) |
+
+| Phloem loading / 韧皮部装载 | Primary active transport / 初级主动运输 | Proton gradient / 质子梯度 | Simple diffusion / 简单扩散 |
+| --- | --- | --- | --- |
+| [![Phloem loading](icons/biology/transport-mechanisms/phloem-loading.svg)](icons/biology/transport-mechanisms/phloem-loading.svg) | [![Primary active transport](icons/biology/transport-mechanisms/primary-active-transport.svg)](icons/biology/transport-mechanisms/primary-active-transport.svg) | [![Proton gradient](icons/biology/transport-mechanisms/proton-gradient.svg)](icons/biology/transport-mechanisms/proton-gradient.svg) | [![Simple diffusion](icons/biology/transport-mechanisms/simple-diffusion.svg)](icons/biology/transport-mechanisms/simple-diffusion.svg) |
+
+| Stomatal gas diffusion / 气孔气体扩散 | Symplastic transport pathway / 共质体运输途径 | Symport / 同向协同运输 | Xylem bulk flow / 木质部集流 |
+| --- | --- | --- | --- |
+| [![Stomatal gas diffusion](icons/biology/transport-mechanisms/stomatal-gas-diffusion.svg)](icons/biology/transport-mechanisms/stomatal-gas-diffusion.svg) | [![Symplastic transport pathway](icons/biology/transport-mechanisms/symplastic-pathway.svg)](icons/biology/transport-mechanisms/symplastic-pathway.svg) | [![Symport](icons/biology/transport-mechanisms/symport.svg)](icons/biology/transport-mechanisms/symport.svg) | [![Xylem bulk flow](icons/biology/transport-mechanisms/xylem-bulk-flow.svg)](icons/biology/transport-mechanisms/xylem-bulk-flow.svg) |
+
+### Field research | 田间试验
+
+| Drip irrigation / 滴灌 | Harvested shoot bundle / 收获植株束 | Field sample flag / 田间取样标旗 | Field trial plots / 田间试验小区 |
+| --- | --- | --- | --- |
+| [![Drip irrigation](icons/experiments/field-research/drip-irrigation.svg)](icons/experiments/field-research/drip-irrigation.svg) | [![Harvested shoot bundle](icons/experiments/field-research/field-harvest-bundle.svg)](icons/experiments/field-research/field-harvest-bundle.svg) | [![Field sample flag](icons/experiments/field-research/field-sample-flag.svg)](icons/experiments/field-research/field-sample-flag.svg) | [![Field trial plots](icons/experiments/field-research/field-trial-plots.svg)](icons/experiments/field-research/field-trial-plots.svg) |
+
+| Leaf temperature sensor / 叶温测量 | Manual pollination / 人工授粉 | Minirhizotron tube / 微根管 | Pollination bag / 授粉袋 |
+| --- | --- | --- | --- |
+| [![Leaf temperature sensor](icons/experiments/field-research/leaf-temperature-sensor.svg)](icons/experiments/field-research/leaf-temperature-sensor.svg) | [![Manual pollination](icons/experiments/field-research/manual-pollination.svg)](icons/experiments/field-research/manual-pollination.svg) | [![Minirhizotron tube](icons/experiments/field-research/minirhizotron-tube.svg)](icons/experiments/field-research/minirhizotron-tube.svg) | [![Pollination bag](icons/experiments/field-research/pollination-bag.svg)](icons/experiments/field-research/pollination-bag.svg) |
+
+| Rainout shelter / 避雨棚 | Root observation box / 根系观察箱 | Soil core sampling / 土芯取样 | Soil moisture probe / 土壤水分探头 |
+| --- | --- | --- | --- |
+| [![Rainout shelter](icons/experiments/field-research/rainout-shelter.svg)](icons/experiments/field-research/rainout-shelter.svg) | [![Root observation box](icons/experiments/field-research/root-observation-box.svg)](icons/experiments/field-research/root-observation-box.svg) | [![Soil core sampling](icons/experiments/field-research/soil-core-sampling.svg)](icons/experiments/field-research/soil-core-sampling.svg) | [![Soil moisture probe](icons/experiments/field-research/soil-moisture-probe.svg)](icons/experiments/field-research/soil-moisture-probe.svg) |
+
+### Research apparatus | 科研仪器
+
+| Conductivity meter / 电导率仪 | Optical cuvette / 比色皿 | Laboratory desiccator / 干燥器 | Dry block heater / 干式恒温器 |
+| --- | --- | --- | --- |
+| [![Conductivity meter](icons/experiments/research-apparatus/conductivity-meter.svg)](icons/experiments/research-apparatus/conductivity-meter.svg) | [![Optical cuvette](icons/experiments/research-apparatus/cuvette.svg)](icons/experiments/research-apparatus/cuvette.svg) | [![Laboratory desiccator](icons/experiments/research-apparatus/desiccator.svg)](icons/experiments/research-apparatus/desiccator.svg) | [![Dry block heater](icons/experiments/research-apparatus/dry-block-heater.svg)](icons/experiments/research-apparatus/dry-block-heater.svg) |
+
+| Microplate reader / 酶标仪 | Orbital shaker / 轨道摇床 | Peristaltic pump / 蠕动泵 | pH meter / pH 计 |
+| --- | --- | --- | --- |
+| [![Microplate reader](icons/experiments/research-apparatus/microplate-reader.svg)](icons/experiments/research-apparatus/microplate-reader.svg) | [![Orbital shaker](icons/experiments/research-apparatus/orbital-shaker.svg)](icons/experiments/research-apparatus/orbital-shaker.svg) | [![Peristaltic pump](icons/experiments/research-apparatus/peristaltic-pump.svg)](icons/experiments/research-apparatus/peristaltic-pump.svg) | [![pH meter](icons/experiments/research-apparatus/ph-meter.svg)](icons/experiments/research-apparatus/ph-meter.svg) |
+
+| Spectrophotometer / 分光光度计 | Vacuum manifold / 真空抽滤装置 | Vacuum pump / 真空泵 | Laboratory water bath / 恒温水浴锅 |
+| --- | --- | --- | --- |
+| [![Spectrophotometer](icons/experiments/research-apparatus/spectrophotometer.svg)](icons/experiments/research-apparatus/spectrophotometer.svg) | [![Vacuum manifold](icons/experiments/research-apparatus/vacuum-manifold.svg)](icons/experiments/research-apparatus/vacuum-manifold.svg) | [![Vacuum pump](icons/experiments/research-apparatus/vacuum-pump.svg)](icons/experiments/research-apparatus/vacuum-pump.svg) | [![Laboratory water bath](icons/experiments/research-apparatus/water-bath.svg)](icons/experiments/research-apparatus/water-bath.svg) |
+
+### Specimen preparation | 样品制备
+
+| Biological replicates / 生物学重复 | Ice bucket / 冰桶 | Leaf blade segment / 叶片截段 | Pooled tissue sample / 混合组织样品 |
+| --- | --- | --- | --- |
+| [![Biological replicates](icons/experiments/specimen-preparation/biological-replicates.svg)](icons/experiments/specimen-preparation/biological-replicates.svg) | [![Ice bucket](icons/experiments/specimen-preparation/ice-bucket.svg)](icons/experiments/specimen-preparation/ice-bucket.svg) | [![Leaf blade segment](icons/experiments/specimen-preparation/leaf-blade-segment.svg)](icons/experiments/specimen-preparation/leaf-blade-segment.svg) | [![Pooled tissue sample](icons/experiments/specimen-preparation/pooled-tissue-sample.svg)](icons/experiments/specimen-preparation/pooled-tissue-sample.svg) |
+
+| Root segment sample / 根段样品 | Sample barcode label / 样品条码标签 | Cryogenic sample box / 冻存样品盒 | Randomized sample allocation / 样品随机分配 |
+| --- | --- | --- | --- |
+| [![Root segment sample](icons/experiments/specimen-preparation/root-segment-sample.svg)](icons/experiments/specimen-preparation/root-segment-sample.svg) | [![Sample barcode label](icons/experiments/specimen-preparation/sample-barcode-label.svg)](icons/experiments/specimen-preparation/sample-barcode-label.svg) | [![Cryogenic sample box](icons/experiments/specimen-preparation/sample-cryobox.svg)](icons/experiments/specimen-preparation/sample-cryobox.svg) | [![Randomized sample allocation](icons/experiments/specimen-preparation/sample-randomization.svg)](icons/experiments/specimen-preparation/sample-randomization.svg) |
+
+| Seed counting tray / 种子计数盘 | Soil sample bag / 土壤样品袋 | Soil sieve / 土壤筛 | Stem transverse slice / 茎横切片 |
+| --- | --- | --- | --- |
+| [![Seed counting tray](icons/experiments/specimen-preparation/seed-counting-tray.svg)](icons/experiments/specimen-preparation/seed-counting-tray.svg) | [![Soil sample bag](icons/experiments/specimen-preparation/soil-sample-bag.svg)](icons/experiments/specimen-preparation/soil-sample-bag.svg) | [![Soil sieve](icons/experiments/specimen-preparation/soil-sieve.svg)](icons/experiments/specimen-preparation/soil-sieve.svg) | [![Stem transverse slice](icons/experiments/specimen-preparation/stem-transverse-slice.svg)](icons/experiments/specimen-preparation/stem-transverse-slice.svg) |
+
+### Metabolomics workflow | 代谢组流程
+
+| Autosampler vial / 自动进样瓶 | Chromatographic gradient / 色谱梯度 | Extracted ion chromatogram / 提取离子流色谱图 | Metabolite annotation / 代谢物注释 |
+| --- | --- | --- | --- |
+| [![Autosampler vial](icons/omics/metabolomics-workflow/autosampler-vial.svg)](icons/omics/metabolomics-workflow/autosampler-vial.svg) | [![Chromatographic gradient](icons/omics/metabolomics-workflow/chromatographic-gradient.svg)](icons/omics/metabolomics-workflow/chromatographic-gradient.svg) | [![Extracted ion chromatogram](icons/omics/metabolomics-workflow/extracted-ion-chromatogram.svg)](icons/omics/metabolomics-workflow/extracted-ion-chromatogram.svg) | [![Metabolite annotation](icons/omics/metabolomics-workflow/metabolite-annotation.svg)](icons/omics/metabolomics-workflow/metabolite-annotation.svg) |
+
+| Metabolite feature matrix / 代谢特征矩阵 | Sample drying under gas / 气流吹干样品 | Liquid phase partitioning / 液液分相 | Sample filtration / 样品过滤 |
+| --- | --- | --- | --- |
+| [![Metabolite feature matrix](icons/omics/metabolomics-workflow/metabolite-feature-matrix.svg)](icons/omics/metabolomics-workflow/metabolite-feature-matrix.svg) | [![Sample drying under gas](icons/omics/metabolomics-workflow/nitrogen-sample-drying.svg)](icons/omics/metabolomics-workflow/nitrogen-sample-drying.svg) | [![Liquid phase partitioning](icons/omics/metabolomics-workflow/phase-partitioning.svg)](icons/omics/metabolomics-workflow/phase-partitioning.svg) | [![Sample filtration](icons/omics/metabolomics-workflow/sample-filtration.svg)](icons/omics/metabolomics-workflow/sample-filtration.svg) |
+
+| Sample reconstitution / 样品复溶 | Tissue homogenization / 组织匀浆 | Ultrasonic bath / 超声水浴 | Vortex mixing / 涡旋混匀 |
+| --- | --- | --- | --- |
+| [![Sample reconstitution](icons/omics/metabolomics-workflow/sample-reconstitution.svg)](icons/omics/metabolomics-workflow/sample-reconstitution.svg) | [![Tissue homogenization](icons/omics/metabolomics-workflow/tissue-homogenization.svg)](icons/omics/metabolomics-workflow/tissue-homogenization.svg) | [![Ultrasonic bath](icons/omics/metabolomics-workflow/ultrasonic-bath.svg)](icons/omics/metabolomics-workflow/ultrasonic-bath.svg) | [![Vortex mixing](icons/omics/metabolomics-workflow/vortex-mixing.svg)](icons/omics/metabolomics-workflow/vortex-mixing.svg) |
+
+### Statistical components | 统计分析组件
+
+| Box plot / 箱线图 | Correlation scatter plot / 相关散点图 | Density distribution / 密度分布图 | Effect size interval / 效应量区间 |
+| --- | --- | --- | --- |
+| [![Box plot](icons/omics/statistical-components/box-plot-concept.svg)](icons/omics/statistical-components/box-plot-concept.svg) | [![Correlation scatter plot](icons/omics/statistical-components/correlation-scatter.svg)](icons/omics/statistical-components/correlation-scatter.svg) | [![Density distribution](icons/omics/statistical-components/density-distribution.svg)](icons/omics/statistical-components/density-distribution.svg) | [![Effect size interval](icons/omics/statistical-components/effect-size-interval.svg)](icons/omics/statistical-components/effect-size-interval.svg) |
+
+| Cumulative distribution / 累积分布图 | Enrichment dot plot / 富集气泡图 | Forest plot / 森林图 | Hierarchical dendrogram / 层次聚类树 |
+| --- | --- | --- | --- |
+| [![Cumulative distribution](icons/omics/statistical-components/empirical-cumulative-distribution.svg)](icons/omics/statistical-components/empirical-cumulative-distribution.svg) | [![Enrichment dot plot](icons/omics/statistical-components/enrichment-dot-plot.svg)](icons/omics/statistical-components/enrichment-dot-plot.svg) | [![Forest plot](icons/omics/statistical-components/forest-plot-concept.svg)](icons/omics/statistical-components/forest-plot-concept.svg) | [![Hierarchical dendrogram](icons/omics/statistical-components/hierarchical-dendrogram.svg)](icons/omics/statistical-components/hierarchical-dendrogram.svg) |
+
+| Missing data pattern / 缺失数据分布 | Phylogenetic tree / 系统发育树 | Set intersection / 集合交集 | Violin plot / 小提琴图 |
+| --- | --- | --- | --- |
+| [![Missing data pattern](icons/omics/statistical-components/missing-data-pattern.svg)](icons/omics/statistical-components/missing-data-pattern.svg) | [![Phylogenetic tree](icons/omics/statistical-components/phylogenetic-tree-concept.svg)](icons/omics/statistical-components/phylogenetic-tree-concept.svg) | [![Set intersection](icons/omics/statistical-components/set-intersection-venn.svg)](icons/omics/statistical-components/set-intersection-venn.svg) | [![Violin plot](icons/omics/statistical-components/violin-plot-concept.svg)](icons/omics/statistical-components/violin-plot-concept.svg) |
 

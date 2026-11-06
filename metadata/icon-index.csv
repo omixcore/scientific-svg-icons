@@ -279,3 +279,123 @@ PRO-WFL-009,icons/omics/proteomics-workflow/protein-extraction-tube.svg,omics/pr
 PRO-WFL-010,icons/omics/proteomics-workflow/protein-inference.svg,omics/proteomics-workflow,Protein inference,蛋白推断,original-project-artwork,AI-assisted,not-assigned,draft
 PRO-WFL-011,icons/omics/proteomics-workflow/protein-quantification-plate.svg,omics/proteomics-workflow,Protein quantification plate,蛋白浓度测定板,original-project-artwork,AI-assisted,not-assigned,draft
 PRO-WFL-012,icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg,omics/proteomics-workflow,Tandem MS fragmentation,串联质谱碎裂,original-project-artwork,AI-assisted,not-assigned,draft
+B120-001,icons/biology/cell-processes/autophagic-sequestration.svg,biology/cell-processes,Autophagic sequestration,自噬包裹,original-project-artwork,AI-assisted,not-assigned,draft
+B120-002,icons/biology/cell-processes/cell-division-plane.svg,biology/cell-processes,Cell division plane,细胞分裂平面,original-project-artwork,AI-assisted,not-assigned,draft
+B120-003,icons/biology/cell-processes/cell-turgor.svg,biology/cell-processes,Cell turgor,细胞膨压,original-project-artwork,AI-assisted,not-assigned,draft
+B120-004,icons/biology/cell-processes/cytoplasmic-streaming.svg,biology/cell-processes,Cytoplasmic streaming,细胞质流动,original-project-artwork,AI-assisted,not-assigned,draft
+B120-005,icons/biology/cell-processes/endocytosis.svg,biology/cell-processes,Endocytosis,内吞作用,original-project-artwork,AI-assisted,not-assigned,draft
+B120-006,icons/biology/cell-processes/exocytosis.svg,biology/cell-processes,Exocytosis,胞吐作用,original-project-artwork,AI-assisted,not-assigned,draft
+B120-007,icons/biology/cell-processes/nuclear-export.svg,biology/cell-processes,Nuclear export,核输出,original-project-artwork,AI-assisted,not-assigned,draft
+B120-008,icons/biology/cell-processes/nuclear-import.svg,biology/cell-processes,Nuclear import,核输入,original-project-artwork,AI-assisted,not-assigned,draft
+B120-009,icons/biology/cell-processes/organelle-contact-site.svg,biology/cell-processes,Organelle contact site,细胞器接触位点,original-project-artwork,AI-assisted,not-assigned,draft
+B120-010,icons/biology/cell-processes/plasmolysis.svg,biology/cell-processes,Plasmolysis,质壁分离,original-project-artwork,AI-assisted,not-assigned,draft
+B120-011,icons/biology/cell-processes/vacuolar-sequestration.svg,biology/cell-processes,Vacuolar sequestration,液泡区隔化,original-project-artwork,AI-assisted,not-assigned,draft
+B120-012,icons/biology/cell-processes/vesicle-fusion.svg,biology/cell-processes,Vesicle fusion,囊泡融合,original-project-artwork,AI-assisted,not-assigned,draft
+B120-013,icons/biology/development-ecology/fruit-development.svg,biology/development-ecology,Fruit development,果实发育,original-project-artwork,AI-assisted,not-assigned,draft
+B120-014,icons/biology/development-ecology/graft-union.svg,biology/development-ecology,Plant graft union,植物嫁接接口,original-project-artwork,AI-assisted,not-assigned,draft
+B120-015,icons/biology/development-ecology/mycorrhizal-association.svg,biology/development-ecology,Mycorrhizal association,菌根互作,original-project-artwork,AI-assisted,not-assigned,draft
+B120-016,icons/biology/development-ecology/pollen-tube-growth.svg,biology/development-ecology,Pollen tube growth,花粉管伸长,original-project-artwork,AI-assisted,not-assigned,draft
+B120-017,icons/biology/development-ecology/root-exudation.svg,biology/development-ecology,Root exudation,根系分泌,original-project-artwork,AI-assisted,not-assigned,draft
+B120-018,icons/biology/development-ecology/root-gravitropism.svg,biology/development-ecology,Root gravitropism,根向重力性,original-project-artwork,AI-assisted,not-assigned,draft
+B120-019,icons/biology/development-ecology/root-nodule-section.svg,biology/development-ecology,Root nodule section,根瘤切面,original-project-artwork,AI-assisted,not-assigned,draft
+B120-020,icons/biology/development-ecology/root-surface-biofilm.svg,biology/development-ecology,Root surface biofilm,根表生物膜,original-project-artwork,AI-assisted,not-assigned,draft
+B120-021,icons/biology/development-ecology/seed-dispersal.svg,biology/development-ecology,Seed dispersal,种子传播,original-project-artwork,AI-assisted,not-assigned,draft
+B120-022,icons/biology/development-ecology/seed-dormancy.svg,biology/development-ecology,Seed dormancy,种子休眠,original-project-artwork,AI-assisted,not-assigned,draft
+B120-023,icons/biology/development-ecology/seedling-growth-comparison.svg,biology/development-ecology,Seedling growth comparison,幼苗生长比较,original-project-artwork,AI-assisted,not-assigned,draft
+B120-024,icons/biology/development-ecology/shoot-phototropism.svg,biology/development-ecology,Shoot phototropism,茎向光性,original-project-artwork,AI-assisted,not-assigned,draft
+B120-025,icons/biology/nucleic-acid-operations/base-editing-concept.svg,biology/nucleic-acid-operations,Base editing concept,碱基编辑示意,original-project-artwork,AI-assisted,not-assigned,draft
+B120-026,icons/biology/nucleic-acid-operations/dna-double-strand-break.svg,biology/nucleic-acid-operations,DNA double strand break,DNA 双链断裂,original-project-artwork,AI-assisted,not-assigned,draft
+B120-027,icons/biology/nucleic-acid-operations/dna-end-joining.svg,biology/nucleic-acid-operations,DNA end joining,DNA 末端连接,original-project-artwork,AI-assisted,not-assigned,draft
+B120-028,icons/biology/nucleic-acid-operations/dna-gel-excision.svg,biology/nucleic-acid-operations,DNA band excision,DNA 条带切胶,original-project-artwork,AI-assisted,not-assigned,draft
+B120-029,icons/biology/nucleic-acid-operations/dna-ligation.svg,biology/nucleic-acid-operations,DNA ligation,DNA 连接,original-project-artwork,AI-assisted,not-assigned,draft
+B120-030,icons/biology/nucleic-acid-operations/dna-methylation.svg,biology/nucleic-acid-operations,DNA methylation,DNA 甲基化,original-project-artwork,AI-assisted,not-assigned,draft
+B120-031,icons/biology/nucleic-acid-operations/dna-pulldown.svg,biology/nucleic-acid-operations,DNA pull down,DNA pull-down,original-project-artwork,AI-assisted,not-assigned,draft
+B120-032,icons/biology/nucleic-acid-operations/fluorescent-dna-probe.svg,biology/nucleic-acid-operations,Fluorescent DNA probe,荧光 DNA 探针,original-project-artwork,AI-assisted,not-assigned,draft
+B120-033,icons/biology/nucleic-acid-operations/homology-directed-repair.svg,biology/nucleic-acid-operations,Homology directed repair,同源定向修复,original-project-artwork,AI-assisted,not-assigned,draft
+B120-034,icons/biology/nucleic-acid-operations/pcr-primer-pair.svg,biology/nucleic-acid-operations,PCR primer pair,PCR 引物对,original-project-artwork,AI-assisted,not-assigned,draft
+B120-035,icons/biology/nucleic-acid-operations/restriction-digest.svg,biology/nucleic-acid-operations,Restriction digest,限制性内切酶酶切,original-project-artwork,AI-assisted,not-assigned,draft
+B120-036,icons/biology/nucleic-acid-operations/rna-interference-concept.svg,biology/nucleic-acid-operations,RNA interference concept,RNA 干扰示意,original-project-artwork,AI-assisted,not-assigned,draft
+B120-037,icons/biology/protein-mechanisms/allosteric-regulation.svg,biology/protein-mechanisms,Allosteric regulation,变构调节,original-project-artwork,AI-assisted,not-assigned,draft
+B120-038,icons/biology/protein-mechanisms/biomolecular-condensate.svg,biology/protein-mechanisms,Biomolecular condensate,生物分子凝聚体,original-project-artwork,AI-assisted,not-assigned,draft
+B120-039,icons/biology/protein-mechanisms/cofactor-binding.svg,biology/protein-mechanisms,Cofactor binding,辅因子结合,original-project-artwork,AI-assisted,not-assigned,draft
+B120-040,icons/biology/protein-mechanisms/competitive-inhibition.svg,biology/protein-mechanisms,Competitive inhibition,竞争性抑制,original-project-artwork,AI-assisted,not-assigned,draft
+B120-041,icons/biology/protein-mechanisms/disulfide-bond.svg,biology/protein-mechanisms,Disulfide bond,二硫键,original-project-artwork,AI-assisted,not-assigned,draft
+B120-042,icons/biology/protein-mechanisms/enzyme-turnover.svg,biology/protein-mechanisms,Enzyme turnover,酶催化周转,original-project-artwork,AI-assisted,not-assigned,draft
+B120-043,icons/biology/protein-mechanisms/protein-aggregation.svg,biology/protein-mechanisms,Protein aggregation,蛋白聚集,original-project-artwork,AI-assisted,not-assigned,draft
+B120-044,icons/biology/protein-mechanisms/protein-complex-dissociation.svg,biology/protein-mechanisms,Protein complex dissociation,蛋白复合体解离,original-project-artwork,AI-assisted,not-assigned,draft
+B120-045,icons/biology/protein-mechanisms/protein-glycosylation.svg,biology/protein-mechanisms,Protein glycosylation,蛋白糖基化,original-project-artwork,AI-assisted,not-assigned,draft
+B120-046,icons/biology/protein-mechanisms/protein-unfolding.svg,biology/protein-mechanisms,Protein unfolding,蛋白展开,original-project-artwork,AI-assisted,not-assigned,draft
+B120-047,icons/biology/protein-mechanisms/proteolytic-activation.svg,biology/protein-mechanisms,Proteolytic activation,蛋白水解激活,original-project-artwork,AI-assisted,not-assigned,draft
+B120-048,icons/biology/protein-mechanisms/scaffold-protein-assembly.svg,biology/protein-mechanisms,Scaffold mediated assembly,支架蛋白介导组装,original-project-artwork,AI-assisted,not-assigned,draft
+B120-049,icons/biology/transport-mechanisms/antiport.svg,biology/transport-mechanisms,Antiport,反向交换运输,original-project-artwork,AI-assisted,not-assigned,draft
+B120-050,icons/biology/transport-mechanisms/apoplastic-pathway.svg,biology/transport-mechanisms,Apoplastic transport pathway,质外体运输途径,original-project-artwork,AI-assisted,not-assigned,draft
+B120-051,icons/biology/transport-mechanisms/aquaporin-concept.svg,biology/transport-mechanisms,Aquaporin mediated water transport,水通道蛋白介导水运输,original-project-artwork,AI-assisted,not-assigned,draft
+B120-052,icons/biology/transport-mechanisms/facilitated-diffusion.svg,biology/transport-mechanisms,Facilitated diffusion,易化扩散,original-project-artwork,AI-assisted,not-assigned,draft
+B120-053,icons/biology/transport-mechanisms/phloem-loading.svg,biology/transport-mechanisms,Phloem loading,韧皮部装载,original-project-artwork,AI-assisted,not-assigned,draft
+B120-054,icons/biology/transport-mechanisms/primary-active-transport.svg,biology/transport-mechanisms,Primary active transport,初级主动运输,original-project-artwork,AI-assisted,not-assigned,draft
+B120-055,icons/biology/transport-mechanisms/proton-gradient.svg,biology/transport-mechanisms,Proton gradient,质子梯度,original-project-artwork,AI-assisted,not-assigned,draft
+B120-056,icons/biology/transport-mechanisms/simple-diffusion.svg,biology/transport-mechanisms,Simple diffusion,简单扩散,original-project-artwork,AI-assisted,not-assigned,draft
+B120-057,icons/biology/transport-mechanisms/stomatal-gas-diffusion.svg,biology/transport-mechanisms,Stomatal gas diffusion,气孔气体扩散,original-project-artwork,AI-assisted,not-assigned,draft
+B120-058,icons/biology/transport-mechanisms/symplastic-pathway.svg,biology/transport-mechanisms,Symplastic transport pathway,共质体运输途径,original-project-artwork,AI-assisted,not-assigned,draft
+B120-059,icons/biology/transport-mechanisms/symport.svg,biology/transport-mechanisms,Symport,同向协同运输,original-project-artwork,AI-assisted,not-assigned,draft
+B120-060,icons/biology/transport-mechanisms/xylem-bulk-flow.svg,biology/transport-mechanisms,Xylem bulk flow,木质部集流,original-project-artwork,AI-assisted,not-assigned,draft
+B120-061,icons/experiments/field-research/drip-irrigation.svg,experiments/field-research,Drip irrigation,滴灌,original-project-artwork,AI-assisted,not-assigned,draft
+B120-062,icons/experiments/field-research/field-harvest-bundle.svg,experiments/field-research,Harvested shoot bundle,收获植株束,original-project-artwork,AI-assisted,not-assigned,draft
+B120-063,icons/experiments/field-research/field-sample-flag.svg,experiments/field-research,Field sample flag,田间取样标旗,original-project-artwork,AI-assisted,not-assigned,draft
+B120-064,icons/experiments/field-research/field-trial-plots.svg,experiments/field-research,Field trial plots,田间试验小区,original-project-artwork,AI-assisted,not-assigned,draft
+B120-065,icons/experiments/field-research/leaf-temperature-sensor.svg,experiments/field-research,Leaf temperature sensor,叶温测量,original-project-artwork,AI-assisted,not-assigned,draft
+B120-066,icons/experiments/field-research/manual-pollination.svg,experiments/field-research,Manual pollination,人工授粉,original-project-artwork,AI-assisted,not-assigned,draft
+B120-067,icons/experiments/field-research/minirhizotron-tube.svg,experiments/field-research,Minirhizotron tube,微根管,original-project-artwork,AI-assisted,not-assigned,draft
+B120-068,icons/experiments/field-research/pollination-bag.svg,experiments/field-research,Pollination bag,授粉袋,original-project-artwork,AI-assisted,not-assigned,draft
+B120-069,icons/experiments/field-research/rainout-shelter.svg,experiments/field-research,Rainout shelter,避雨棚,original-project-artwork,AI-assisted,not-assigned,draft
+B120-070,icons/experiments/field-research/root-observation-box.svg,experiments/field-research,Root observation box,根系观察箱,original-project-artwork,AI-assisted,not-assigned,draft
+B120-071,icons/experiments/field-research/soil-core-sampling.svg,experiments/field-research,Soil core sampling,土芯取样,original-project-artwork,AI-assisted,not-assigned,draft
+B120-072,icons/experiments/field-research/soil-moisture-probe.svg,experiments/field-research,Soil moisture probe,土壤水分探头,original-project-artwork,AI-assisted,not-assigned,draft
+B120-073,icons/experiments/research-apparatus/conductivity-meter.svg,experiments/research-apparatus,Conductivity meter,电导率仪,original-project-artwork,AI-assisted,not-assigned,draft
+B120-074,icons/experiments/research-apparatus/cuvette.svg,experiments/research-apparatus,Optical cuvette,比色皿,original-project-artwork,AI-assisted,not-assigned,draft
+B120-075,icons/experiments/research-apparatus/desiccator.svg,experiments/research-apparatus,Laboratory desiccator,干燥器,original-project-artwork,AI-assisted,not-assigned,draft
+B120-076,icons/experiments/research-apparatus/dry-block-heater.svg,experiments/research-apparatus,Dry block heater,干式恒温器,original-project-artwork,AI-assisted,not-assigned,draft
+B120-077,icons/experiments/research-apparatus/microplate-reader.svg,experiments/research-apparatus,Microplate reader,酶标仪,original-project-artwork,AI-assisted,not-assigned,draft
+B120-078,icons/experiments/research-apparatus/orbital-shaker.svg,experiments/research-apparatus,Orbital shaker,轨道摇床,original-project-artwork,AI-assisted,not-assigned,draft
+B120-079,icons/experiments/research-apparatus/peristaltic-pump.svg,experiments/research-apparatus,Peristaltic pump,蠕动泵,original-project-artwork,AI-assisted,not-assigned,draft
+B120-080,icons/experiments/research-apparatus/ph-meter.svg,experiments/research-apparatus,pH meter,pH 计,original-project-artwork,AI-assisted,not-assigned,draft
+B120-081,icons/experiments/research-apparatus/spectrophotometer.svg,experiments/research-apparatus,Spectrophotometer,分光光度计,original-project-artwork,AI-assisted,not-assigned,draft
+B120-082,icons/experiments/research-apparatus/vacuum-manifold.svg,experiments/research-apparatus,Vacuum manifold,真空抽滤装置,original-project-artwork,AI-assisted,not-assigned,draft
+B120-083,icons/experiments/research-apparatus/vacuum-pump.svg,experiments/research-apparatus,Vacuum pump,真空泵,original-project-artwork,AI-assisted,not-assigned,draft
+B120-084,icons/experiments/research-apparatus/water-bath.svg,experiments/research-apparatus,Laboratory water bath,恒温水浴锅,original-project-artwork,AI-assisted,not-assigned,draft
+B120-085,icons/experiments/specimen-preparation/biological-replicates.svg,experiments/specimen-preparation,Biological replicates,生物学重复,original-project-artwork,AI-assisted,not-assigned,draft
+B120-086,icons/experiments/specimen-preparation/ice-bucket.svg,experiments/specimen-preparation,Ice bucket,冰桶,original-project-artwork,AI-assisted,not-assigned,draft
+B120-087,icons/experiments/specimen-preparation/leaf-blade-segment.svg,experiments/specimen-preparation,Leaf blade segment,叶片截段,original-project-artwork,AI-assisted,not-assigned,draft
+B120-088,icons/experiments/specimen-preparation/pooled-tissue-sample.svg,experiments/specimen-preparation,Pooled tissue sample,混合组织样品,original-project-artwork,AI-assisted,not-assigned,draft
+B120-089,icons/experiments/specimen-preparation/root-segment-sample.svg,experiments/specimen-preparation,Root segment sample,根段样品,original-project-artwork,AI-assisted,not-assigned,draft
+B120-090,icons/experiments/specimen-preparation/sample-barcode-label.svg,experiments/specimen-preparation,Sample barcode label,样品条码标签,original-project-artwork,AI-assisted,not-assigned,draft
+B120-091,icons/experiments/specimen-preparation/sample-cryobox.svg,experiments/specimen-preparation,Cryogenic sample box,冻存样品盒,original-project-artwork,AI-assisted,not-assigned,draft
+B120-092,icons/experiments/specimen-preparation/sample-randomization.svg,experiments/specimen-preparation,Randomized sample allocation,样品随机分配,original-project-artwork,AI-assisted,not-assigned,draft
+B120-093,icons/experiments/specimen-preparation/seed-counting-tray.svg,experiments/specimen-preparation,Seed counting tray,种子计数盘,original-project-artwork,AI-assisted,not-assigned,draft
+B120-094,icons/experiments/specimen-preparation/soil-sample-bag.svg,experiments/specimen-preparation,Soil sample bag,土壤样品袋,original-project-artwork,AI-assisted,not-assigned,draft
+B120-095,icons/experiments/specimen-preparation/soil-sieve.svg,experiments/specimen-preparation,Soil sieve,土壤筛,original-project-artwork,AI-assisted,not-assigned,draft
+B120-096,icons/experiments/specimen-preparation/stem-transverse-slice.svg,experiments/specimen-preparation,Stem transverse slice,茎横切片,original-project-artwork,AI-assisted,not-assigned,draft
+B120-097,icons/omics/metabolomics-workflow/autosampler-vial.svg,omics/metabolomics-workflow,Autosampler vial,自动进样瓶,original-project-artwork,AI-assisted,not-assigned,draft
+B120-098,icons/omics/metabolomics-workflow/chromatographic-gradient.svg,omics/metabolomics-workflow,Chromatographic gradient,色谱梯度,original-project-artwork,AI-assisted,not-assigned,draft
+B120-099,icons/omics/metabolomics-workflow/extracted-ion-chromatogram.svg,omics/metabolomics-workflow,Extracted ion chromatogram,提取离子流色谱图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-100,icons/omics/metabolomics-workflow/metabolite-annotation.svg,omics/metabolomics-workflow,Metabolite annotation,代谢物注释,original-project-artwork,AI-assisted,not-assigned,draft
+B120-101,icons/omics/metabolomics-workflow/metabolite-feature-matrix.svg,omics/metabolomics-workflow,Metabolite feature matrix,代谢特征矩阵,original-project-artwork,AI-assisted,not-assigned,draft
+B120-102,icons/omics/metabolomics-workflow/nitrogen-sample-drying.svg,omics/metabolomics-workflow,Sample drying under gas,气流吹干样品,original-project-artwork,AI-assisted,not-assigned,draft
+B120-103,icons/omics/metabolomics-workflow/phase-partitioning.svg,omics/metabolomics-workflow,Liquid phase partitioning,液液分相,original-project-artwork,AI-assisted,not-assigned,draft
+B120-104,icons/omics/metabolomics-workflow/sample-filtration.svg,omics/metabolomics-workflow,Sample filtration,样品过滤,original-project-artwork,AI-assisted,not-assigned,draft
+B120-105,icons/omics/metabolomics-workflow/sample-reconstitution.svg,omics/metabolomics-workflow,Sample reconstitution,样品复溶,original-project-artwork,AI-assisted,not-assigned,draft
+B120-106,icons/omics/metabolomics-workflow/tissue-homogenization.svg,omics/metabolomics-workflow,Tissue homogenization,组织匀浆,original-project-artwork,AI-assisted,not-assigned,draft
+B120-107,icons/omics/metabolomics-workflow/ultrasonic-bath.svg,omics/metabolomics-workflow,Ultrasonic bath,超声水浴,original-project-artwork,AI-assisted,not-assigned,draft
+B120-108,icons/omics/metabolomics-workflow/vortex-mixing.svg,omics/metabolomics-workflow,Vortex mixing,涡旋混匀,original-project-artwork,AI-assisted,not-assigned,draft
+B120-109,icons/omics/statistical-components/box-plot-concept.svg,omics/statistical-components,Box plot,箱线图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-110,icons/omics/statistical-components/correlation-scatter.svg,omics/statistical-components,Correlation scatter plot,相关散点图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-111,icons/omics/statistical-components/density-distribution.svg,omics/statistical-components,Density distribution,密度分布图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-112,icons/omics/statistical-components/effect-size-interval.svg,omics/statistical-components,Effect size interval,效应量区间,original-project-artwork,AI-assisted,not-assigned,draft
+B120-113,icons/omics/statistical-components/empirical-cumulative-distribution.svg,omics/statistical-components,Cumulative distribution,累积分布图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-114,icons/omics/statistical-components/enrichment-dot-plot.svg,omics/statistical-components,Enrichment dot plot,富集气泡图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-115,icons/omics/statistical-components/forest-plot-concept.svg,omics/statistical-components,Forest plot,森林图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-116,icons/omics/statistical-components/hierarchical-dendrogram.svg,omics/statistical-components,Hierarchical dendrogram,层次聚类树,original-project-artwork,AI-assisted,not-assigned,draft
+B120-117,icons/omics/statistical-components/missing-data-pattern.svg,omics/statistical-components,Missing data pattern,缺失数据分布,original-project-artwork,AI-assisted,not-assigned,draft
+B120-118,icons/omics/statistical-components/phylogenetic-tree-concept.svg,omics/statistical-components,Phylogenetic tree,系统发育树,original-project-artwork,AI-assisted,not-assigned,draft
+B120-119,icons/omics/statistical-components/set-intersection-venn.svg,omics/statistical-components,Set intersection,集合交集,original-project-artwork,AI-assisted,not-assigned,draft
+B120-120,icons/omics/statistical-components/violin-plot-concept.svg,omics/statistical-components,Violin plot,小提琴图,original-project-artwork,AI-assisted,not-assigned,draft
