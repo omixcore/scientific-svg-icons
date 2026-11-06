@@ -163,3 +163,39 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) before adding or updating icons.
 ## Version | 版本
 
 Current version: **0.0.1**
+
+## Gene diagram components | 基因结构示意组件
+
+Editable schematic elements for assembling gene models and regulatory diagrams. These are conceptual and not to scale; positions and interpretations depend on the experiment. 可编辑组件用于组合基因结构和调控示意图，图形不按比例，具体位置及生物学含义需结合实验确定。
+
+| Cis-regulatory motif | Coding sequence | Enhancer |
+| --- | --- | --- |
+| [![Cis-regulatory motif](icons/diagrams/gene-elements/cis-regulatory-motif.svg)](icons/diagrams/gene-elements/cis-regulatory-motif.svg) | [![Coding sequence](icons/diagrams/gene-elements/coding-sequence.svg)](icons/diagrams/gene-elements/coding-sequence.svg) | [![Enhancer](icons/diagrams/gene-elements/enhancer.svg)](icons/diagrams/gene-elements/enhancer.svg) |
+
+| Exon | 5′ untranslated region | Intron |
+| --- | --- | --- |
+| [![Exon](icons/diagrams/gene-elements/exon.svg)](icons/diagrams/gene-elements/exon.svg) | [![5′ untranslated region](icons/diagrams/gene-elements/five-prime-utr.svg)](icons/diagrams/gene-elements/five-prime-utr.svg) | [![Intron](icons/diagrams/gene-elements/intron.svg)](icons/diagrams/gene-elements/intron.svg) |
+
+| Polyadenylation site | Promoter | Sequence deletion |
+| --- | --- | --- |
+| [![Polyadenylation site](icons/diagrams/gene-elements/polyadenylation-site.svg)](icons/diagrams/gene-elements/polyadenylation-site.svg) | [![Promoter](icons/diagrams/gene-elements/promoter.svg)](icons/diagrams/gene-elements/promoter.svg) | [![Sequence deletion](icons/diagrams/gene-elements/sequence-deletion.svg)](icons/diagrams/gene-elements/sequence-deletion.svg) |
+
+| Sequence insertion | Silencer | Single-nucleotide substitution |
+| --- | --- | --- |
+| [![Sequence insertion](icons/diagrams/gene-elements/sequence-insertion.svg)](icons/diagrams/gene-elements/sequence-insertion.svg) | [![Silencer](icons/diagrams/gene-elements/silencer.svg)](icons/diagrams/gene-elements/silencer.svg) | [![Single-nucleotide substitution](icons/diagrams/gene-elements/single-nucleotide-substitution.svg)](icons/diagrams/gene-elements/single-nucleotide-substitution.svg) |
+
+| Splice acceptor site | Splice donor site | Tandem repeat |
+| --- | --- | --- |
+| [![Splice acceptor site](icons/diagrams/gene-elements/splice-acceptor-site.svg)](icons/diagrams/gene-elements/splice-acceptor-site.svg) | [![Splice donor site](icons/diagrams/gene-elements/splice-donor-site.svg)](icons/diagrams/gene-elements/splice-donor-site.svg) | [![Tandem repeat](icons/diagrams/gene-elements/tandem-repeat.svg)](icons/diagrams/gene-elements/tandem-repeat.svg) |
+
+| Transcription terminator | 3′ untranslated region | Transcription factor binding |
+| --- | --- | --- |
+| [![Transcription terminator](icons/diagrams/gene-elements/terminator.svg)](icons/diagrams/gene-elements/terminator.svg) | [![3′ untranslated region](icons/diagrams/gene-elements/three-prime-utr.svg)](icons/diagrams/gene-elements/three-prime-utr.svg) | [![Transcription factor binding](icons/diagrams/gene-elements/transcription-factor-binding.svg)](icons/diagrams/gene-elements/transcription-factor-binding.svg) |
+
+| Transcription start site |  |  |
+| --- | --- | --- |
+| [![Transcription start site](icons/diagrams/gene-elements/transcription-start-site.svg)](icons/diagrams/gene-elements/transcription-start-site.svg) |  |  |
+
+### Revised plant anatomy | 更新的植物解剖图
+
+[![Root tip anatomy](icons/biology/anatomy/root-tip.svg)](icons/biology/anatomy/root-tip.svg)

@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" aria-labelledby="title desc"><title id="title">Root tip anatomy</title><desc id="desc">Longitudinal root-tip schematic showing root cap, meristematic zone, elongation zone, and differentiation zone with root hairs.</desc><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6Z" fill="#263746"/></marker></defs><path d="M65 8Q95 8 98 34L94 70Q90 96 80 112Q70 96 66 70L62 34Q62 15 65 8Z" fill="#F1E2B8" stroke="#9C7A49" stroke-width="2.5"/><path d="M64 32Q80 37 96 32M65 54Q80 59 95 54M68 79Q80 84 92 79" fill="none" stroke="#B58B4D" stroke-width="1.5" stroke-dasharray="3 2"/><path d="M66 91Q80 105 94 91Q91 110 80 117Q69 110 66 91Z" fill="#D8B16B" stroke="#9C7A49" stroke-width="2"/><g stroke="#6FA56B" stroke-width="1.8" stroke-linecap="round"><path d="M94 22l16-7M95 27l19-1M95 33l17 5M65 23l-16-7M65 29l-18 1M66 35l-15 7"/></g><g fill="#263746" font-family="Arial,sans-serif" font-size="7.5"><text x="108" y="15">Differentiation</text><text x="108" y="24">zone</text><text x="108" y="49">Elongation</text><text x="108" y="58">zone</text><text x="108" y="76">Meristem</text><text x="108" y="85">zone</text><text x="108" y="108">Root cap</text></g><g stroke="#263746" stroke-width="1"><path d="M98 22h7M95 52h10M92 79h13M91 105h14"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="220" viewBox="0 0 240 220" role="img" aria-labelledby="title desc">
+  <title id="title">Root tip: longitudinal schematic</title>
+  <desc id="desc">Schematic root tip with root hairs, differentiation and elongation regions, apical meristem and root cap. Zone boundaries are illustrative.</desc>
+  <g stroke="#36474a" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M73 12h70v137c0 32-15 51-35 57-20-6-35-25-35-57z" fill="#eef3e5" stroke-width="2"/>
+    <path d="M78 12v126c0 25 11 47 30 56 19-9 30-31 30-56V12" fill="#f8f4e4" stroke="#a5a997" stroke-width="1.2"/>
+    <path d="M94 12v121c0 26 5 42 14 52 9-10 14-26 14-52V12" fill="#dbe9d1" stroke="#8d9e86" stroke-width="1.2"/>
+    <g fill="none" stroke="#acb7a5" stroke-width="1">
+      <path d="M78 34h60M78 59h60M78 83h60M78 105h60M79 123h58M81 138h54M85 151h46M90 162h36M95 172h26"/>
+      <path d="M86 12v137M130 12v137M101 12v160M115 12v160"/>
+    </g>
+    <path d="M78 160c3 21 14 39 30 46 16-7 27-25 30-46-7 14-18 22-30 24-12-2-23-10-30-24z" fill="#d9c694" stroke="#8b805f" stroke-width="1.4"/>
+    <g fill="none" stroke="#779d78" stroke-width="1.8">
+      <path d="M73 24c-13-2-22-9-27-17M73 34C58 35 48 32 40 28M73 45C59 49 50 48 43 46M73 56c-13 6-20 12-24 18M143 24c9-2 15-8 18-15M143 34c9 0 14-3 18-7M143 45c9 2 13 1 17-1M143 56c8 5 12 10 15 16"/>
+    </g>
+    <g fill="none" stroke="#8d9991" stroke-width="1" stroke-dasharray="3 3"><path d="M67 68h82M67 111h82M67 157h82"/></g>
+    <g fill="none" stroke="#36474a" stroke-width="1"><path d="M151 38h13M151 89h13M151 135h13M149 187h15"/></g>
+  </g>
+  <g fill="#273638" font-family="Arial, sans-serif" font-size="9">
+    <text x="168" y="35">Differentiation</text><text x="168" y="46">zone</text>
+    <text x="168" y="86">Elongation</text><text x="168" y="97">zone</text>
+    <text x="168" y="132">Apical</text><text x="168" y="143">meristem</text>
+    <text x="168" y="190">Root cap</text>
+  </g>
+</svg>

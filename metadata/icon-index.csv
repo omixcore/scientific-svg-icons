@@ -46,7 +46,7 @@ ANA-001,icons/biology/anatomy/stomatal-complex.svg,biology/anatomy,Stomatal comp
 ANA-002,icons/biology/anatomy/guard-cells.svg,biology/anatomy,Guard cells,保卫细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 ANA-003,icons/biology/anatomy/epidermal-cells.svg,biology/anatomy,Leaf epidermal cells,叶表皮细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 ANA-004,icons/biology/anatomy/vascular-bundle-cross-section.svg,biology/anatomy,Vascular bundle cross-section,维管束横切面,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ANA-005,icons/biology/anatomy/root-tip.svg,biology/anatomy,Root tip anatomy,根尖结构,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-005,icons/biology/anatomy/root-tip.svg,biology/anatomy,Root tip anatomy,根尖结构,original-project-artwork-revised,AI-assisted-revision,not-assigned,draft
 ANA-006,icons/biology/anatomy/root-hair-cell.svg,biology/anatomy,Root hair cell,根毛细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 PHO-001,icons/biology/photosynthesis/photosystem-ii.svg,biology/photosynthesis,Photosystem II,光系统 II,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 PHO-002,icons/biology/photosynthesis/photosystem-i.svg,biology/photosynthesis,Photosystem I,光系统 I,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
@@ -75,3 +75,22 @@ PGEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross
 LAB-004,icons/experiments/lab-equipment/erlenmeyer-flask.svg,experiments/lab-equipment,Erlenmeyer flask,锥形瓶,user-provided-file,not-specified,not-assigned,draft
 LAB-005,icons/experiments/lab-equipment/analytical-balance.svg,experiments/lab-equipment,Analytical balance,分析天平,user-provided-file,not-specified,not-assigned,draft
 LAB-006,icons/experiments/lab-equipment/vertical-autoclave.svg,experiments/lab-equipment,Vertical autoclave,立式高压蒸汽灭菌器,user-provided-file,not-specified,not-assigned,draft
+GENE-ELEM-001,icons/diagrams/gene-elements/cis-regulatory-motif.svg,diagrams/gene-elements,Cis-regulatory motif,顺式调控元件,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-002,icons/diagrams/gene-elements/coding-sequence.svg,diagrams/gene-elements,Coding sequence,编码序列,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-003,icons/diagrams/gene-elements/enhancer.svg,diagrams/gene-elements,Enhancer,增强子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-004,icons/diagrams/gene-elements/exon.svg,diagrams/gene-elements,Exon,外显子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-005,icons/diagrams/gene-elements/five-prime-utr.svg,diagrams/gene-elements,5′ untranslated region,5′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-006,icons/diagrams/gene-elements/intron.svg,diagrams/gene-elements,Intron,内含子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-007,icons/diagrams/gene-elements/polyadenylation-site.svg,diagrams/gene-elements,Polyadenylation site,多聚腺苷酸化位点,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-008,icons/diagrams/gene-elements/promoter.svg,diagrams/gene-elements,Promoter,启动子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-009,icons/diagrams/gene-elements/sequence-deletion.svg,diagrams/gene-elements,Sequence deletion,序列缺失,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-010,icons/diagrams/gene-elements/sequence-insertion.svg,diagrams/gene-elements,Sequence insertion,序列插入,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-011,icons/diagrams/gene-elements/silencer.svg,diagrams/gene-elements,Silencer,沉默子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-012,icons/diagrams/gene-elements/single-nucleotide-substitution.svg,diagrams/gene-elements,Single-nucleotide substitution,单核苷酸替换,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-013,icons/diagrams/gene-elements/splice-acceptor-site.svg,diagrams/gene-elements,Splice acceptor site,剪接受体位点,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-014,icons/diagrams/gene-elements/splice-donor-site.svg,diagrams/gene-elements,Splice donor site,剪接供体位点,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-015,icons/diagrams/gene-elements/tandem-repeat.svg,diagrams/gene-elements,Tandem repeat,串联重复,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-016,icons/diagrams/gene-elements/terminator.svg,diagrams/gene-elements,Transcription terminator,转录终止子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-017,icons/diagrams/gene-elements/three-prime-utr.svg,diagrams/gene-elements,3′ untranslated region,3′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-018,icons/diagrams/gene-elements/transcription-factor-binding.svg,diagrams/gene-elements,Transcription factor binding,转录因子结合,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-019,icons/diagrams/gene-elements/transcription-start-site.svg,diagrams/gene-elements,Transcription start site,转录起始位点,original-project-artwork,AI-assisted,not-assigned,draft
