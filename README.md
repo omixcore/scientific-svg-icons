@@ -249,3 +249,28 @@ Editable conceptual symbols for environmental stress, cellular responses, and ge
 | --- | --- | --- | --- |
 | [![Saline soil](icons/biology/stress-signaling/soil-salinity.svg)](icons/biology/stress-signaling/soil-salinity.svg) | [![Transcriptional response](icons/biology/stress-signaling/transcriptional-response.svg)](icons/biology/stress-signaling/transcriptional-response.svg) | [![UV exposure](icons/biology/stress-signaling/uv-exposure.svg)](icons/biology/stress-signaling/uv-exposure.svg) | [![Virus particle](icons/biology/stress-signaling/virus-particle.svg)](icons/biology/stress-signaling/virus-particle.svg) |
 
+
+## Laboratory supplies | 实验耗材
+
+Editable illustrations of common laboratory supplies and plant-sample handling equipment. These are schematic, not product-specific or to scale. 可编辑的实验耗材和植物样品处理工具示意图，不对应特定产品或真实比例。
+
+| Conical centrifuge tube / 锥形离心管 | Cryogenic vial / 冻存管 | Folded filter paper / 折叠滤纸 | Graduated cylinder / 量筒 |
+| --- | --- | --- | --- |
+| [![Conical centrifuge tube](icons/experiments/lab-supplies/conical-centrifuge-tube.svg)](icons/experiments/lab-supplies/conical-centrifuge-tube.svg) | [![Cryogenic vial](icons/experiments/lab-supplies/cryogenic-vial.svg)](icons/experiments/lab-supplies/cryogenic-vial.svg) | [![Folded filter paper](icons/experiments/lab-supplies/filter-paper.svg)](icons/experiments/lab-supplies/filter-paper.svg) | [![Graduated cylinder](icons/experiments/lab-supplies/graduated-cylinder.svg)](icons/experiments/lab-supplies/graduated-cylinder.svg) |
+
+| Laboratory beaker / 实验室烧杯 | Laboratory forceps / 实验镊子 | Laboratory funnel / 实验漏斗 | Laboratory scalpel / 手术刀 |
+| --- | --- | --- | --- |
+| [![Laboratory beaker](icons/experiments/lab-supplies/laboratory-beaker.svg)](icons/experiments/lab-supplies/laboratory-beaker.svg) | [![Laboratory forceps](icons/experiments/lab-supplies/laboratory-forceps.svg)](icons/experiments/lab-supplies/laboratory-forceps.svg) | [![Laboratory funnel](icons/experiments/lab-supplies/laboratory-funnel.svg)](icons/experiments/lab-supplies/laboratory-funnel.svg) | [![Laboratory scalpel](icons/experiments/lab-supplies/laboratory-scalpel.svg)](icons/experiments/lab-supplies/laboratory-scalpel.svg) |
+
+| Laboratory scissors / 实验剪刀 | Liquid nitrogen dewar / 液氮杜瓦瓶 | Microscope slide / 载玻片 | Mortar and pestle / 研钵和研杵 |
+| --- | --- | --- | --- |
+| [![Laboratory scissors](icons/experiments/lab-supplies/laboratory-scissors.svg)](icons/experiments/lab-supplies/laboratory-scissors.svg) | [![Liquid nitrogen dewar](icons/experiments/lab-supplies/liquid-nitrogen-dewar.svg)](icons/experiments/lab-supplies/liquid-nitrogen-dewar.svg) | [![Microscope slide](icons/experiments/lab-supplies/microscope-slide.svg)](icons/experiments/lab-supplies/microscope-slide.svg) | [![Mortar and pestle](icons/experiments/lab-supplies/mortar-and-pestle.svg)](icons/experiments/lab-supplies/mortar-and-pestle.svg) |
+
+| Multiwell plate / 多孔板 | PCR tube strip / PCR 八联管 | Pipette tip rack / 移液枪头盒 | Reagent bottle / 试剂瓶 |
+| --- | --- | --- | --- |
+| [![Multiwell plate](icons/experiments/lab-supplies/multiwell-plate.svg)](icons/experiments/lab-supplies/multiwell-plate.svg) | [![PCR tube strip](icons/experiments/lab-supplies/pcr-strip-tubes.svg)](icons/experiments/lab-supplies/pcr-strip-tubes.svg) | [![Pipette tip rack](icons/experiments/lab-supplies/pipette-tip-rack.svg)](icons/experiments/lab-supplies/pipette-tip-rack.svg) | [![Reagent bottle](icons/experiments/lab-supplies/reagent-bottle.svg)](icons/experiments/lab-supplies/reagent-bottle.svg) |
+
+| Seed envelope / 种子纸袋 | Serological pipette / 血清移液管 | Microtube rack / 离心管架 | Wash bottle / 洗瓶 |
+| --- | --- | --- | --- |
+| [![Seed envelope](icons/experiments/lab-supplies/seed-envelope.svg)](icons/experiments/lab-supplies/seed-envelope.svg) | [![Serological pipette](icons/experiments/lab-supplies/serological-pipette.svg)](icons/experiments/lab-supplies/serological-pipette.svg) | [![Microtube rack](icons/experiments/lab-supplies/tube-rack.svg)](icons/experiments/lab-supplies/tube-rack.svg) | [![Wash bottle](icons/experiments/lab-supplies/wash-bottle.svg)](icons/experiments/lab-supplies/wash-bottle.svg) |
+

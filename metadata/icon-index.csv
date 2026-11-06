@@ -134,3 +134,23 @@ STRESS-017,icons/biology/stress-signaling/soil-salinity.svg,biology/stress-signa
 STRESS-018,icons/biology/stress-signaling/transcriptional-response.svg,biology/stress-signaling,Transcriptional response,转录响应,original-project-artwork,AI-assisted,not-assigned,draft
 STRESS-019,icons/biology/stress-signaling/uv-exposure.svg,biology/stress-signaling,UV exposure,紫外线胁迫,original-project-artwork,AI-assisted,not-assigned,draft
 STRESS-020,icons/biology/stress-signaling/virus-particle.svg,biology/stress-signaling,Virus particle,病毒颗粒,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-001,icons/experiments/lab-supplies/conical-centrifuge-tube.svg,experiments/lab-supplies,Conical centrifuge tube,锥形离心管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-002,icons/experiments/lab-supplies/cryogenic-vial.svg,experiments/lab-supplies,Cryogenic vial,冻存管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-003,icons/experiments/lab-supplies/filter-paper.svg,experiments/lab-supplies,Folded filter paper,折叠滤纸,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-004,icons/experiments/lab-supplies/graduated-cylinder.svg,experiments/lab-supplies,Graduated cylinder,量筒,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-005,icons/experiments/lab-supplies/laboratory-beaker.svg,experiments/lab-supplies,Laboratory beaker,实验室烧杯,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-006,icons/experiments/lab-supplies/laboratory-forceps.svg,experiments/lab-supplies,Laboratory forceps,实验镊子,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-007,icons/experiments/lab-supplies/laboratory-funnel.svg,experiments/lab-supplies,Laboratory funnel,实验漏斗,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-008,icons/experiments/lab-supplies/laboratory-scalpel.svg,experiments/lab-supplies,Laboratory scalpel,手术刀,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-009,icons/experiments/lab-supplies/laboratory-scissors.svg,experiments/lab-supplies,Laboratory scissors,实验剪刀,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-010,icons/experiments/lab-supplies/liquid-nitrogen-dewar.svg,experiments/lab-supplies,Liquid nitrogen dewar,液氮杜瓦瓶,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-011,icons/experiments/lab-supplies/microscope-slide.svg,experiments/lab-supplies,Microscope slide,载玻片,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-012,icons/experiments/lab-supplies/mortar-and-pestle.svg,experiments/lab-supplies,Mortar and pestle,研钵和研杵,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-013,icons/experiments/lab-supplies/multiwell-plate.svg,experiments/lab-supplies,Multiwell plate,多孔板,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-014,icons/experiments/lab-supplies/pcr-strip-tubes.svg,experiments/lab-supplies,PCR tube strip,PCR 八联管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-015,icons/experiments/lab-supplies/pipette-tip-rack.svg,experiments/lab-supplies,Pipette tip rack,移液枪头盒,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-016,icons/experiments/lab-supplies/reagent-bottle.svg,experiments/lab-supplies,Reagent bottle,试剂瓶,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-017,icons/experiments/lab-supplies/seed-envelope.svg,experiments/lab-supplies,Seed envelope,种子纸袋,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-018,icons/experiments/lab-supplies/serological-pipette.svg,experiments/lab-supplies,Serological pipette,血清移液管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-019,icons/experiments/lab-supplies/tube-rack.svg,experiments/lab-supplies,Microtube rack,离心管架,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-020,icons/experiments/lab-supplies/wash-bottle.svg,experiments/lab-supplies,Wash bottle,洗瓶,original-project-artwork,AI-assisted,not-assigned,draft
