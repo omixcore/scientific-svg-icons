@@ -46,6 +46,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/biology/molecular-components/` | Molecular mechanism components / 分子机制组件 |
 | `icons/experiments/reporter-assays/` | Reporter and molecular assay illustrations / 报告基因与分子实验 |
 | `icons/experiments/plant-tissue-culture/` | Plant tissue culture / 植物组织培养 |
+| `icons/experiments/microscopy-components/` | Microscopy and specimen preparation / 显微成像与样品制备 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -383,4 +384,21 @@ Editable conceptual components for plant tissue culture. Callus, shoot regenerat
 | Rooted plantlet in culture / 生根培养苗 | Seed surface sterilization / 种子表面消毒 | Shoot regeneration / 芽再生 | Stem segment explant / 茎段外植体 |
 | --- | --- | --- | --- |
 | [![Rooted plantlet in culture](icons/experiments/plant-tissue-culture/rooted-plantlet.svg)](icons/experiments/plant-tissue-culture/rooted-plantlet.svg) | [![Seed surface sterilization](icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg)](icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg) | [![Shoot regeneration](icons/experiments/plant-tissue-culture/shoot-regeneration.svg)](icons/experiments/plant-tissue-culture/shoot-regeneration.svg) | [![Stem segment explant](icons/experiments/plant-tissue-culture/stem-explant.svg)](icons/experiments/plant-tissue-culture/stem-explant.svg) |
+
+
+## Microscopy components | 显微成像与制片
+
+Editable conceptual microscopy and specimen preparation illustrations. Calibrate scale bars against actual images; instrument details depend on the model. 可编辑的显微成像及制片示意图；比例尺应根据实际图像校准，仪器细节因型号而异。
+
+| Microscope coverslip / 显微镜盖玻片 | Fluorescence channel merge / 荧光通道合并 | Fluorescence filter cube / 荧光滤光片组 | Microscope digital camera / 显微镜相机 |
+| --- | --- | --- | --- |
+| [![Microscope coverslip](icons/experiments/microscopy-components/coverslip.svg)](icons/experiments/microscopy-components/coverslip.svg) | [![Fluorescence channel merge](icons/experiments/microscopy-components/fluorescence-channel-merge.svg)](icons/experiments/microscopy-components/fluorescence-channel-merge.svg) | [![Fluorescence filter cube](icons/experiments/microscopy-components/fluorescence-filter-cube.svg)](icons/experiments/microscopy-components/fluorescence-filter-cube.svg) | [![Microscope digital camera](icons/experiments/microscopy-components/microscope-digital-camera.svg)](icons/experiments/microscopy-components/microscope-digital-camera.svg) |
+
+| Microscope objective lens / 显微镜物镜 | Microscopy scale bar / 显微图比例尺 | Laboratory microtome / 切片机 | Mounting medium drop / 封片剂液滴 |
+| --- | --- | --- | --- |
+| [![Microscope objective lens](icons/experiments/microscopy-components/microscope-objective.svg)](icons/experiments/microscopy-components/microscope-objective.svg) | [![Microscopy scale bar](icons/experiments/microscopy-components/microscopy-scale-bar.svg)](icons/experiments/microscopy-components/microscopy-scale-bar.svg) | [![Laboratory microtome](icons/experiments/microscopy-components/microtome.svg)](icons/experiments/microscopy-components/microtome.svg) | [![Mounting medium drop](icons/experiments/microscopy-components/mounting-medium-drop.svg)](icons/experiments/microscopy-components/mounting-medium-drop.svg) |
+
+| Paraffin embedded tissue block / 石蜡包埋组织块 | Tissue embedding cassette / 组织包埋盒 | Microscopy z stack / 显微 Z 轴序列 |  |
+| --- | --- | --- | --- |
+| [![Paraffin embedded tissue block](icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg)](icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg) | [![Tissue embedding cassette](icons/experiments/microscopy-components/tissue-embedding-cassette.svg)](icons/experiments/microscopy-components/tissue-embedding-cassette.svg) | [![Microscopy z stack](icons/experiments/microscopy-components/z-stack.svg)](icons/experiments/microscopy-components/z-stack.svg) |  |
 

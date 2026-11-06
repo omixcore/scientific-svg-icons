@@ -226,9 +226,20 @@ PLANT-TC-003,icons/experiments/plant-tissue-culture/culture-vessel.svg,experimen
 PLANT-TC-004,icons/experiments/plant-tissue-culture/explant-on-medium.svg,experiments/plant-tissue-culture,Explant on medium,培养基上的外植体,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-TC-005,icons/experiments/plant-tissue-culture/forceps-transfer-explant.svg,experiments/plant-tissue-culture,Explant transfer with forceps,镊子转移外植体,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-TC-006,icons/experiments/plant-tissue-culture/liquid-medium-flask.svg,experiments/plant-tissue-culture,Liquid culture medium flask,液体培养基锥形瓶,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-007,icons/experiments/plant-tissue-culture/maize-immature-embryo-explant.svg,experiments/plant-tissue-culture,Maize immature embryo explant,玉米幼胚外植体,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-007,icons/experiments/plant-tissue-culture/maize-immature-embryo-explant.svg,experiments/plant-tissue-culture,Maize immature embryo explant,玉米幼胚外植体,original-project-artwork-revised,AI-assisted-revision,not-assigned,draft
 PLANT-TC-008,icons/experiments/plant-tissue-culture/plantlet-acclimatization.svg,experiments/plant-tissue-culture,Plantlet acclimatization,组培苗移栽驯化,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-TC-009,icons/experiments/plant-tissue-culture/rooted-plantlet.svg,experiments/plant-tissue-culture,Rooted plantlet in culture,生根培养苗,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-TC-010,icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg,experiments/plant-tissue-culture,Seed surface sterilization,种子表面消毒,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-TC-011,icons/experiments/plant-tissue-culture/shoot-regeneration.svg,experiments/plant-tissue-culture,Shoot regeneration,芽再生,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-TC-012,icons/experiments/plant-tissue-culture/stem-explant.svg,experiments/plant-tissue-culture,Stem segment explant,茎段外植体,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-001,icons/experiments/microscopy-components/coverslip.svg,experiments/microscopy-components,Microscope coverslip,显微镜盖玻片,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-002,icons/experiments/microscopy-components/fluorescence-channel-merge.svg,experiments/microscopy-components,Fluorescence channel merge,荧光通道合并,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-003,icons/experiments/microscopy-components/fluorescence-filter-cube.svg,experiments/microscopy-components,Fluorescence filter cube,荧光滤光片组,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-004,icons/experiments/microscopy-components/microscope-digital-camera.svg,experiments/microscopy-components,Microscope digital camera,显微镜相机,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-005,icons/experiments/microscopy-components/microscope-objective.svg,experiments/microscopy-components,Microscope objective lens,显微镜物镜,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-006,icons/experiments/microscopy-components/microscopy-scale-bar.svg,experiments/microscopy-components,Microscopy scale bar,显微图比例尺,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-007,icons/experiments/microscopy-components/microtome.svg,experiments/microscopy-components,Laboratory microtome,切片机,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-008,icons/experiments/microscopy-components/mounting-medium-drop.svg,experiments/microscopy-components,Mounting medium drop,封片剂液滴,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-009,icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg,experiments/microscopy-components,Paraffin embedded tissue block,石蜡包埋组织块,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-010,icons/experiments/microscopy-components/tissue-embedding-cassette.svg,experiments/microscopy-components,Tissue embedding cassette,组织包埋盒,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-011,icons/experiments/microscopy-components/z-stack.svg,experiments/microscopy-components,Microscopy z stack,显微 Z 轴序列,original-project-artwork,AI-assisted,not-assigned,draft
