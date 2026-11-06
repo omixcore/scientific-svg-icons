@@ -25,6 +25,10 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | Directory | 内容 |
 | --- | --- |
 | `icons/biology/plants/` | Plants, leaves, maize, seedlings / 植物、叶片、玉米、幼苗 |
+| `icons/biology/anatomy/` | Stomata, epidermis, roots, vascular bundles / 气孔、表皮、根及维管束 |
+| `icons/biology/photosynthesis/` | Photosystems, carbon fixation, C4 and photorespiration / 光系统、碳固定、C4 与光呼吸 |
+| `icons/biology/molecular-assays/` | CRISPR, Y1H, EMSA, Dual-LUC, BiFC, Co-IP / 分子实验方法 |
+| `icons/biology/genetics/` | Chromosomes, loci, haplotypes, mutants, crosses / 染色体、位点、单倍型、突变及杂交 |
 | `icons/biology/tissues/` | Leaf anatomy, mesophyll, bundle sheath, vascular tissues / 叶片解剖、叶肉、维管束鞘及维管组织 |
 | `icons/biology/chloroplasts/` | Chloroplast ultrastructure and thylakoid components / 叶绿体超微结构与类囊体组分 |
 | `icons/biology/gene-expression/` | Transcription, translation, promoter regulation / 转录、翻译及启动子调控 |
@@ -33,6 +37,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/omics/proteomics/` | Mass spectrometry, spectra, heatmaps, gels / 质谱、谱图、热图及凝胶 |
 | `icons/omics/metabolomics/` | LC-MS, extraction, chromatograms, networks / 液质联用、提取、色谱图及代谢网络 |
 | `icons/omics/sequencing/` | Sequencing instruments / 测序设备 |
+| `icons/omics/analysis/` | PCA, UMAP, GWAS, QTL, WGCNA, GSEA, PPI / 组学分析图示 |
 | `icons/experiments/` | Microscopy and laboratory equipment / 显微观察与实验室设备 |
 | `icons/diagrams/pathways/` | Pathway and interaction symbols / 通路与调控符号 |
 | `icons/diagrams/workflows/` | Experimental and bioinformatics workflows / 实验及生物信息学流程 |
@@ -71,6 +76,37 @@ Additional icons: [Xylem vessel](icons/biology/tissues/xylem-vessel.svg) · [Phl
 ### Workflows | 科研流程
 
 [Sample-to-omics](icons/diagrams/workflows/sample-to-omics.svg) · [RNA-seq workflow](icons/diagrams/workflows/rna-seq-workflow.svg) · [Multi-omics integration](icons/diagrams/workflows/multi-omics-integration.svg) · [Bioinformatics pipeline](icons/diagrams/workflows/bioinformatics-pipeline.svg)
+
+## Professional scientific schematics | 专业科研示意素材
+
+This collection adds editable original SVG schematics for plant anatomy, photosynthesis, molecular assays, omics analysis, and plant genetics. They are conceptual illustrations, not microscopy images, measured plots, or substitutes for experiment-specific data.
+
+本系列新增植物解剖、光合作用、分子实验、组学分析和植物遗传学原创可编辑 SVG 示意图。它们用于解释概念，不代表显微实拍、真实统计结果或特定实验数据。
+
+### Plant anatomy | 植物解剖
+
+- [Stomatal complex](icons/biology/anatomy/stomatal-complex.svg) · [Guard cells](icons/biology/anatomy/guard-cells.svg) · [Leaf epidermal cells](icons/biology/anatomy/epidermal-cells.svg)
+- [Vascular bundle cross-section](icons/biology/anatomy/vascular-bundle-cross-section.svg) · [Root tip](icons/biology/anatomy/root-tip.svg) · [Root hair cell](icons/biology/anatomy/root-hair-cell.svg)
+
+### Photosynthesis | 光合作用
+
+- [Photosystem II](icons/biology/photosynthesis/photosystem-ii.svg) · [Photosystem I](icons/biology/photosynthesis/photosystem-i.svg) · [Rubisco](icons/biology/photosynthesis/rubisco.svg)
+- [Calvin-Benson cycle](icons/biology/photosynthesis/calvin-cycle.svg) · [C4 carbon-concentrating mechanism](icons/biology/photosynthesis/c4-carbon-concentrating-mechanism.svg) · [Photorespiration](icons/biology/photosynthesis/photorespiration.svg)
+
+### Molecular assays | 分子实验
+
+- [CRISPR-Cas9](icons/biology/molecular-assays/crispr-cas9.svg) · [Yeast one-hybrid](icons/biology/molecular-assays/yeast-one-hybrid.svg) · [EMSA](icons/biology/molecular-assays/emsa.svg)
+- [Dual-luciferase](icons/biology/molecular-assays/dual-luciferase.svg) · [BiFC](icons/biology/molecular-assays/bifc.svg) · [Co-IP](icons/biology/molecular-assays/co-immunoprecipitation.svg)
+
+### Omics analysis | 组学分析
+
+- [PCA](icons/omics/analysis/pca-plot.svg) · [UMAP](icons/omics/analysis/umap-plot.svg) · [GWAS Manhattan plot](icons/omics/analysis/gwas-manhattan.svg)
+- [QTL interval](icons/omics/analysis/qtl-interval.svg) · [WGCNA](icons/omics/analysis/wgcna-network.svg) · [GSEA](icons/omics/analysis/gsea-enrichment.svg) · [PPI](icons/omics/analysis/ppi-network.svg)
+
+### Plant genetics | 植物遗传学
+
+- [Chromosome](icons/biology/genetics/chromosome.svg) · [Gene locus](icons/biology/genetics/gene-locus.svg) · [Haplotype block](icons/biology/genetics/haplotype-block.svg)
+- [Loss-of-function mutant](icons/biology/genetics/loss-of-function-mutant.svg) · [Genetic cross](icons/biology/genetics/genetic-cross.svg)
 
 ## SVG conventions | SVG 规范
 

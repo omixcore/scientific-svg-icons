@@ -42,3 +42,33 @@ WFL-001,icons/diagrams/workflows/sample-to-omics.svg,diagrams/workflows,Sample-t
 WFL-002,icons/diagrams/workflows/rna-seq-workflow.svg,diagrams/workflows,RNA-seq workflow,RNA 测序流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
 WFL-003,icons/diagrams/workflows/multi-omics-integration.svg,diagrams/workflows,Multi-omics integration,多组学整合,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
 WFL-004,icons/diagrams/workflows/bioinformatics-pipeline.svg,diagrams/workflows,Bioinformatics pipeline,生物信息学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+ANA-001,icons/biology/anatomy/stomatal-complex.svg,biology/anatomy,Stomatal complex,气孔复合体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-002,icons/biology/anatomy/guard-cells.svg,biology/anatomy,Guard cells,保卫细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-003,icons/biology/anatomy/epidermal-cells.svg,biology/anatomy,Leaf epidermal cells,叶表皮细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-004,icons/biology/anatomy/vascular-bundle-cross-section.svg,biology/anatomy,Vascular bundle cross-section,维管束横切面,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-005,icons/biology/anatomy/root-tip.svg,biology/anatomy,Root tip anatomy,根尖结构,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-006,icons/biology/anatomy/root-hair-cell.svg,biology/anatomy,Root hair cell,根毛细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-001,icons/biology/photosynthesis/photosystem-ii.svg,biology/photosynthesis,Photosystem II,光系统 II,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-002,icons/biology/photosynthesis/photosystem-i.svg,biology/photosynthesis,Photosystem I,光系统 I,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-003,icons/biology/photosynthesis/rubisco.svg,biology/photosynthesis,Rubisco holoenzyme,Rubisco 全酶,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-004,icons/biology/photosynthesis/calvin-cycle.svg,biology/photosynthesis,Calvin-Benson cycle,卡尔文-本森循环,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-005,icons/biology/photosynthesis/c4-carbon-concentrating-mechanism.svg,biology/photosynthesis,C4 carbon-concentrating mechanism,C4 碳浓缩机制,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-006,icons/biology/photosynthesis/photorespiration.svg,biology/photosynthesis,Photorespiration pathway,光呼吸途径,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-001,icons/biology/molecular-assays/crispr-cas9.svg,biology/molecular-assays,CRISPR-Cas9 genome editing,CRISPR-Cas9 基因编辑,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-002,icons/biology/molecular-assays/yeast-one-hybrid.svg,biology/molecular-assays,Yeast one-hybrid assay,酵母单杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-003,icons/biology/molecular-assays/emsa.svg,biology/molecular-assays,Electrophoretic mobility shift assay,电泳迁移率变动分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-004,icons/biology/molecular-assays/dual-luciferase.svg,biology/molecular-assays,Dual-luciferase reporter assay,双荧光素酶报告实验,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-005,icons/biology/molecular-assays/bifc.svg,biology/molecular-assays,Bimolecular fluorescence complementation,双分子荧光互补,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-006,icons/biology/molecular-assays/co-immunoprecipitation.svg,biology/molecular-assays,Co-immunoprecipitation assay,免疫共沉淀,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-001,icons/omics/analysis/pca-plot.svg,omics/analysis,Principal component analysis plot,主成分分析图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-002,icons/omics/analysis/umap-plot.svg,omics/analysis,UMAP embedding plot,UMAP 降维图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-003,icons/omics/analysis/gwas-manhattan.svg,omics/analysis,GWAS Manhattan plot,GWAS 曼哈顿图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-004,icons/omics/analysis/qtl-interval.svg,omics/analysis,QTL interval mapping,QTL 区间定位图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-005,icons/omics/analysis/wgcna-network.svg,omics/analysis,WGCNA co-expression network,WGCNA 共表达网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-006,icons/omics/analysis/gsea-enrichment.svg,omics/analysis,Gene set enrichment analysis,基因集富集分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-007,icons/omics/analysis/ppi-network.svg,omics/analysis,Protein-protein interaction network,蛋白质互作网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+GEN-001,icons/biology/genetics/chromosome.svg,biology/genetics,Chromosome,染色体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+GEN-002,icons/biology/genetics/gene-locus.svg,biology/genetics,Gene locus,基因位点,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+GEN-003,icons/biology/genetics/haplotype-block.svg,biology/genetics,Haplotype block,单倍型区块,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+GEN-004,icons/biology/genetics/loss-of-function-mutant.svg,biology/genetics,Loss-of-function mutant,功能缺失突变体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+GEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross,遗传杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
