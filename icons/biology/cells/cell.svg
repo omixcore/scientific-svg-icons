@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Eukaryotic cell</title><desc id="desc">A schematic animal cell with nucleus and organelles.</desc>
+<path d="M18 64c0-24 18-43 43-46 25-4 49 10 51 34 3 25-12 50-38 55-27 6-56-14-56-43Z" fill="#D9EFF5" stroke="#263746" stroke-width="3"/>
+<ellipse cx="62" cy="62" rx="20" ry="17" fill="#8EB6E8" stroke="#3F5F91" stroke-width="2.5"/><circle cx="67" cy="60" r="6" fill="#5577B5"/>
+<path d="M31 48c8-9 15-8 20-2M82 34c8 4 11 10 10 17M84 82c-8 8-16 10-23 8" fill="none" stroke="#D98A65" stroke-width="4" stroke-linecap="round"/>
+<path d="M28 72c8 4 11 10 9 16M83 67c8-3 13-1 17 5" fill="none" stroke="#6B9E83" stroke-width="4" stroke-linecap="round"/>
+<circle cx="44" cy="34" r="4" fill="#E5B65C"/><circle cx="93" cy="91" r="4" fill="#E5B65C"/><circle cx="36" cy="91" r="3" fill="#E5B65C"/>
+</svg>

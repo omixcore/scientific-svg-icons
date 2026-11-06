@@ -1,0 +1,15 @@
+id,path,category,title_en,title_zh,source,creator,license,status
+BIO-PLANT-001,icons/biology/plants/leaf.svg,biology/plants,Leaf,叶片,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-PLANT-002,icons/biology/plants/maize.svg,biology/plants,Maize,玉米,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-PLANT-003,icons/biology/plants/seedling.svg,biology/plants,Seedling,幼苗,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-CELL-001,icons/biology/cells/cell.svg,biology/cells,Cell,细胞,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-CELL-002,icons/biology/cells/chloroplast.svg,biology/cells,Chloroplast,叶绿体,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-MOL-001,icons/biology/molecules/dna-double-helix.svg,biology/molecules,DNA double helix,DNA 双螺旋,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-MOL-002,icons/biology/molecules/rna-single-strand.svg,biology/molecules,Single-stranded RNA,单链 RNA,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-MOL-003,icons/biology/molecules/protein.svg,biology/molecules,Protein,蛋白质,original-project-artwork,project-initial-set,not-assigned,draft
+EXP-MIC-001,icons/experiments/microscopy/microscope.svg,experiments/microscopy,Microscope,显微镜,original-project-artwork,project-initial-set,not-assigned,draft
+EXP-LAB-001,icons/experiments/lab-equipment/micropipette.svg,experiments/lab-equipment,Micropipette,移液器,original-project-artwork,project-initial-set,not-assigned,draft
+EXP-PCR-001,icons/experiments/pcr/pcr-tube.svg,experiments/pcr,PCR tube,PCR 管,original-project-artwork,project-initial-set,not-assigned,draft
+OMX-SEQ-001,icons/omics/sequencing/sequencer.svg,omics/sequencing,Sequencer,测序仪,original-project-artwork,project-initial-set,not-assigned,draft
+DIA-PATH-001,icons/diagrams/pathways/activation.svg,diagrams/pathways,Activation,激活,original-project-artwork,project-initial-set,not-assigned,draft
+DIA-PATH-002,icons/diagrams/pathways/inhibition.svg,diagrams/pathways,Inhibition,抑制,original-project-artwork,project-initial-set,not-assigned,draft

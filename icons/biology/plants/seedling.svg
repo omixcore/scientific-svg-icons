@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Seedling</title><desc id="desc">A young seedling growing from soil in a small pot.</desc>
+<path d="M37 78h54l-7 35H44Z" fill="#E7A45B" stroke="#263746" stroke-width="3" stroke-linejoin="round"/><path d="M31 77h66" stroke="#263746" stroke-width="4" stroke-linecap="round"/>
+<path d="M64 78V42" stroke="#397A50" stroke-width="4" stroke-linecap="round"/>
+<path d="M63 53C42 52 32 40 35 27c17-1 28 7 28 26Z" fill="#8BCB70" stroke="#263746" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M65 45c2-19 15-28 31-25 1 16-9 27-31 25Z" fill="#6EAF62" stroke="#263746" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M64 77c-8 8-10 14-10 20M64 77c8 8 10 14 10 20" fill="none" stroke="#D9B56D" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

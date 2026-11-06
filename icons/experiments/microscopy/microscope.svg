@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Microscope</title><desc id="desc">A laboratory microscope with eyepiece, objective, stage, and base.</desc>
+<path d="m42 17 18-8 18 37-18 9Z" fill="#8FB7D8" stroke="#263746" stroke-width="3" stroke-linejoin="round"/>
+<path d="m66 51 13 23-13 8-14-24Z" fill="#E7B45A" stroke="#263746" stroke-width="3" stroke-linejoin="round"/>
+<path d="M54 75c-5 18 7 29 25 29h13" fill="none" stroke="#263746" stroke-width="7" stroke-linecap="round"/>
+<path d="M35 82h43v9H35Z" fill="#75A8C9" stroke="#263746" stroke-width="2.5"/>
+<path d="M77 104h29v9H77c-15 0-25-8-28-20" fill="none" stroke="#263746" stroke-width="5" stroke-linecap="round"/>
+<path d="M31 114h78" stroke="#263746" stroke-width="6" stroke-linecap="round"/><circle cx="82" cy="74" r="5" fill="#E7B45A" stroke="#263746" stroke-width="2"/>
+</svg>

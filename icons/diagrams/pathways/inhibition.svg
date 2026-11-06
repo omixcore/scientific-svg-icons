@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Inhibition symbol</title><desc id="desc">A regulatory inhibition line ending in a perpendicular bar.</desc>
+<circle cx="22" cy="64" r="12" fill="#8FB7D8" stroke="#263746" stroke-width="2.5"/>
+<path d="M35 64h58" fill="none" stroke="#4389C8" stroke-width="5" stroke-linecap="round"/>
+<path d="M94 45v38" fill="none" stroke="#4389C8" stroke-width="6" stroke-linecap="round"/>
+<circle cx="108" cy="64" r="7" fill="#E7B45A" stroke="#263746" stroke-width="2"/>
+</svg>

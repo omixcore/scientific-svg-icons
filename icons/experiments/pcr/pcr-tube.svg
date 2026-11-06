@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">PCR tube</title><desc id="desc">A microcentrifuge PCR tube with cap and colored reaction mixture.</desc>
+<path d="M42 19h44v13H42Z" fill="#E7B45A" stroke="#263746" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M48 32h32l-5 66c-1 11-21 11-22 0Z" fill="#E7F1F6" stroke="#263746" stroke-width="3" stroke-linejoin="round"/>
+<path d="M51 72h26l-2 25c-1 8-19 8-20 0Z" fill="#7FB9DE" opacity=".9"/><path d="M53 45h22" stroke="#9DBACB" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

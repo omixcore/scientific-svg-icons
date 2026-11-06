@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Leaf</title><desc id="desc">A stylized green leaf with a central vein and branching veins.</desc>
+<path d="M103 17C70 17 37 29 25 57c-9 21 1 43 21 48 25 7 49-13 56-43 4-16 3-32 1-45Z" fill="#A8C66C" stroke="#263746" stroke-width="3" stroke-linejoin="round"/>
+<path d="M24 105c18-24 40-45 72-70" fill="none" stroke="#263746" stroke-width="3" stroke-linecap="round"/>
+<path d="M42 83 39 61M56 69l-1-24M67 58l17 2M52 75l17 10M76 47l14-2" fill="none" stroke="#4F8A55" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

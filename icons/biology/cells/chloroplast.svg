@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Chloroplast</title><desc id="desc">A schematic chloroplast with internal thylakoid stacks.</desc>
+<ellipse cx="64" cy="64" rx="48" ry="31" fill="#C9E7A0" stroke="#263746" stroke-width="3"/>
+<path d="M28 53c10-7 19-7 29 0s19 7 29 0 13-6 16-4M28 74c10-7 19-7 29 0s19 7 29 0 13-6 16-4" fill="none" stroke="#4E8C55" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#75AD5B" stroke="#3E7548" stroke-width="1.5"><rect x="38" y="43" width="24" height="7" rx="3.5"/><rect x="38" y="52" width="24" height="7" rx="3.5"/><rect x="38" y="61" width="24" height="7" rx="3.5"/><rect x="70" y="61" width="22" height="7" rx="3.5"/><rect x="70" y="70" width="22" height="7" rx="3.5"/></g>
+</svg>

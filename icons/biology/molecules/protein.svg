@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Protein ribbon</title><desc id="desc">A schematic folded protein ribbon with several structural elements.</desc>
+<path d="M20 72c-7-13 4-26 17-20 10 5 4 20 15 22 11 2 9-22 21-25 13-3 18 12 9 21-8 8-18 4-18 16 0 12 17 17 27 7" fill="none" stroke="#4389C8" stroke-width="7" stroke-linecap="round"/>
+<path d="M25 37c10-11 23-11 33 0s23 11 33 0" fill="none" stroke="#E5A34A" stroke-width="6" stroke-linecap="round"/>
+<path d="M31 94c10-7 19-7 29 0s19 7 29 0" fill="none" stroke="#70A96A" stroke-width="6" stroke-linecap="round"/>
+</svg>

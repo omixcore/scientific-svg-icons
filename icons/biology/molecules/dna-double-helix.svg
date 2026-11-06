@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">DNA double helix</title><desc id="desc">A simplified DNA double helix with paired rungs.</desc>
+<path d="M34 14C94 32 34 96 94 114M94 14C34 32 94 96 34 114" fill="none" stroke="#4389C8" stroke-width="5" stroke-linecap="round"/>
+<g stroke="#263746" stroke-width="2.5" stroke-linecap="round"><path d="M44 22h40M55 37h18M61 52h6M55 67h18M44 82h40M36 98h56"/></g>
+<g fill="#E7A94B"><circle cx="44" cy="22" r="3"/><circle cx="84" cy="22" r="3"/><circle cx="55" cy="37" r="3"/><circle cx="73" cy="37" r="3"/><circle cx="61" cy="52" r="3"/><circle cx="67" cy="52" r="3"/><circle cx="55" cy="67" r="3"/><circle cx="73" cy="67" r="3"/><circle cx="44" cy="82" r="3"/><circle cx="84" cy="82" r="3"/></g>
+</svg>
