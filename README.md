@@ -73,6 +73,8 @@ Additional icons: [Xylem vessel](icons/biology/tissues/xylem-vessel.svg) · [Phl
 
 [Centrifuge](icons/experiments/lab-equipment/centrifuge.svg) · [Microcentrifuge tube](icons/experiments/lab-equipment/microcentrifuge-tube.svg) · [Petri dish](icons/experiments/lab-equipment/petri-dish.svg) · [Growth chamber](icons/experiments/growth-chamber.svg)
 
+[Erlenmeyer flask](icons/experiments/lab-equipment/erlenmeyer-flask.svg) · [Micropipette](icons/experiments/lab-equipment/micropipette.svg) · [Analytical balance](icons/experiments/lab-equipment/analytical-balance.svg) · [Vertical autoclave](icons/experiments/lab-equipment/vertical-autoclave.svg)
+
 ### Workflows | 科研流程
 
 [Sample-to-omics](icons/diagrams/workflows/sample-to-omics.svg) · [RNA-seq workflow](icons/diagrams/workflows/rna-seq-workflow.svg) · [Multi-omics integration](icons/diagrams/workflows/multi-omics-integration.svg) · [Bioinformatics pipeline](icons/diagrams/workflows/bioinformatics-pipeline.svg)

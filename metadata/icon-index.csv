@@ -8,7 +8,7 @@ BIO-MOL-001,icons/biology/molecules/dna-double-helix.svg,biology/molecules,DNA d
 BIO-MOL-002,icons/biology/molecules/rna-single-strand.svg,biology/molecules,Single-stranded RNA,单链 RNA,original-project-artwork,project-initial-set,not-assigned,draft
 BIO-MOL-003,icons/biology/molecules/protein.svg,biology/molecules,Protein,蛋白质,original-project-artwork,project-initial-set,not-assigned,draft
 EXP-MIC-001,icons/experiments/microscopy/microscope.svg,experiments/microscopy,Microscope,显微镜,original-project-artwork,project-initial-set,not-assigned,draft
-EXP-LAB-001,icons/experiments/lab-equipment/micropipette.svg,experiments/lab-equipment,Micropipette,移液器,original-project-artwork,project-initial-set,not-assigned,draft
+EXP-LAB-001,icons/experiments/lab-equipment/micropipette.svg,experiments/lab-equipment,Micropipette,移液器,user-provided-file,not-specified,not-assigned,draft
 EXP-PCR-001,icons/experiments/pcr/pcr-tube.svg,experiments/pcr,PCR tube,PCR 管,original-project-artwork,project-initial-set,not-assigned,draft
 OMX-SEQ-001,icons/omics/sequencing/sequencer.svg,omics/sequencing,Sequencer,测序仪,original-project-artwork,project-initial-set,not-assigned,draft
 DIA-PATH-001,icons/diagrams/pathways/activation.svg,diagrams/pathways,Activation,激活,original-project-artwork,project-initial-set,not-assigned,draft
@@ -72,3 +72,6 @@ PGEN-002,icons/biology/genetics/gene-locus.svg,biology/genetics,Gene locus,基�
 PGEN-003,icons/biology/genetics/haplotype-block.svg,biology/genetics,Haplotype block,单倍型区块,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 PGEN-004,icons/biology/genetics/loss-of-function-mutant.svg,biology/genetics,Loss-of-function mutant,功能缺失突变体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 PGEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross,遗传杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+LAB-004,icons/experiments/lab-equipment/erlenmeyer-flask.svg,experiments/lab-equipment,Erlenmeyer flask,锥形瓶,user-provided-file,not-specified,not-assigned,draft
+LAB-005,icons/experiments/lab-equipment/analytical-balance.svg,experiments/lab-equipment,Analytical balance,分析天平,user-provided-file,not-specified,not-assigned,draft
+LAB-006,icons/experiments/lab-equipment/vertical-autoclave.svg,experiments/lab-equipment,Vertical autoclave,立式高压蒸汽灭菌器,user-provided-file,not-specified,not-assigned,draft
