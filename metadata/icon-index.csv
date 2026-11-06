@@ -399,3 +399,123 @@ B120-117,icons/omics/statistical-components/missing-data-pattern.svg,omics/stati
 B120-118,icons/omics/statistical-components/phylogenetic-tree-concept.svg,omics/statistical-components,Phylogenetic tree,系统发育树,original-project-artwork,AI-assisted,not-assigned,draft
 B120-119,icons/omics/statistical-components/set-intersection-venn.svg,omics/statistical-components,Set intersection,集合交集,original-project-artwork,AI-assisted,not-assigned,draft
 B120-120,icons/omics/statistical-components/violin-plot-concept.svg,omics/statistical-components,Violin plot,小提琴图,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-001,icons/human/organs/human-brain.svg,human/organs,Human brain,人脑,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-002,icons/human/organs/human-heart.svg,human/organs,Human heart,人心脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-003,icons/human/organs/human-lungs.svg,human/organs,Human lungs,人肺,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-004,icons/human/organs/human-liver.svg,human/organs,Human liver,人肝脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-005,icons/human/organs/human-kidney.svg,human/organs,Human kidney,人肾脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-006,icons/human/organs/human-stomach.svg,human/organs,Human stomach,人胃,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-007,icons/human/organs/human-intestine.svg,human/organs,Human intestine,人肠道,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-008,icons/human/organs/human-pancreas.svg,human/organs,Human pancreas,人胰腺,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-009,icons/human/organs/human-spleen.svg,human/organs,Human spleen,人脾脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-010,icons/human/organs/urinary-bladder.svg,human/organs,Urinary bladder,膀胱,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-011,icons/human/organs/skin-cross-section.svg,human/organs,Skin cross section,皮肤横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-012,icons/human/organs/long-bone.svg,human/organs,Long bone,长骨,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-013,icons/human/cells/erythrocyte.svg,human/cells,Erythrocyte,红细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-014,icons/human/cells/neuron.svg,human/cells,Neuron,神经元,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-015,icons/human/cells/skeletal-myofiber.svg,human/cells,Skeletal myofiber,骨骼肌纤维,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-016,icons/human/cells/smooth-muscle-cell.svg,human/cells,Smooth muscle cell,平滑肌细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-017,icons/human/cells/adipocyte.svg,human/cells,Adipocyte,脂肪细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-018,icons/human/cells/osteocyte.svg,human/cells,Osteocyte,骨细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-019,icons/human/cells/chondrocyte.svg,human/cells,Chondrocyte,软骨细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-020,icons/human/cells/hepatocyte.svg,human/cells,Hepatocyte,肝细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-021,icons/human/cells/enterocyte.svg,human/cells,Enterocyte,肠吸收细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-022,icons/human/cells/goblet-cell.svg,human/cells,Goblet cell,杯状细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-023,icons/human/cells/endothelial-cell.svg,human/cells,Endothelial cell,内皮细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-024,icons/human/cells/fibroblast.svg,human/cells,Fibroblast,成纤维细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-025,icons/animal/mouse-research/laboratory-mouse-profile.svg,animal/mouse-research,Laboratory mouse profile,实验小鼠侧面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-026,icons/animal/mouse-research/laboratory-mouse-dorsal.svg,animal/mouse-research,Laboratory mouse dorsal view,实验小鼠背面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-027,icons/animal/mouse-research/mouse-housing-cage.svg,animal/mouse-research,Mouse housing cage,小鼠饲养笼,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-028,icons/animal/mouse-research/mouse-water-bottle.svg,animal/mouse-research,Mouse drinking bottle,小鼠饮水瓶,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-029,icons/animal/mouse-research/mouse-feed-hopper.svg,animal/mouse-research,Mouse feed hopper,小鼠饲料槽,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-030,icons/animal/mouse-research/mouse-running-wheel.svg,animal/mouse-research,Mouse running wheel,小鼠跑轮,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-031,icons/animal/mouse-research/mouse-enrichment-tunnel.svg,animal/mouse-research,Mouse enrichment tunnel,小鼠丰容隧道,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-032,icons/animal/mouse-research/mouse-body-weight.svg,animal/mouse-research,Mouse body weight measurement,小鼠体重称量,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-033,icons/animal/mouse-research/mouse-ear-tag.svg,animal/mouse-research,Mouse ear tag,小鼠耳标,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-034,icons/animal/mouse-research/mouse-footprints.svg,animal/mouse-research,Mouse footprints,小鼠足迹,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-035,icons/animal/mouse-research/mouse-open-field-arena.svg,animal/mouse-research,Mouse open field arena,小鼠旷场装置,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-036,icons/animal/mouse-research/mouse-restraint-tube.svg,animal/mouse-research,Mouse restraint tube,小鼠固定管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-037,icons/medicine/dosage-forms/oral-tablet.svg,medicine/dosage-forms,Oral tablet,口服片剂,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-038,icons/medicine/dosage-forms/hard-capsule.svg,medicine/dosage-forms,Hard capsule,硬胶囊,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-039,icons/medicine/dosage-forms/softgel-capsule.svg,medicine/dosage-forms,Softgel capsule,软胶囊,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-040,icons/medicine/dosage-forms/oral-liquid.svg,medicine/dosage-forms,Oral liquid medicine,口服液,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-041,icons/medicine/dosage-forms/metered-dose-inhaler.svg,medicine/dosage-forms,Metered dose inhaler,定量吸入器,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-042,icons/medicine/dosage-forms/nasal-spray-bottle.svg,medicine/dosage-forms,Nasal spray bottle,鼻喷剂瓶,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-043,icons/medicine/dosage-forms/transdermal-patch.svg,medicine/dosage-forms,Transdermal patch,透皮贴剂,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-044,icons/medicine/dosage-forms/suppository.svg,medicine/dosage-forms,Suppository,栓剂,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-045,icons/medicine/dosage-forms/ointment-tube.svg,medicine/dosage-forms,Ointment tube,软膏管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-046,icons/medicine/dosage-forms/eye-drop-bottle.svg,medicine/dosage-forms,Eye drop bottle,滴眼液瓶,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-047,icons/medicine/dosage-forms/blister-pack.svg,medicine/dosage-forms,Blister pack,泡罩包装,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-048,icons/medicine/dosage-forms/powder-sachet.svg,medicine/dosage-forms,Powder sachet,药用粉剂袋,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-049,icons/medicine/delivery-systems/drug-loaded-liposome.svg,medicine/delivery-systems,Drug loaded liposome,载药脂质体,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-050,icons/medicine/delivery-systems/polymeric-nanoparticle.svg,medicine/delivery-systems,Polymeric nanoparticle,聚合物纳米颗粒,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-051,icons/medicine/delivery-systems/drug-micelle.svg,medicine/delivery-systems,Drug micelle,载药胶束,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-052,icons/medicine/delivery-systems/hydrogel-drug-depot.svg,medicine/delivery-systems,Hydrogel drug depot,水凝胶药物储库,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-053,icons/medicine/delivery-systems/implantable-drug-rod.svg,medicine/delivery-systems,Implantable drug rod,植入式药物棒,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-054,icons/medicine/delivery-systems/intravenous-infusion-bag.svg,medicine/delivery-systems,Intravenous infusion bag,静脉输液袋,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-055,icons/medicine/delivery-systems/syringe-pump-device.svg,medicine/delivery-systems,Syringe pump,注射泵,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-056,icons/medicine/delivery-systems/nebulizer-device.svg,medicine/delivery-systems,Nebulizer,雾化器,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-057,icons/medicine/delivery-systems/oral-dose-syringe.svg,medicine/delivery-systems,Oral dosing syringe,口服给药注射器,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-058,icons/medicine/delivery-systems/enteric-coated-tablet.svg,medicine/delivery-systems,Enteric coated tablet,肠溶包衣片,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-059,icons/medicine/delivery-systems/porous-tissue-scaffold.svg,medicine/delivery-systems,Porous tissue scaffold,多孔组织支架,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-060,icons/medicine/delivery-systems/wound-dressing.svg,medicine/delivery-systems,Wound dressing,伤口敷料,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-061,icons/plants/leaf-tissues/dicot-leaf-section.svg,plants/leaf-tissues,Dicot leaf section,双子叶植物叶片切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-062,icons/plants/leaf-tissues/monocot-leaf-section.svg,plants/leaf-tissues,Monocot leaf section,单子叶植物叶片切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-063,icons/plants/leaf-tissues/palisade-mesophyll.svg,plants/leaf-tissues,Palisade mesophyll,栅栏叶肉,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-064,icons/plants/leaf-tissues/spongy-mesophyll.svg,plants/leaf-tissues,Spongy mesophyll,海绵叶肉,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-065,icons/plants/leaf-tissues/epidermal-pavement-tissue.svg,plants/leaf-tissues,Pavement epidermal tissue,表皮铺路细胞组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-066,icons/plants/leaf-tissues/leaf-cuticle.svg,plants/leaf-tissues,Leaf cuticle,叶片角质层,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-067,icons/plants/leaf-tissues/stomatal-pore-section.svg,plants/leaf-tissues,Stomatal pore section,气孔孔隙切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-068,icons/plants/leaf-tissues/grass-guard-cells.svg,plants/leaf-tissues,Grass guard cells,禾本科保卫细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-069,icons/plants/leaf-tissues/kranz-anatomy-concept.svg,plants/leaf-tissues,Kranz anatomy concept,花环结构示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-070,icons/plants/leaf-tissues/glandular-trichome.svg,plants/leaf-tissues,Glandular trichome,腺毛,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-071,icons/plants/leaf-tissues/leaf-hydathode.svg,plants/leaf-tissues,Leaf hydathode,叶片水孔,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-072,icons/plants/leaf-tissues/bulliform-cells.svg,plants/leaf-tissues,Bulliform cells,泡状细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-073,icons/plants/root-tissues/monocot-root-section.svg,plants/root-tissues,Monocot root section,单子叶植物根横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-074,icons/plants/root-tissues/dicot-root-section.svg,plants/root-tissues,Dicot root section,双子叶植物根横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-075,icons/plants/root-tissues/root-cortex.svg,plants/root-tissues,Root cortex tissue,根皮层组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-076,icons/plants/root-tissues/endodermal-ring.svg,plants/root-tissues,Endodermal ring,内皮层环,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-077,icons/plants/root-tissues/pericycle-layer.svg,plants/root-tissues,Pericycle layer,中柱鞘层,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-078,icons/plants/root-tissues/casparian-strip.svg,plants/root-tissues,Casparian strip concept,凯氏带示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-079,icons/plants/root-tissues/exodermal-tissue.svg,plants/root-tissues,Exodermal tissue,外皮层组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-080,icons/plants/root-tissues/root-meristem-tissue.svg,plants/root-tissues,Root meristematic tissue,根分生组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-081,icons/plants/root-tissues/quiescent-center-concept.svg,plants/root-tissues,Root quiescent center concept,根静止中心示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-082,icons/plants/root-tissues/root-cap-statoliths.svg,plants/root-tissues,Root cap statolith concept,根冠平衡石示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-083,icons/plants/root-tissues/root-aerenchyma.svg,plants/root-tissues,Root aerenchyma,根通气组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-084,icons/plants/root-tissues/root-vascular-cylinder.svg,plants/root-tissues,Root vascular cylinder,根中柱,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-085,icons/plants/stem-tissues/herbaceous-dicot-stem-section.svg,plants/stem-tissues,Herbaceous dicot stem section,草本双子叶植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-086,icons/plants/stem-tissues/monocot-stem-section.svg,plants/stem-tissues,Monocot stem section,单子叶植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-087,icons/plants/stem-tissues/woody-stem-section.svg,plants/stem-tissues,Woody stem section,木本植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-088,icons/plants/stem-tissues/vascular-cambium.svg,plants/stem-tissues,Vascular cambium,维管形成层,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-089,icons/plants/stem-tissues/annual-growth-rings.svg,plants/stem-tissues,Annual growth rings,年轮,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-090,icons/plants/stem-tissues/cork-tissue.svg,plants/stem-tissues,Cork tissue,木栓组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-091,icons/plants/stem-tissues/lenticel.svg,plants/stem-tissues,Lenticel,皮孔,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-092,icons/plants/stem-tissues/sclerenchyma-fibers.svg,plants/stem-tissues,Sclerenchyma fibers,厚壁纤维组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-093,icons/plants/stem-tissues/collenchyma-tissue.svg,plants/stem-tissues,Collenchyma tissue,厚角组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-094,icons/plants/stem-tissues/collateral-vascular-bundle.svg,plants/stem-tissues,Collateral vascular bundle,外韧维管束,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-095,icons/plants/stem-tissues/stem-pith.svg,plants/stem-tissues,Stem pith tissue,茎髓组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-096,icons/plants/stem-tissues/stem-node-section.svg,plants/stem-tissues,Stem node longitudinal section,茎节纵切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-097,icons/plants/reproductive-tissues/anther-cross-section.svg,plants/reproductive-tissues,Anther cross section,花药横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-098,icons/plants/reproductive-tissues/pollen-tetrad.svg,plants/reproductive-tissues,Pollen tetrad,花粉四分体,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-099,icons/plants/reproductive-tissues/ovule-section.svg,plants/reproductive-tissues,Ovule section,胚珠切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-100,icons/plants/reproductive-tissues/pistil.svg,plants/reproductive-tissues,Pistil,雌蕊,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-101,icons/plants/reproductive-tissues/stigma-surface.svg,plants/reproductive-tissues,Stigma surface,柱头表面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-102,icons/plants/reproductive-tissues/ovary-cross-section.svg,plants/reproductive-tissues,Ovary cross section,子房横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-103,icons/plants/reproductive-tissues/petal-tissue.svg,plants/reproductive-tissues,Petal,花瓣,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-104,icons/plants/reproductive-tissues/sepal.svg,plants/reproductive-tissues,Sepal,萼片,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-105,icons/plants/reproductive-tissues/floral-meristem-concept.svg,plants/reproductive-tissues,Floral meristem concept,花分生组织示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-106,icons/plants/reproductive-tissues/seed-coat-tissue.svg,plants/reproductive-tissues,Seed coat tissue,种皮组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-107,icons/plants/reproductive-tissues/endosperm-tissue.svg,plants/reproductive-tissues,Endosperm tissue,胚乳组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-108,icons/plants/reproductive-tissues/pollen-tube-in-style.svg,plants/reproductive-tissues,Pollen tube in style,花柱内花粉管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-109,icons/human/tissues/artery-cross-section.svg,human/tissues,Artery cross section,动脉横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-110,icons/human/tissues/vein-cross-section.svg,human/tissues,Vein cross section,静脉横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-111,icons/human/tissues/capillary-tissue.svg,human/tissues,Capillary,毛细血管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-112,icons/human/tissues/alveolar-cluster.svg,human/tissues,Alveolar cluster,肺泡簇,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-113,icons/human/tissues/nephron-concept.svg,human/tissues,Nephron concept,肾单位示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-114,icons/human/tissues/intestinal-villus.svg,human/tissues,Intestinal villus,肠绒毛,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-115,icons/human/tissues/hyaline-cartilage.svg,human/tissues,Hyaline cartilage,透明软骨,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-116,icons/human/tissues/tendon-tissue.svg,human/tissues,Tendon tissue,肌腱组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-117,icons/human/tissues/skeletal-muscle-bundle.svg,human/tissues,Skeletal muscle bundle,骨骼肌束,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-118,icons/human/tissues/smooth-muscle-tissue.svg,human/tissues,Smooth muscle tissue,平滑肌组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-119,icons/human/tissues/peripheral-nerve-section.svg,human/tissues,Peripheral nerve section,外周神经横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-120,icons/human/tissues/lymph-node-section.svg,human/tissues,Lymph node section,淋巴结切面,original-project-artwork,AI-assisted,not-assigned,draft

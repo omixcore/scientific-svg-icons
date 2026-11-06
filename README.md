@@ -5,6 +5,7 @@
 面向科研绘图与科学可视化的可编辑 SVG 图标库，集中整理植物生物学、分子生物学、组学分析、实验设备及科研机制图素材。
 
 - **Repository:** [omixcore/scientific-svg-icons](https://github.com/omixcore/scientific-svg-icons)
+- **Total SVG assets:** 520
 - **Version:** `0.0.1`
 - **Primary format:** SVG
 - **Language:** English / 中文
@@ -60,6 +61,16 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/specimen-preparation/` | Specimen preparation / 样品制备 |
 | `icons/omics/metabolomics-workflow/` | Metabolomics workflow / 代谢组流程 |
 | `icons/omics/statistical-components/` | Statistical components / 统计分析组件 |
+| `icons/human/organs/` | Human organs / 人体器官 |
+| `icons/human/cells/` | Human cells / 人体细胞 |
+| `icons/animal/mouse-research/` | Mouse research / 小鼠研究 |
+| `icons/medicine/dosage-forms/` | Pharmaceutical dosage forms / 药物剂型 |
+| `icons/medicine/delivery-systems/` | Drug delivery systems / 药物递送 |
+| `icons/plants/leaf-tissues/` | Plant leaf tissues / 植物叶片组织 |
+| `icons/plants/root-tissues/` | Plant root tissues / 植物根组织 |
+| `icons/plants/stem-tissues/` | Plant stem tissues / 植物茎组织 |
+| `icons/plants/reproductive-tissues/` | Plant reproductive tissues / 植物生殖组织 |
+| `icons/human/tissues/` | Human tissues / 人体组织 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -612,4 +623,151 @@ Shapes, arrows and example data are schematic. Adapt biological relationships, i
 | Missing data pattern / 缺失数据分布 | Phylogenetic tree / 系统发育树 | Set intersection / 集合交集 | Violin plot / 小提琴图 |
 | --- | --- | --- | --- |
 | [![Missing data pattern](icons/omics/statistical-components/missing-data-pattern.svg)](icons/omics/statistical-components/missing-data-pattern.svg) | [![Phylogenetic tree](icons/omics/statistical-components/phylogenetic-tree-concept.svg)](icons/omics/statistical-components/phylogenetic-tree-concept.svg) | [![Set intersection](icons/omics/statistical-components/set-intersection-venn.svg)](icons/omics/statistical-components/set-intersection-venn.svg) | [![Violin plot](icons/omics/statistical-components/violin-plot-concept.svg)](icons/omics/statistical-components/violin-plot-concept.svg) |
+
+
+## Human, mouse, medicine and plant tissues | 人体、小鼠、医药与植物组织
+
+This batch adds **120 editable SVGs**, twelve per category. 本批新增 **120 个可编辑 SVG**，十类各 12 个。
+
+These are conceptual illustrations with simplified anatomy and proportions. Drug and animal-research icons depict objects and settings; adapt details to the actual study. 此组为简化结构和比例的概念示意图；药物及动物研究素材用于表达对象和场景，具体细节需结合实际研究调整。
+
+### Human organs | 人体器官
+
+| Human brain / 人脑 | Human heart / 人心脏 | Human lungs / 人肺 | Human liver / 人肝脏 |
+| --- | --- | --- | --- |
+| [![Human brain](icons/human/organs/human-brain.svg)](icons/human/organs/human-brain.svg) | [![Human heart](icons/human/organs/human-heart.svg)](icons/human/organs/human-heart.svg) | [![Human lungs](icons/human/organs/human-lungs.svg)](icons/human/organs/human-lungs.svg) | [![Human liver](icons/human/organs/human-liver.svg)](icons/human/organs/human-liver.svg) |
+
+| Human kidney / 人肾脏 | Human stomach / 人胃 | Human intestine / 人肠道 | Human pancreas / 人胰腺 |
+| --- | --- | --- | --- |
+| [![Human kidney](icons/human/organs/human-kidney.svg)](icons/human/organs/human-kidney.svg) | [![Human stomach](icons/human/organs/human-stomach.svg)](icons/human/organs/human-stomach.svg) | [![Human intestine](icons/human/organs/human-intestine.svg)](icons/human/organs/human-intestine.svg) | [![Human pancreas](icons/human/organs/human-pancreas.svg)](icons/human/organs/human-pancreas.svg) |
+
+| Human spleen / 人脾脏 | Urinary bladder / 膀胱 | Skin cross section / 皮肤横切面 | Long bone / 长骨 |
+| --- | --- | --- | --- |
+| [![Human spleen](icons/human/organs/human-spleen.svg)](icons/human/organs/human-spleen.svg) | [![Urinary bladder](icons/human/organs/urinary-bladder.svg)](icons/human/organs/urinary-bladder.svg) | [![Skin cross section](icons/human/organs/skin-cross-section.svg)](icons/human/organs/skin-cross-section.svg) | [![Long bone](icons/human/organs/long-bone.svg)](icons/human/organs/long-bone.svg) |
+
+### Human cells | 人体细胞
+
+| Erythrocyte / 红细胞 | Neuron / 神经元 | Skeletal myofiber / 骨骼肌纤维 | Smooth muscle cell / 平滑肌细胞 |
+| --- | --- | --- | --- |
+| [![Erythrocyte](icons/human/cells/erythrocyte.svg)](icons/human/cells/erythrocyte.svg) | [![Neuron](icons/human/cells/neuron.svg)](icons/human/cells/neuron.svg) | [![Skeletal myofiber](icons/human/cells/skeletal-myofiber.svg)](icons/human/cells/skeletal-myofiber.svg) | [![Smooth muscle cell](icons/human/cells/smooth-muscle-cell.svg)](icons/human/cells/smooth-muscle-cell.svg) |
+
+| Adipocyte / 脂肪细胞 | Osteocyte / 骨细胞 | Chondrocyte / 软骨细胞 | Hepatocyte / 肝细胞 |
+| --- | --- | --- | --- |
+| [![Adipocyte](icons/human/cells/adipocyte.svg)](icons/human/cells/adipocyte.svg) | [![Osteocyte](icons/human/cells/osteocyte.svg)](icons/human/cells/osteocyte.svg) | [![Chondrocyte](icons/human/cells/chondrocyte.svg)](icons/human/cells/chondrocyte.svg) | [![Hepatocyte](icons/human/cells/hepatocyte.svg)](icons/human/cells/hepatocyte.svg) |
+
+| Enterocyte / 肠吸收细胞 | Goblet cell / 杯状细胞 | Endothelial cell / 内皮细胞 | Fibroblast / 成纤维细胞 |
+| --- | --- | --- | --- |
+| [![Enterocyte](icons/human/cells/enterocyte.svg)](icons/human/cells/enterocyte.svg) | [![Goblet cell](icons/human/cells/goblet-cell.svg)](icons/human/cells/goblet-cell.svg) | [![Endothelial cell](icons/human/cells/endothelial-cell.svg)](icons/human/cells/endothelial-cell.svg) | [![Fibroblast](icons/human/cells/fibroblast.svg)](icons/human/cells/fibroblast.svg) |
+
+### Mouse research | 小鼠研究
+
+| Laboratory mouse profile / 实验小鼠侧面 | Laboratory mouse dorsal view / 实验小鼠背面 | Mouse housing cage / 小鼠饲养笼 | Mouse drinking bottle / 小鼠饮水瓶 |
+| --- | --- | --- | --- |
+| [![Laboratory mouse profile](icons/animal/mouse-research/laboratory-mouse-profile.svg)](icons/animal/mouse-research/laboratory-mouse-profile.svg) | [![Laboratory mouse dorsal view](icons/animal/mouse-research/laboratory-mouse-dorsal.svg)](icons/animal/mouse-research/laboratory-mouse-dorsal.svg) | [![Mouse housing cage](icons/animal/mouse-research/mouse-housing-cage.svg)](icons/animal/mouse-research/mouse-housing-cage.svg) | [![Mouse drinking bottle](icons/animal/mouse-research/mouse-water-bottle.svg)](icons/animal/mouse-research/mouse-water-bottle.svg) |
+
+| Mouse feed hopper / 小鼠饲料槽 | Mouse running wheel / 小鼠跑轮 | Mouse enrichment tunnel / 小鼠丰容隧道 | Mouse body weight measurement / 小鼠体重称量 |
+| --- | --- | --- | --- |
+| [![Mouse feed hopper](icons/animal/mouse-research/mouse-feed-hopper.svg)](icons/animal/mouse-research/mouse-feed-hopper.svg) | [![Mouse running wheel](icons/animal/mouse-research/mouse-running-wheel.svg)](icons/animal/mouse-research/mouse-running-wheel.svg) | [![Mouse enrichment tunnel](icons/animal/mouse-research/mouse-enrichment-tunnel.svg)](icons/animal/mouse-research/mouse-enrichment-tunnel.svg) | [![Mouse body weight measurement](icons/animal/mouse-research/mouse-body-weight.svg)](icons/animal/mouse-research/mouse-body-weight.svg) |
+
+| Mouse ear tag / 小鼠耳标 | Mouse footprints / 小鼠足迹 | Mouse open field arena / 小鼠旷场装置 | Mouse restraint tube / 小鼠固定管 |
+| --- | --- | --- | --- |
+| [![Mouse ear tag](icons/animal/mouse-research/mouse-ear-tag.svg)](icons/animal/mouse-research/mouse-ear-tag.svg) | [![Mouse footprints](icons/animal/mouse-research/mouse-footprints.svg)](icons/animal/mouse-research/mouse-footprints.svg) | [![Mouse open field arena](icons/animal/mouse-research/mouse-open-field-arena.svg)](icons/animal/mouse-research/mouse-open-field-arena.svg) | [![Mouse restraint tube](icons/animal/mouse-research/mouse-restraint-tube.svg)](icons/animal/mouse-research/mouse-restraint-tube.svg) |
+
+### Pharmaceutical dosage forms | 药物剂型
+
+| Oral tablet / 口服片剂 | Hard capsule / 硬胶囊 | Softgel capsule / 软胶囊 | Oral liquid medicine / 口服液 |
+| --- | --- | --- | --- |
+| [![Oral tablet](icons/medicine/dosage-forms/oral-tablet.svg)](icons/medicine/dosage-forms/oral-tablet.svg) | [![Hard capsule](icons/medicine/dosage-forms/hard-capsule.svg)](icons/medicine/dosage-forms/hard-capsule.svg) | [![Softgel capsule](icons/medicine/dosage-forms/softgel-capsule.svg)](icons/medicine/dosage-forms/softgel-capsule.svg) | [![Oral liquid medicine](icons/medicine/dosage-forms/oral-liquid.svg)](icons/medicine/dosage-forms/oral-liquid.svg) |
+
+| Metered dose inhaler / 定量吸入器 | Nasal spray bottle / 鼻喷剂瓶 | Transdermal patch / 透皮贴剂 | Suppository / 栓剂 |
+| --- | --- | --- | --- |
+| [![Metered dose inhaler](icons/medicine/dosage-forms/metered-dose-inhaler.svg)](icons/medicine/dosage-forms/metered-dose-inhaler.svg) | [![Nasal spray bottle](icons/medicine/dosage-forms/nasal-spray-bottle.svg)](icons/medicine/dosage-forms/nasal-spray-bottle.svg) | [![Transdermal patch](icons/medicine/dosage-forms/transdermal-patch.svg)](icons/medicine/dosage-forms/transdermal-patch.svg) | [![Suppository](icons/medicine/dosage-forms/suppository.svg)](icons/medicine/dosage-forms/suppository.svg) |
+
+| Ointment tube / 软膏管 | Eye drop bottle / 滴眼液瓶 | Blister pack / 泡罩包装 | Powder sachet / 药用粉剂袋 |
+| --- | --- | --- | --- |
+| [![Ointment tube](icons/medicine/dosage-forms/ointment-tube.svg)](icons/medicine/dosage-forms/ointment-tube.svg) | [![Eye drop bottle](icons/medicine/dosage-forms/eye-drop-bottle.svg)](icons/medicine/dosage-forms/eye-drop-bottle.svg) | [![Blister pack](icons/medicine/dosage-forms/blister-pack.svg)](icons/medicine/dosage-forms/blister-pack.svg) | [![Powder sachet](icons/medicine/dosage-forms/powder-sachet.svg)](icons/medicine/dosage-forms/powder-sachet.svg) |
+
+### Drug delivery systems | 药物递送
+
+| Drug loaded liposome / 载药脂质体 | Polymeric nanoparticle / 聚合物纳米颗粒 | Drug micelle / 载药胶束 | Hydrogel drug depot / 水凝胶药物储库 |
+| --- | --- | --- | --- |
+| [![Drug loaded liposome](icons/medicine/delivery-systems/drug-loaded-liposome.svg)](icons/medicine/delivery-systems/drug-loaded-liposome.svg) | [![Polymeric nanoparticle](icons/medicine/delivery-systems/polymeric-nanoparticle.svg)](icons/medicine/delivery-systems/polymeric-nanoparticle.svg) | [![Drug micelle](icons/medicine/delivery-systems/drug-micelle.svg)](icons/medicine/delivery-systems/drug-micelle.svg) | [![Hydrogel drug depot](icons/medicine/delivery-systems/hydrogel-drug-depot.svg)](icons/medicine/delivery-systems/hydrogel-drug-depot.svg) |
+
+| Implantable drug rod / 植入式药物棒 | Intravenous infusion bag / 静脉输液袋 | Syringe pump / 注射泵 | Nebulizer / 雾化器 |
+| --- | --- | --- | --- |
+| [![Implantable drug rod](icons/medicine/delivery-systems/implantable-drug-rod.svg)](icons/medicine/delivery-systems/implantable-drug-rod.svg) | [![Intravenous infusion bag](icons/medicine/delivery-systems/intravenous-infusion-bag.svg)](icons/medicine/delivery-systems/intravenous-infusion-bag.svg) | [![Syringe pump](icons/medicine/delivery-systems/syringe-pump-device.svg)](icons/medicine/delivery-systems/syringe-pump-device.svg) | [![Nebulizer](icons/medicine/delivery-systems/nebulizer-device.svg)](icons/medicine/delivery-systems/nebulizer-device.svg) |
+
+| Oral dosing syringe / 口服给药注射器 | Enteric coated tablet / 肠溶包衣片 | Porous tissue scaffold / 多孔组织支架 | Wound dressing / 伤口敷料 |
+| --- | --- | --- | --- |
+| [![Oral dosing syringe](icons/medicine/delivery-systems/oral-dose-syringe.svg)](icons/medicine/delivery-systems/oral-dose-syringe.svg) | [![Enteric coated tablet](icons/medicine/delivery-systems/enteric-coated-tablet.svg)](icons/medicine/delivery-systems/enteric-coated-tablet.svg) | [![Porous tissue scaffold](icons/medicine/delivery-systems/porous-tissue-scaffold.svg)](icons/medicine/delivery-systems/porous-tissue-scaffold.svg) | [![Wound dressing](icons/medicine/delivery-systems/wound-dressing.svg)](icons/medicine/delivery-systems/wound-dressing.svg) |
+
+### Plant leaf tissues | 植物叶片组织
+
+| Dicot leaf section / 双子叶植物叶片切面 | Monocot leaf section / 单子叶植物叶片切面 | Palisade mesophyll / 栅栏叶肉 | Spongy mesophyll / 海绵叶肉 |
+| --- | --- | --- | --- |
+| [![Dicot leaf section](icons/plants/leaf-tissues/dicot-leaf-section.svg)](icons/plants/leaf-tissues/dicot-leaf-section.svg) | [![Monocot leaf section](icons/plants/leaf-tissues/monocot-leaf-section.svg)](icons/plants/leaf-tissues/monocot-leaf-section.svg) | [![Palisade mesophyll](icons/plants/leaf-tissues/palisade-mesophyll.svg)](icons/plants/leaf-tissues/palisade-mesophyll.svg) | [![Spongy mesophyll](icons/plants/leaf-tissues/spongy-mesophyll.svg)](icons/plants/leaf-tissues/spongy-mesophyll.svg) |
+
+| Pavement epidermal tissue / 表皮铺路细胞组织 | Leaf cuticle / 叶片角质层 | Stomatal pore section / 气孔孔隙切面 | Grass guard cells / 禾本科保卫细胞 |
+| --- | --- | --- | --- |
+| [![Pavement epidermal tissue](icons/plants/leaf-tissues/epidermal-pavement-tissue.svg)](icons/plants/leaf-tissues/epidermal-pavement-tissue.svg) | [![Leaf cuticle](icons/plants/leaf-tissues/leaf-cuticle.svg)](icons/plants/leaf-tissues/leaf-cuticle.svg) | [![Stomatal pore section](icons/plants/leaf-tissues/stomatal-pore-section.svg)](icons/plants/leaf-tissues/stomatal-pore-section.svg) | [![Grass guard cells](icons/plants/leaf-tissues/grass-guard-cells.svg)](icons/plants/leaf-tissues/grass-guard-cells.svg) |
+
+| Kranz anatomy concept / 花环结构示意 | Glandular trichome / 腺毛 | Leaf hydathode / 叶片水孔 | Bulliform cells / 泡状细胞 |
+| --- | --- | --- | --- |
+| [![Kranz anatomy concept](icons/plants/leaf-tissues/kranz-anatomy-concept.svg)](icons/plants/leaf-tissues/kranz-anatomy-concept.svg) | [![Glandular trichome](icons/plants/leaf-tissues/glandular-trichome.svg)](icons/plants/leaf-tissues/glandular-trichome.svg) | [![Leaf hydathode](icons/plants/leaf-tissues/leaf-hydathode.svg)](icons/plants/leaf-tissues/leaf-hydathode.svg) | [![Bulliform cells](icons/plants/leaf-tissues/bulliform-cells.svg)](icons/plants/leaf-tissues/bulliform-cells.svg) |
+
+### Plant root tissues | 植物根组织
+
+| Monocot root section / 单子叶植物根横切面 | Dicot root section / 双子叶植物根横切面 | Root cortex tissue / 根皮层组织 | Endodermal ring / 内皮层环 |
+| --- | --- | --- | --- |
+| [![Monocot root section](icons/plants/root-tissues/monocot-root-section.svg)](icons/plants/root-tissues/monocot-root-section.svg) | [![Dicot root section](icons/plants/root-tissues/dicot-root-section.svg)](icons/plants/root-tissues/dicot-root-section.svg) | [![Root cortex tissue](icons/plants/root-tissues/root-cortex.svg)](icons/plants/root-tissues/root-cortex.svg) | [![Endodermal ring](icons/plants/root-tissues/endodermal-ring.svg)](icons/plants/root-tissues/endodermal-ring.svg) |
+
+| Pericycle layer / 中柱鞘层 | Casparian strip concept / 凯氏带示意 | Exodermal tissue / 外皮层组织 | Root meristematic tissue / 根分生组织 |
+| --- | --- | --- | --- |
+| [![Pericycle layer](icons/plants/root-tissues/pericycle-layer.svg)](icons/plants/root-tissues/pericycle-layer.svg) | [![Casparian strip concept](icons/plants/root-tissues/casparian-strip.svg)](icons/plants/root-tissues/casparian-strip.svg) | [![Exodermal tissue](icons/plants/root-tissues/exodermal-tissue.svg)](icons/plants/root-tissues/exodermal-tissue.svg) | [![Root meristematic tissue](icons/plants/root-tissues/root-meristem-tissue.svg)](icons/plants/root-tissues/root-meristem-tissue.svg) |
+
+| Root quiescent center concept / 根静止中心示意 | Root cap statolith concept / 根冠平衡石示意 | Root aerenchyma / 根通气组织 | Root vascular cylinder / 根中柱 |
+| --- | --- | --- | --- |
+| [![Root quiescent center concept](icons/plants/root-tissues/quiescent-center-concept.svg)](icons/plants/root-tissues/quiescent-center-concept.svg) | [![Root cap statolith concept](icons/plants/root-tissues/root-cap-statoliths.svg)](icons/plants/root-tissues/root-cap-statoliths.svg) | [![Root aerenchyma](icons/plants/root-tissues/root-aerenchyma.svg)](icons/plants/root-tissues/root-aerenchyma.svg) | [![Root vascular cylinder](icons/plants/root-tissues/root-vascular-cylinder.svg)](icons/plants/root-tissues/root-vascular-cylinder.svg) |
+
+### Plant stem tissues | 植物茎组织
+
+| Herbaceous dicot stem section / 草本双子叶植物茎横切面 | Monocot stem section / 单子叶植物茎横切面 | Woody stem section / 木本植物茎横切面 | Vascular cambium / 维管形成层 |
+| --- | --- | --- | --- |
+| [![Herbaceous dicot stem section](icons/plants/stem-tissues/herbaceous-dicot-stem-section.svg)](icons/plants/stem-tissues/herbaceous-dicot-stem-section.svg) | [![Monocot stem section](icons/plants/stem-tissues/monocot-stem-section.svg)](icons/plants/stem-tissues/monocot-stem-section.svg) | [![Woody stem section](icons/plants/stem-tissues/woody-stem-section.svg)](icons/plants/stem-tissues/woody-stem-section.svg) | [![Vascular cambium](icons/plants/stem-tissues/vascular-cambium.svg)](icons/plants/stem-tissues/vascular-cambium.svg) |
+
+| Annual growth rings / 年轮 | Cork tissue / 木栓组织 | Lenticel / 皮孔 | Sclerenchyma fibers / 厚壁纤维组织 |
+| --- | --- | --- | --- |
+| [![Annual growth rings](icons/plants/stem-tissues/annual-growth-rings.svg)](icons/plants/stem-tissues/annual-growth-rings.svg) | [![Cork tissue](icons/plants/stem-tissues/cork-tissue.svg)](icons/plants/stem-tissues/cork-tissue.svg) | [![Lenticel](icons/plants/stem-tissues/lenticel.svg)](icons/plants/stem-tissues/lenticel.svg) | [![Sclerenchyma fibers](icons/plants/stem-tissues/sclerenchyma-fibers.svg)](icons/plants/stem-tissues/sclerenchyma-fibers.svg) |
+
+| Collenchyma tissue / 厚角组织 | Collateral vascular bundle / 外韧维管束 | Stem pith tissue / 茎髓组织 | Stem node longitudinal section / 茎节纵切面 |
+| --- | --- | --- | --- |
+| [![Collenchyma tissue](icons/plants/stem-tissues/collenchyma-tissue.svg)](icons/plants/stem-tissues/collenchyma-tissue.svg) | [![Collateral vascular bundle](icons/plants/stem-tissues/collateral-vascular-bundle.svg)](icons/plants/stem-tissues/collateral-vascular-bundle.svg) | [![Stem pith tissue](icons/plants/stem-tissues/stem-pith.svg)](icons/plants/stem-tissues/stem-pith.svg) | [![Stem node longitudinal section](icons/plants/stem-tissues/stem-node-section.svg)](icons/plants/stem-tissues/stem-node-section.svg) |
+
+### Plant reproductive tissues | 植物生殖组织
+
+| Anther cross section / 花药横切面 | Pollen tetrad / 花粉四分体 | Ovule section / 胚珠切面 | Pistil / 雌蕊 |
+| --- | --- | --- | --- |
+| [![Anther cross section](icons/plants/reproductive-tissues/anther-cross-section.svg)](icons/plants/reproductive-tissues/anther-cross-section.svg) | [![Pollen tetrad](icons/plants/reproductive-tissues/pollen-tetrad.svg)](icons/plants/reproductive-tissues/pollen-tetrad.svg) | [![Ovule section](icons/plants/reproductive-tissues/ovule-section.svg)](icons/plants/reproductive-tissues/ovule-section.svg) | [![Pistil](icons/plants/reproductive-tissues/pistil.svg)](icons/plants/reproductive-tissues/pistil.svg) |
+
+| Stigma surface / 柱头表面 | Ovary cross section / 子房横切面 | Petal / 花瓣 | Sepal / 萼片 |
+| --- | --- | --- | --- |
+| [![Stigma surface](icons/plants/reproductive-tissues/stigma-surface.svg)](icons/plants/reproductive-tissues/stigma-surface.svg) | [![Ovary cross section](icons/plants/reproductive-tissues/ovary-cross-section.svg)](icons/plants/reproductive-tissues/ovary-cross-section.svg) | [![Petal](icons/plants/reproductive-tissues/petal-tissue.svg)](icons/plants/reproductive-tissues/petal-tissue.svg) | [![Sepal](icons/plants/reproductive-tissues/sepal.svg)](icons/plants/reproductive-tissues/sepal.svg) |
+
+| Floral meristem concept / 花分生组织示意 | Seed coat tissue / 种皮组织 | Endosperm tissue / 胚乳组织 | Pollen tube in style / 花柱内花粉管 |
+| --- | --- | --- | --- |
+| [![Floral meristem concept](icons/plants/reproductive-tissues/floral-meristem-concept.svg)](icons/plants/reproductive-tissues/floral-meristem-concept.svg) | [![Seed coat tissue](icons/plants/reproductive-tissues/seed-coat-tissue.svg)](icons/plants/reproductive-tissues/seed-coat-tissue.svg) | [![Endosperm tissue](icons/plants/reproductive-tissues/endosperm-tissue.svg)](icons/plants/reproductive-tissues/endosperm-tissue.svg) | [![Pollen tube in style](icons/plants/reproductive-tissues/pollen-tube-in-style.svg)](icons/plants/reproductive-tissues/pollen-tube-in-style.svg) |
+
+### Human tissues | 人体组织
+
+| Artery cross section / 动脉横切面 | Vein cross section / 静脉横切面 | Capillary / 毛细血管 | Alveolar cluster / 肺泡簇 |
+| --- | --- | --- | --- |
+| [![Artery cross section](icons/human/tissues/artery-cross-section.svg)](icons/human/tissues/artery-cross-section.svg) | [![Vein cross section](icons/human/tissues/vein-cross-section.svg)](icons/human/tissues/vein-cross-section.svg) | [![Capillary](icons/human/tissues/capillary-tissue.svg)](icons/human/tissues/capillary-tissue.svg) | [![Alveolar cluster](icons/human/tissues/alveolar-cluster.svg)](icons/human/tissues/alveolar-cluster.svg) |
+
+| Nephron concept / 肾单位示意 | Intestinal villus / 肠绒毛 | Hyaline cartilage / 透明软骨 | Tendon tissue / 肌腱组织 |
+| --- | --- | --- | --- |
+| [![Nephron concept](icons/human/tissues/nephron-concept.svg)](icons/human/tissues/nephron-concept.svg) | [![Intestinal villus](icons/human/tissues/intestinal-villus.svg)](icons/human/tissues/intestinal-villus.svg) | [![Hyaline cartilage](icons/human/tissues/hyaline-cartilage.svg)](icons/human/tissues/hyaline-cartilage.svg) | [![Tendon tissue](icons/human/tissues/tendon-tissue.svg)](icons/human/tissues/tendon-tissue.svg) |
+
+| Skeletal muscle bundle / 骨骼肌束 | Smooth muscle tissue / 平滑肌组织 | Peripheral nerve section / 外周神经横切面 | Lymph node section / 淋巴结切面 |
+| --- | --- | --- | --- |
+| [![Skeletal muscle bundle](icons/human/tissues/skeletal-muscle-bundle.svg)](icons/human/tissues/skeletal-muscle-bundle.svg) | [![Smooth muscle tissue](icons/human/tissues/smooth-muscle-tissue.svg)](icons/human/tissues/smooth-muscle-tissue.svg) | [![Peripheral nerve section](icons/human/tissues/peripheral-nerve-section.svg)](icons/human/tissues/peripheral-nerve-section.svg) | [![Lymph node section](icons/human/tissues/lymph-node-section.svg)](icons/human/tissues/lymph-node-section.svg) |
 
