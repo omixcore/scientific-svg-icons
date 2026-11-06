@@ -1,99 +1,30 @@
 id,path,category,title_en,title_zh,source,creator,license,status
-BIO-PLANT-001,icons/biology/plants/leaf.svg,biology/plants,Leaf,叶片,original-project-artwork,project-initial-set,not-assigned,draft
-BIO-PLANT-002,icons/biology/plants/maize.svg,biology/plants,Maize,玉米,original-project-artwork,project-initial-set,not-assigned,draft
-BIO-PLANT-003,icons/biology/plants/seedling.svg,biology/plants,Seedling,幼苗,original-project-artwork,project-initial-set,not-assigned,draft
+CD120-026,icons/animal/mouse-research/laboratory-mouse-dorsal.svg,animal/mouse-research,Laboratory mouse dorsal view,实验小鼠背面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-025,icons/animal/mouse-research/laboratory-mouse-profile.svg,animal/mouse-research,Laboratory mouse profile,实验小鼠侧面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-032,icons/animal/mouse-research/mouse-body-weight.svg,animal/mouse-research,Mouse body weight measurement,小鼠体重称量,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-033,icons/animal/mouse-research/mouse-ear-tag.svg,animal/mouse-research,Mouse ear tag,小鼠耳标,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-031,icons/animal/mouse-research/mouse-enrichment-tunnel.svg,animal/mouse-research,Mouse enrichment tunnel,小鼠丰容隧道,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-029,icons/animal/mouse-research/mouse-feed-hopper.svg,animal/mouse-research,Mouse feed hopper,小鼠饲料槽,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-034,icons/animal/mouse-research/mouse-footprints.svg,animal/mouse-research,Mouse footprints,小鼠足迹,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-027,icons/animal/mouse-research/mouse-housing-cage.svg,animal/mouse-research,Mouse housing cage,小鼠饲养笼,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-035,icons/animal/mouse-research/mouse-open-field-arena.svg,animal/mouse-research,Mouse open field arena,小鼠旷场装置,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-036,icons/animal/mouse-research/mouse-restraint-tube.svg,animal/mouse-research,Mouse restraint tube,小鼠固定管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-030,icons/animal/mouse-research/mouse-running-wheel.svg,animal/mouse-research,Mouse running wheel,小鼠跑轮,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-028,icons/animal/mouse-research/mouse-water-bottle.svg,animal/mouse-research,Mouse drinking bottle,小鼠饮水瓶,original-project-artwork,AI-assisted,not-assigned,draft
+B120-001,icons/biology/cell-processes/autophagic-sequestration.svg,biology/cell-processes,Autophagic sequestration,自噬包裹,original-project-artwork,AI-assisted,not-assigned,draft
+B120-002,icons/biology/cell-processes/cell-division-plane.svg,biology/cell-processes,Cell division plane,细胞分裂平面,original-project-artwork,AI-assisted,not-assigned,draft
+B120-003,icons/biology/cell-processes/cell-turgor.svg,biology/cell-processes,Cell turgor,细胞膨压,original-project-artwork,AI-assisted,not-assigned,draft
+B120-004,icons/biology/cell-processes/cytoplasmic-streaming.svg,biology/cell-processes,Cytoplasmic streaming,细胞质流动,original-project-artwork,AI-assisted,not-assigned,draft
+B120-005,icons/biology/cell-processes/endocytosis.svg,biology/cell-processes,Endocytosis,内吞作用,original-project-artwork,AI-assisted,not-assigned,draft
+B120-006,icons/biology/cell-processes/exocytosis.svg,biology/cell-processes,Exocytosis,胞吐作用,original-project-artwork,AI-assisted,not-assigned,draft
+B120-007,icons/biology/cell-processes/nuclear-export.svg,biology/cell-processes,Nuclear export,核输出,original-project-artwork,AI-assisted,not-assigned,draft
+B120-008,icons/biology/cell-processes/nuclear-import.svg,biology/cell-processes,Nuclear import,核输入,original-project-artwork,AI-assisted,not-assigned,draft
+B120-009,icons/biology/cell-processes/organelle-contact-site.svg,biology/cell-processes,Organelle contact site,细胞器接触位点,original-project-artwork,AI-assisted,not-assigned,draft
+B120-010,icons/biology/cell-processes/plasmolysis.svg,biology/cell-processes,Plasmolysis,质壁分离,original-project-artwork,AI-assisted,not-assigned,draft
+B120-011,icons/biology/cell-processes/vacuolar-sequestration.svg,biology/cell-processes,Vacuolar sequestration,液泡区隔化,original-project-artwork,AI-assisted,not-assigned,draft
+B120-012,icons/biology/cell-processes/vesicle-fusion.svg,biology/cell-processes,Vesicle fusion,囊泡融合,original-project-artwork,AI-assisted,not-assigned,draft
 BIO-CELL-001,icons/biology/cells/cell.svg,biology/cells,Cell,细胞,original-project-artwork,project-initial-set,not-assigned,draft
 BIO-CELL-002,icons/biology/cells/chloroplast.svg,biology/cells,Chloroplast,叶绿体,original-project-artwork,project-initial-set,not-assigned,draft
-BIO-MOL-001,icons/biology/molecules/dna-double-helix.svg,biology/molecules,DNA double helix,DNA 双螺旋,original-project-artwork,project-initial-set,not-assigned,draft
-BIO-MOL-002,icons/biology/molecules/rna-single-strand.svg,biology/molecules,Single-stranded RNA,单链 RNA,original-project-artwork,project-initial-set,not-assigned,draft
-BIO-MOL-003,icons/biology/molecules/protein.svg,biology/molecules,Protein,蛋白质,original-project-artwork,project-initial-set,not-assigned,draft
-EXP-MIC-001,icons/experiments/microscopy/microscope.svg,experiments/microscopy,Microscope,显微镜,original-project-artwork,project-initial-set,not-assigned,draft
-EXP-LAB-001,icons/experiments/lab-equipment/micropipette.svg,experiments/lab-equipment,Micropipette,移液器,user-provided-file,not-specified,not-assigned,draft
-EXP-PCR-001,icons/experiments/pcr/pcr-tube.svg,experiments/pcr,PCR tube,PCR 管,original-project-artwork,project-initial-set,not-assigned,draft
-OMX-SEQ-001,icons/omics/sequencing/sequencer.svg,omics/sequencing,Sequencer,测序仪,original-project-artwork,project-initial-set,not-assigned,draft
-DIA-PATH-001,icons/diagrams/pathways/activation.svg,diagrams/pathways,Activation,激活,original-project-artwork,project-initial-set,not-assigned,draft
-DIA-PATH-002,icons/diagrams/pathways/inhibition.svg,diagrams/pathways,Inhibition,抑制,original-project-artwork,project-initial-set,not-assigned,draft
-TIS-001,icons/biology/tissues/leaf-cross-section.svg,biology/tissues,Leaf cross-section,叶片横切面,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-TIS-002,icons/biology/tissues/mesophyll-cell.svg,biology/tissues,Mesophyll cell,叶肉细胞,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-TIS-003,icons/biology/tissues/bundle-sheath-cell.svg,biology/tissues,Bundle sheath cell,维管束鞘细胞,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-TIS-004,icons/biology/tissues/vascular-bundle.svg,biology/tissues,Vascular bundle,维管束,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-TIS-005,icons/biology/tissues/xylem-vessel.svg,biology/tissues,Xylem vessel,木质部导管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-TIS-006,icons/biology/tissues/phloem-sieve-tube.svg,biology/tissues,Phloem sieve tube,韧皮部筛管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-CHL-001,icons/biology/chloroplasts/chloroplast-ultrastructure.svg,biology/chloroplasts,Chloroplast ultrastructure,叶绿体超微结构,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-CHL-002,icons/biology/chloroplasts/granum-stack.svg,biology/chloroplasts,Granum stack,基粒,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-CHL-003,icons/biology/chloroplasts/thylakoid-membrane.svg,biology/chloroplasts,Thylakoid membrane,类囊体膜,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-GEN-001,icons/biology/gene-expression/gene-expression.svg,biology/gene-expression,Gene expression,基因表达,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-GEN-002,icons/biology/gene-expression/transcription.svg,biology/gene-expression,Transcription,转录,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-GEN-003,icons/biology/gene-expression/translation.svg,biology/gene-expression,Translation,翻译,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-GEN-004,icons/biology/gene-expression/promoter-regulation.svg,biology/gene-expression,Promoter regulation,启动子调控,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-PRO-001,icons/omics/proteomics/mass-spectrometer.svg,omics/proteomics,Mass spectrometer,质谱仪,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-PRO-002,icons/omics/proteomics/peptide-spectrum.svg,omics/proteomics,Peptide mass spectrum,肽段质谱图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-PRO-003,icons/omics/proteomics/protein-heatmap.svg,omics/proteomics,Protein abundance heatmap,蛋白丰度热图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-PRO-004,icons/omics/proteomics/gel-electrophoresis.svg,omics/proteomics,Gel electrophoresis,凝胶电泳,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-MET-001,icons/omics/metabolomics/lc-ms-system.svg,omics/metabolomics,LC-MS system,液相色谱-质谱系统,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-MET-002,icons/omics/metabolomics/metabolite-extraction.svg,omics/metabolomics,Metabolite extraction,代谢物提取,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-MET-003,icons/omics/metabolomics/chromatogram.svg,omics/metabolomics,Chromatogram,色谱图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-MET-004,icons/omics/metabolomics/metabolite-network.svg,omics/metabolomics,Metabolite network,代谢物网络,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-LAB-001,icons/experiments/lab-equipment/centrifuge.svg,experiments/lab-equipment,Laboratory centrifuge,实验室离心机,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-LAB-002,icons/experiments/lab-equipment/microcentrifuge-tube.svg,experiments/lab-equipment,Microcentrifuge tube,微量离心管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-LAB-003,icons/experiments/lab-equipment/petri-dish.svg,experiments/lab-equipment,Petri dish,培养皿,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-LAB-004,icons/experiments/growth-chamber.svg,experiments,Plant growth chamber,植物生长箱,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-WFL-001,icons/diagrams/workflows/sample-to-omics.svg,diagrams/workflows,Sample-to-omics workflow,样品至组学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-WFL-002,icons/diagrams/workflows/rna-seq-workflow.svg,diagrams/workflows,RNA-seq workflow,RNA 测序流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-WFL-003,icons/diagrams/workflows/multi-omics-integration.svg,diagrams/workflows,Multi-omics integration,多组学整合,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-WFL-004,icons/diagrams/workflows/bioinformatics-pipeline.svg,diagrams/workflows,Bioinformatics pipeline,生物信息学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
-ANA-001,icons/biology/anatomy/stomatal-complex.svg,biology/anatomy,Stomatal complex,气孔复合体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ANA-002,icons/biology/anatomy/guard-cells.svg,biology/anatomy,Guard cells,保卫细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ANA-003,icons/biology/anatomy/epidermal-cells.svg,biology/anatomy,Leaf epidermal cells,叶表皮细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ANA-004,icons/biology/anatomy/vascular-bundle-cross-section.svg,biology/anatomy,Vascular bundle cross-section,维管束横切面,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ANA-005,icons/biology/anatomy/root-tip.svg,biology/anatomy,Root tip anatomy,根尖结构,original-project-artwork-revised,AI-assisted-revision,not-assigned,draft
-ANA-006,icons/biology/anatomy/root-hair-cell.svg,biology/anatomy,Root hair cell,根毛细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PHO-001,icons/biology/photosynthesis/photosystem-ii.svg,biology/photosynthesis,Photosystem II,光系统 II,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PHO-002,icons/biology/photosynthesis/photosystem-i.svg,biology/photosynthesis,Photosystem I,光系统 I,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PHO-003,icons/biology/photosynthesis/rubisco.svg,biology/photosynthesis,Rubisco holoenzyme,Rubisco 全酶,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PHO-004,icons/biology/photosynthesis/calvin-cycle.svg,biology/photosynthesis,Calvin-Benson cycle,卡尔文-本森循环,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PHO-005,icons/biology/photosynthesis/c4-carbon-concentrating-mechanism.svg,biology/photosynthesis,C4 carbon-concentrating mechanism,C4 碳浓缩机制,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PHO-006,icons/biology/photosynthesis/photorespiration.svg,biology/photosynthesis,Photorespiration pathway,光呼吸途径,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ASS-001,icons/biology/molecular-assays/crispr-cas9.svg,biology/molecular-assays,CRISPR-Cas9 genome editing,CRISPR-Cas9 基因编辑,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ASS-002,icons/biology/molecular-assays/yeast-one-hybrid.svg,biology/molecular-assays,Yeast one-hybrid assay,酵母单杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ASS-003,icons/biology/molecular-assays/emsa.svg,biology/molecular-assays,Electrophoretic mobility shift assay,电泳迁移率变动分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ASS-004,icons/biology/molecular-assays/dual-luciferase.svg,biology/molecular-assays,Dual-luciferase reporter assay,双荧光素酶报告实验,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ASS-005,icons/biology/molecular-assays/bifc.svg,biology/molecular-assays,Bimolecular fluorescence complementation,双分子荧光互补,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-ASS-006,icons/biology/molecular-assays/co-immunoprecipitation.svg,biology/molecular-assays,Co-immunoprecipitation assay,免疫共沉淀,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-001,icons/omics/analysis/pca-plot.svg,omics/analysis,Principal component analysis plot,主成分分析图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-002,icons/omics/analysis/umap-plot.svg,omics/analysis,UMAP embedding plot,UMAP 降维图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-003,icons/omics/analysis/gwas-manhattan.svg,omics/analysis,GWAS Manhattan plot,GWAS 曼哈顿图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-004,icons/omics/analysis/qtl-interval.svg,omics/analysis,QTL interval mapping,QTL 区间定位图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-005,icons/omics/analysis/wgcna-network.svg,omics/analysis,WGCNA co-expression network,WGCNA 共表达网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-006,icons/omics/analysis/gsea-enrichment.svg,omics/analysis,Gene set enrichment analysis,基因集富集分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-OMX-ANA-007,icons/omics/analysis/ppi-network.svg,omics/analysis,Protein-protein interaction network,蛋白质互作网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PGEN-001,icons/biology/genetics/chromosome.svg,biology/genetics,Chromosome,染色体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PGEN-002,icons/biology/genetics/gene-locus.svg,biology/genetics,Gene locus,基因位点,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PGEN-003,icons/biology/genetics/haplotype-block.svg,biology/genetics,Haplotype block,单倍型区块,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PGEN-004,icons/biology/genetics/loss-of-function-mutant.svg,biology/genetics,Loss-of-function mutant,功能缺失突变体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-PGEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross,遗传杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-LAB-004,icons/experiments/lab-equipment/erlenmeyer-flask.svg,experiments/lab-equipment,Erlenmeyer flask,锥形瓶,user-provided-file,not-specified,not-assigned,draft
-LAB-005,icons/experiments/lab-equipment/analytical-balance.svg,experiments/lab-equipment,Analytical balance,分析天平,user-provided-file,not-specified,not-assigned,draft
-LAB-006,icons/experiments/lab-equipment/vertical-autoclave.svg,experiments/lab-equipment,Vertical autoclave,立式高压蒸汽灭菌器,user-provided-file,not-specified,not-assigned,draft
-GENE-ELEM-001,icons/diagrams/gene-elements/cis-regulatory-motif.svg,diagrams/gene-elements,Cis-regulatory motif,顺式调控元件,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-002,icons/diagrams/gene-elements/coding-sequence.svg,diagrams/gene-elements,Coding sequence,编码序列,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-003,icons/diagrams/gene-elements/enhancer.svg,diagrams/gene-elements,Enhancer,增强子,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-004,icons/diagrams/gene-elements/exon.svg,diagrams/gene-elements,Exon,外显子,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-005,icons/diagrams/gene-elements/five-prime-utr.svg,diagrams/gene-elements,5′ untranslated region,5′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-006,icons/diagrams/gene-elements/intron.svg,diagrams/gene-elements,Intron,内含子,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-007,icons/diagrams/gene-elements/polyadenylation-site.svg,diagrams/gene-elements,Polyadenylation site,多聚腺苷酸化位点,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-008,icons/diagrams/gene-elements/promoter.svg,diagrams/gene-elements,Promoter,启动子,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-009,icons/diagrams/gene-elements/sequence-deletion.svg,diagrams/gene-elements,Sequence deletion,序列缺失,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-010,icons/diagrams/gene-elements/sequence-insertion.svg,diagrams/gene-elements,Sequence insertion,序列插入,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-011,icons/diagrams/gene-elements/silencer.svg,diagrams/gene-elements,Silencer,沉默子,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-012,icons/diagrams/gene-elements/single-nucleotide-substitution.svg,diagrams/gene-elements,Single-nucleotide substitution,单核苷酸替换,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-013,icons/diagrams/gene-elements/splice-acceptor-site.svg,diagrams/gene-elements,Splice acceptor site,剪接受体位点,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-014,icons/diagrams/gene-elements/splice-donor-site.svg,diagrams/gene-elements,Splice donor site,剪接供体位点,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-015,icons/diagrams/gene-elements/tandem-repeat.svg,diagrams/gene-elements,Tandem repeat,串联重复,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-016,icons/diagrams/gene-elements/terminator.svg,diagrams/gene-elements,Transcription terminator,转录终止子,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-017,icons/diagrams/gene-elements/three-prime-utr.svg,diagrams/gene-elements,3′ untranslated region,3′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-018,icons/diagrams/gene-elements/transcription-factor-binding.svg,diagrams/gene-elements,Transcription factor binding,转录因子结合,original-project-artwork,AI-assisted,not-assigned,draft
-GENE-ELEM-019,icons/diagrams/gene-elements/transcription-start-site.svg,diagrams/gene-elements,Transcription start site,转录起始位点,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-001,icons/biology/cellular-components/actin-filament.svg,biology/cellular-components,Actin filament,肌动蛋白丝,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-002,icons/biology/cellular-components/central-vacuole.svg,biology/cellular-components,Central vacuole,中央液泡,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-003,icons/biology/cellular-components/golgi-apparatus.svg,biology/cellular-components,Golgi apparatus,高尔基体,original-project-artwork,AI-assisted,not-assigned,draft
@@ -114,80 +45,34 @@ CELL-COMP-017,icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg
 CELL-COMP-018,icons/biology/cellular-components/starch-granule.svg,biology/cellular-components,Starch granule,淀粉粒,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-019,icons/biology/cellular-components/tonoplast.svg,biology/cellular-components,Tonoplast,液泡膜,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-020,icons/biology/cellular-components/transport-vesicle.svg,biology/cellular-components,Transport vesicle,运输囊泡,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-001,icons/biology/stress-signaling/antioxidant-defense.svg,biology/stress-signaling,Antioxidant defense,抗氧化防御,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-002,icons/biology/stress-signaling/cold-stress.svg,biology/stress-signaling,Cold stress,低温胁迫,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-003,icons/biology/stress-signaling/drought-stress.svg,biology/stress-signaling,Drought stress,干旱胁迫,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-004,icons/biology/stress-signaling/dry-soil.svg,biology/stress-signaling,Dry soil,干旱土壤,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-005,icons/biology/stress-signaling/flooded-soil.svg,biology/stress-signaling,Waterlogged soil,渍水土壤,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-006,icons/biology/stress-signaling/fungal-hypha.svg,biology/stress-signaling,Fungal hypha,真菌菌丝,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-007,icons/biology/stress-signaling/heat-stress.svg,biology/stress-signaling,Heat stress,高温胁迫,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-008,icons/biology/stress-signaling/high-light.svg,biology/stress-signaling,High light,强光,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-009,icons/biology/stress-signaling/hypoxia.svg,biology/stress-signaling,Hypoxia,低氧胁迫,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-010,icons/biology/stress-signaling/ion-channel.svg,biology/stress-signaling,Membrane ion channel,膜离子通道,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-011,icons/biology/stress-signaling/mechanical-wounding.svg,biology/stress-signaling,Mechanical wounding,机械损伤,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-012,icons/biology/stress-signaling/membrane-receptor.svg,biology/stress-signaling,Membrane receptor,膜受体,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-013,icons/biology/stress-signaling/osmotic-stress.svg,biology/stress-signaling,Osmotic stress,渗透胁迫,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-014,icons/biology/stress-signaling/pathogenic-bacterium.svg,biology/stress-signaling,Bacterial cell,细菌细胞,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-015,icons/biology/stress-signaling/protein-phosphorylation.svg,biology/stress-signaling,Protein phosphorylation,蛋白磷酸化,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-016,icons/biology/stress-signaling/reactive-oxygen-species.svg,biology/stress-signaling,Reactive oxygen species,活性氧,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-017,icons/biology/stress-signaling/soil-salinity.svg,biology/stress-signaling,Saline soil,盐胁迫土壤,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-018,icons/biology/stress-signaling/transcriptional-response.svg,biology/stress-signaling,Transcriptional response,转录响应,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-019,icons/biology/stress-signaling/uv-exposure.svg,biology/stress-signaling,UV exposure,紫外线胁迫,original-project-artwork,AI-assisted,not-assigned,draft
-STRESS-020,icons/biology/stress-signaling/virus-particle.svg,biology/stress-signaling,Virus particle,病毒颗粒,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-001,icons/experiments/lab-supplies/conical-centrifuge-tube.svg,experiments/lab-supplies,Conical centrifuge tube,锥形离心管,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-002,icons/experiments/lab-supplies/cryogenic-vial.svg,experiments/lab-supplies,Cryogenic vial,冻存管,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-003,icons/experiments/lab-supplies/filter-paper.svg,experiments/lab-supplies,Folded filter paper,折叠滤纸,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-004,icons/experiments/lab-supplies/graduated-cylinder.svg,experiments/lab-supplies,Graduated cylinder,量筒,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-005,icons/experiments/lab-supplies/laboratory-beaker.svg,experiments/lab-supplies,Laboratory beaker,实验室烧杯,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-006,icons/experiments/lab-supplies/laboratory-forceps.svg,experiments/lab-supplies,Laboratory forceps,实验镊子,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-007,icons/experiments/lab-supplies/laboratory-funnel.svg,experiments/lab-supplies,Laboratory funnel,实验漏斗,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-008,icons/experiments/lab-supplies/laboratory-scalpel.svg,experiments/lab-supplies,Laboratory scalpel,手术刀,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-009,icons/experiments/lab-supplies/laboratory-scissors.svg,experiments/lab-supplies,Laboratory scissors,实验剪刀,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-010,icons/experiments/lab-supplies/liquid-nitrogen-dewar.svg,experiments/lab-supplies,Liquid nitrogen dewar,液氮杜瓦瓶,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-011,icons/experiments/lab-supplies/microscope-slide.svg,experiments/lab-supplies,Microscope slide,载玻片,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-012,icons/experiments/lab-supplies/mortar-and-pestle.svg,experiments/lab-supplies,Mortar and pestle,研钵和研杵,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-013,icons/experiments/lab-supplies/multiwell-plate.svg,experiments/lab-supplies,Multiwell plate,多孔板,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-014,icons/experiments/lab-supplies/pcr-strip-tubes.svg,experiments/lab-supplies,PCR tube strip,PCR 八联管,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-015,icons/experiments/lab-supplies/pipette-tip-rack.svg,experiments/lab-supplies,Pipette tip rack,移液枪头盒,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-016,icons/experiments/lab-supplies/reagent-bottle.svg,experiments/lab-supplies,Reagent bottle,试剂瓶,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-017,icons/experiments/lab-supplies/seed-envelope.svg,experiments/lab-supplies,Seed envelope,种子纸袋,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-018,icons/experiments/lab-supplies/serological-pipette.svg,experiments/lab-supplies,Serological pipette,血清移液管,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-019,icons/experiments/lab-supplies/tube-rack.svg,experiments/lab-supplies,Microtube rack,离心管架,original-project-artwork,AI-assisted,not-assigned,draft
-LAB-SUP-020,icons/experiments/lab-supplies/wash-bottle.svg,experiments/lab-supplies,Wash bottle,洗瓶,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-001,icons/biology/plant-morphology/arabidopsis-rosette.svg,biology/plant-morphology,Arabidopsis rosette,拟南芥莲座叶,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-002,icons/biology/plant-morphology/cotton-boll.svg,biology/plant-morphology,Open cotton boll,吐絮棉铃,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-003,icons/biology/plant-morphology/foxtail-millet-panicle.svg,biology/plant-morphology,Foxtail millet panicle,谷子穗,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-004,icons/biology/plant-morphology/germinating-maize-kernel.svg,biology/plant-morphology,Germinating maize kernel,萌发玉米籽粒,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-005,icons/biology/plant-morphology/lateral-root-emergence.svg,biology/plant-morphology,Lateral root emergence,侧根发生,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-006,icons/biology/plant-morphology/leaf-disc.svg,biology/plant-morphology,Leaf disc,叶圆片,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-007,icons/biology/plant-morphology/legume-root-nodules.svg,biology/plant-morphology,Legume root nodules,豆科植物根瘤,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-008,icons/biology/plant-morphology/maize-crown-root-system.svg,biology/plant-morphology,Maize crown root system,玉米冠根,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-009,icons/biology/plant-morphology/maize-ear.svg,biology/plant-morphology,Maize ear with exposed kernels,玉米果穗,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-010,icons/biology/plant-morphology/maize-ear-silk.svg,biology/plant-morphology,Maize ear silk,玉米花丝,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-011,icons/biology/plant-morphology/maize-kernel.svg,biology/plant-morphology,Maize kernel,玉米籽粒,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-012,icons/biology/plant-morphology/maize-kernel-longitudinal-section.svg,biology/plant-morphology,Maize kernel longitudinal section,玉米籽粒纵切面,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-013,icons/biology/plant-morphology/maize-leaf-parallel-veins.svg,biology/plant-morphology,Maize leaf with parallel veins,玉米叶片平行叶脉,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-014,icons/biology/plant-morphology/maize-pollen-grain.svg,biology/plant-morphology,Maize pollen grain,玉米花粉粒,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-015,icons/biology/plant-morphology/maize-tassel.svg,biology/plant-morphology,Maize tassel,玉米雄穗,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-016,icons/biology/plant-morphology/maize-whole-plant.svg,biology/plant-morphology,Maize plant,玉米植株,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-017,icons/biology/plant-morphology/potato-tuber.svg,biology/plant-morphology,Potato tuber,马铃薯块茎,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-018,icons/biology/plant-morphology/rice-panicle.svg,biology/plant-morphology,Rice panicle,水稻圆锥花序,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-019,icons/biology/plant-morphology/sorghum-panicle.svg,biology/plant-morphology,Sorghum panicle,高粱圆锥花序,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-020,icons/biology/plant-morphology/soybean-pod.svg,biology/plant-morphology,Soybean pod,大豆豆荚,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-021,icons/biology/plant-morphology/tomato-fruit.svg,biology/plant-morphology,Tomato fruit,番茄果实,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-MOR-022,icons/biology/plant-morphology/wheat-spike.svg,biology/plant-morphology,Wheat spike,小麦穗,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-001,icons/experiments/plant-phenotyping/foliar-spray.svg,experiments/plant-phenotyping,Foliar spraying,叶面喷施,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-002,icons/experiments/plant-phenotyping/germination-dish.svg,experiments/plant-phenotyping,Seed germination dish,培养皿种子萌发,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-003,icons/experiments/plant-phenotyping/hydroponic-plant.svg,experiments/plant-phenotyping,Hydroponic plant,水培植株,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-004,icons/experiments/plant-phenotyping/leaf-chlorophyll-meter.svg,experiments/plant-phenotyping,Leaf chlorophyll meter,叶片叶绿素仪,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-005,icons/experiments/plant-phenotyping/leaf-disc-punch.svg,experiments/plant-phenotyping,Leaf disc punch,叶片打孔器,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-006,icons/experiments/plant-phenotyping/leaf-gas-exchange-chamber.svg,experiments/plant-phenotyping,Leaf gas-exchange chamber,叶片气体交换叶室,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-007,icons/experiments/plant-phenotyping/plant-label.svg,experiments/plant-phenotyping,Plant label,植物标牌,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-008,icons/experiments/plant-phenotyping/plant-sample-bag.svg,experiments/plant-phenotyping,Plant sample bag,植物样品袋,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-009,icons/experiments/plant-phenotyping/potted-plant.svg,experiments/plant-phenotyping,Plant in pot,盆栽植株,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-010,icons/experiments/plant-phenotyping/root-imaging-tray.svg,experiments/plant-phenotyping,Root imaging tray,根系成像托盘,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-011,icons/experiments/plant-phenotyping/root-rinsing.svg,experiments/plant-phenotyping,Root rinsing,根系冲洗,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-EXP-012,icons/experiments/plant-phenotyping/seedling-tray.svg,experiments/plant-phenotyping,Seedling tray,育苗盘,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-001,icons/biology/gene-elements/cis-regulatory-motif.svg,biology/gene-elements,Cis-regulatory motif,顺式调控元件,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-002,icons/biology/gene-elements/coding-sequence.svg,biology/gene-elements,Coding sequence,编码序列,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-003,icons/biology/gene-elements/enhancer.svg,biology/gene-elements,Enhancer,增强子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-004,icons/biology/gene-elements/exon.svg,biology/gene-elements,Exon,外显子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-005,icons/biology/gene-elements/five-prime-utr.svg,biology/gene-elements,5′ untranslated region,5′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-006,icons/biology/gene-elements/intron.svg,biology/gene-elements,Intron,内含子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-007,icons/biology/gene-elements/polyadenylation-site.svg,biology/gene-elements,Polyadenylation site,多聚腺苷酸化位点,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-008,icons/biology/gene-elements/promoter.svg,biology/gene-elements,Promoter,启动子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-009,icons/biology/gene-elements/sequence-deletion.svg,biology/gene-elements,Sequence deletion,序列缺失,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-010,icons/biology/gene-elements/sequence-insertion.svg,biology/gene-elements,Sequence insertion,序列插入,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-011,icons/biology/gene-elements/silencer.svg,biology/gene-elements,Silencer,沉默子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-012,icons/biology/gene-elements/single-nucleotide-substitution.svg,biology/gene-elements,Single-nucleotide substitution,单核苷酸替换,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-013,icons/biology/gene-elements/splice-acceptor-site.svg,biology/gene-elements,Splice acceptor site,剪接受体位点,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-014,icons/biology/gene-elements/splice-donor-site.svg,biology/gene-elements,Splice donor site,剪接供体位点,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-015,icons/biology/gene-elements/tandem-repeat.svg,biology/gene-elements,Tandem repeat,串联重复,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-016,icons/biology/gene-elements/terminator.svg,biology/gene-elements,Transcription terminator,转录终止子,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-017,icons/biology/gene-elements/three-prime-utr.svg,biology/gene-elements,3′ untranslated region,3′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-018,icons/biology/gene-elements/transcription-factor-binding.svg,biology/gene-elements,Transcription factor binding,转录因子结合,original-project-artwork,AI-assisted,not-assigned,draft
+GENE-ELEM-019,icons/biology/gene-elements/transcription-start-site.svg,biology/gene-elements,Transcription start site,转录起始位点,original-project-artwork,AI-assisted,not-assigned,draft
+GEN-001,icons/biology/gene-expression/gene-expression.svg,biology/gene-expression,Gene expression,基因表达,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-004,icons/biology/gene-expression/promoter-regulation.svg,biology/gene-expression,Promoter regulation,启动子调控,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-002,icons/biology/gene-expression/transcription.svg,biology/gene-expression,Transcription,转录,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-003,icons/biology/gene-expression/translation.svg,biology/gene-expression,Translation,翻译,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PGEN-001,icons/biology/genetics/chromosome.svg,biology/genetics,Chromosome,染色体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-002,icons/biology/genetics/gene-locus.svg,biology/genetics,Gene locus,基因位点,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross,遗传杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-003,icons/biology/genetics/haplotype-block.svg,biology/genetics,Haplotype block,单倍型区块,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-004,icons/biology/genetics/loss-of-function-mutant.svg,biology/genetics,Loss-of-function mutant,功能缺失突变体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 MOL-COMP-001,icons/biology/molecular-components/affinity-column.svg,biology/molecular-components,Affinity chromatography column,亲和层析柱,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-002,icons/biology/molecular-components/antibody-antigen-binding.svg,biology/molecular-components,Antibody and antigen binding,抗体与抗原结合,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-003,icons/biology/molecular-components/antibody-coated-bead.svg,biology/molecular-components,Antibody-coated bead,抗体偶联微珠,original-project-artwork,AI-assisted,not-assigned,draft
@@ -196,8 +81,8 @@ MOL-COMP-005,icons/biology/molecular-components/enzyme-substrate-binding.svg,bio
 MOL-COMP-006,icons/biology/molecular-components/igg-antibody.svg,biology/molecular-components,IgG antibody,IgG 抗体,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-007,icons/biology/molecular-components/magnetic-bead.svg,biology/molecular-components,Magnetic bead,磁珠,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-008,icons/biology/molecular-components/messenger-rna.svg,biology/molecular-components,Messenger RNA,信使 RNA,original-project-artwork,AI-assisted,not-assigned,draft
-MOL-COMP-009,icons/biology/molecular-components/nucleosome.svg,biology/molecular-components,Nucleosome,核小体,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-010,icons/biology/molecular-components/nucleosome-array.svg,biology/molecular-components,Nucleosome array,核小体阵列,original-project-artwork,AI-assisted,not-assigned,draft
+MOL-COMP-009,icons/biology/molecular-components/nucleosome.svg,biology/molecular-components,Nucleosome,核小体,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-011,icons/biology/molecular-components/plasmid-vector.svg,biology/molecular-components,Circular plasmid vector,环状质粒载体,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-012,icons/biology/molecular-components/polyubiquitin-chain.svg,biology/molecular-components,Polyubiquitin chain,多聚泛素链,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-013,icons/biology/molecular-components/protein-dimer.svg,biology/molecular-components,Protein dimer,蛋白质二聚体,original-project-artwork,AI-assisted,not-assigned,draft
@@ -208,101 +93,9 @@ MOL-COMP-017,icons/biology/molecular-components/rna-polymerase-dna.svg,biology/m
 MOL-COMP-018,icons/biology/molecular-components/small-interfering-rna.svg,biology/molecular-components,Small interfering RNA duplex,小干扰 RNA 双链,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-019,icons/biology/molecular-components/transfer-rna.svg,biology/molecular-components,Transfer RNA,转运 RNA,original-project-artwork,AI-assisted,not-assigned,draft
 MOL-COMP-020,icons/biology/molecular-components/ubiquitin-protein-tag.svg,biology/molecular-components,Ubiquitin tagged protein,泛素化蛋白,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-001,icons/experiments/reporter-assays/bacterial-culture-tube.svg,experiments/reporter-assays,Bacterial suspension tube,细菌悬液管,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-002,icons/experiments/reporter-assays/emsa-gel-shift.svg,experiments/reporter-assays,EMSA gel mobility shift,EMSA 凝胶迁移率变化,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-003,icons/experiments/reporter-assays/gus-stained-leaf.svg,experiments/reporter-assays,GUS stained leaf,GUS 染色叶片,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-004,icons/experiments/reporter-assays/gus-stained-root.svg,experiments/reporter-assays,GUS stained root,GUS 染色根系,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-005,icons/experiments/reporter-assays/gus-stained-tissue-section.svg,experiments/reporter-assays,GUS stained tissue section,GUS 染色组织切片,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-006,icons/experiments/reporter-assays/histochemical-staining-vial.svg,experiments/reporter-assays,Histochemical staining vial,组织化学染色瓶,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-007,icons/experiments/reporter-assays/leaf-infiltration-syringe.svg,experiments/reporter-assays,Leaf syringe infiltration,叶片注射渗透,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-008,icons/experiments/reporter-assays/luciferase-reporter-leaf.svg,experiments/reporter-assays,Luciferase reporter leaf,荧光素酶报告叶片,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-009,icons/experiments/reporter-assays/promoter-gus-reporter.svg,experiments/reporter-assays,Promoter GUS reporter construct,启动子 GUS 报告载体元件,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-010,icons/experiments/reporter-assays/promoter-luciferase-reporter.svg,experiments/reporter-assays,Promoter LUC reporter construct,启动子 LUC 报告载体元件,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-011,icons/experiments/reporter-assays/qpcr-fluorescence-tubes.svg,experiments/reporter-assays,qPCR fluorescence tubes,qPCR 荧光反应管,original-project-artwork,AI-assisted,not-assigned,draft
-REP-ASSAY-012,icons/experiments/reporter-assays/western-blot-strip.svg,experiments/reporter-assays,Western blot strip,蛋白免疫印迹条带,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-001,icons/experiments/plant-tissue-culture/callus-culture-vessel.svg,experiments/plant-tissue-culture,Callus culture vessel,愈伤组织培养瓶,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-002,icons/experiments/plant-tissue-culture/callus-on-medium.svg,experiments/plant-tissue-culture,Callus on medium,培养基上的愈伤组织,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-003,icons/experiments/plant-tissue-culture/culture-vessel.svg,experiments/plant-tissue-culture,Plant tissue culture vessel,植物组织培养瓶,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-004,icons/experiments/plant-tissue-culture/explant-on-medium.svg,experiments/plant-tissue-culture,Explant on medium,培养基上的外植体,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-005,icons/experiments/plant-tissue-culture/forceps-transfer-explant.svg,experiments/plant-tissue-culture,Explant transfer with forceps,镊子转移外植体,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-006,icons/experiments/plant-tissue-culture/liquid-medium-flask.svg,experiments/plant-tissue-culture,Liquid culture medium flask,液体培养基锥形瓶,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-007,icons/experiments/plant-tissue-culture/maize-immature-embryo-explant.svg,experiments/plant-tissue-culture,Maize immature embryo explant,玉米幼胚外植体,original-project-artwork-revised,AI-assisted-revision,not-assigned,draft
-PLANT-TC-008,icons/experiments/plant-tissue-culture/plantlet-acclimatization.svg,experiments/plant-tissue-culture,Plantlet acclimatization,组培苗移栽驯化,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-009,icons/experiments/plant-tissue-culture/rooted-plantlet.svg,experiments/plant-tissue-culture,Rooted plantlet in culture,生根培养苗,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-010,icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg,experiments/plant-tissue-culture,Seed surface sterilization,种子表面消毒,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-011,icons/experiments/plant-tissue-culture/shoot-regeneration.svg,experiments/plant-tissue-culture,Shoot regeneration,芽再生,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-TC-012,icons/experiments/plant-tissue-culture/stem-explant.svg,experiments/plant-tissue-culture,Stem segment explant,茎段外植体,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-001,icons/experiments/microscopy-components/coverslip.svg,experiments/microscopy-components,Microscope coverslip,显微镜盖玻片,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-002,icons/experiments/microscopy-components/fluorescence-channel-merge.svg,experiments/microscopy-components,Fluorescence channel merge,荧光通道合并,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-003,icons/experiments/microscopy-components/fluorescence-filter-cube.svg,experiments/microscopy-components,Fluorescence filter cube,荧光滤光片组,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-004,icons/experiments/microscopy-components/microscope-digital-camera.svg,experiments/microscopy-components,Microscope digital camera,显微镜相机,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-005,icons/experiments/microscopy-components/microscope-objective.svg,experiments/microscopy-components,Microscope objective lens,显微镜物镜,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-006,icons/experiments/microscopy-components/microscopy-scale-bar.svg,experiments/microscopy-components,Microscopy scale bar,显微图比例尺,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-007,icons/experiments/microscopy-components/microtome.svg,experiments/microscopy-components,Laboratory microtome,切片机,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-008,icons/experiments/microscopy-components/mounting-medium-drop.svg,experiments/microscopy-components,Mounting medium drop,封片剂液滴,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-009,icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg,experiments/microscopy-components,Paraffin embedded tissue block,石蜡包埋组织块,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-010,icons/experiments/microscopy-components/tissue-embedding-cassette.svg,experiments/microscopy-components,Tissue embedding cassette,组织包埋盒,original-project-artwork,AI-assisted,not-assigned,draft
-MIC-COMP-011,icons/experiments/microscopy-components/z-stack.svg,experiments/microscopy-components,Microscopy z stack,显微 Z 轴序列,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-001,icons/experiments/plant-physiology/chlorophyll-extraction-sample.svg,experiments/plant-physiology,Leaf pigment extraction tube,叶片色素提取管,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-002,icons/experiments/plant-physiology/electrolyte-leakage-sample.svg,experiments/plant-physiology,Electrolyte leakage sample,电解质渗漏测定样品,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-003,icons/experiments/plant-physiology/fresh-biomass-balance.svg,experiments/plant-physiology,Fresh biomass weighing,鲜重称量,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-004,icons/experiments/plant-physiology/ion-analysis-samples.svg,experiments/plant-physiology,Ion analysis sample tubes,离子含量测定样品管,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-005,icons/experiments/plant-physiology/leaf-water-content-sample.svg,experiments/plant-physiology,Leaf water-content sample,叶片含水量样品,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-006,icons/experiments/plant-physiology/root-length-measurement.svg,experiments/plant-physiology,Root length measurement,根长测量,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-007,icons/experiments/plant-physiology/root-shoot-separation.svg,experiments/plant-physiology,Root and shoot separation,根与地上部取样,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-008,icons/experiments/plant-physiology/salt-hydroponic-treatment.svg,experiments/plant-physiology,Salt treatment hydroponic vessel,盐处理水培容器,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-009,icons/experiments/plant-physiology/salt-seed-germination.svg,experiments/plant-physiology,Salt treatment germination dish,盐处理萌发培养皿,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-010,icons/experiments/plant-physiology/salt-solution-flask.svg,experiments/plant-physiology,Salt solution flask,盐溶液配制,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-011,icons/experiments/plant-physiology/shoot-height-measurement.svg,experiments/plant-physiology,Shoot height measurement,地上部高度测量,original-project-artwork,AI-assisted,not-assigned,draft
-PLANT-PHY-012,icons/experiments/plant-physiology/stained-root-sample.svg,experiments/plant-physiology,Stained root sample,根系染色样品,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-001,icons/omics/transcriptomics/gene-count-matrix.svg,omics/transcriptomics,Gene count matrix,基因计数矩阵,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-002,icons/omics/transcriptomics/library-pooling.svg,omics/transcriptomics,Sequencing library pooling,测序文库混合,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-003,icons/omics/transcriptomics/plant-tissue-rna-sample.svg,omics/transcriptomics,Plant tissue sample for RNA,转录组植物组织样品,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-004,icons/omics/transcriptomics/polya-mrna-capture.svg,omics/transcriptomics,Poly(A) mRNA capture,Poly(A) mRNA 富集,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-005,icons/omics/transcriptomics/read-reference-alignment.svg,omics/transcriptomics,Read reference alignment,测序序列比对参考基因组,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-006,icons/omics/transcriptomics/reverse-transcription.svg,omics/transcriptomics,Reverse transcription,逆转录,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-007,icons/omics/transcriptomics/rna-extraction-tube.svg,omics/transcriptomics,RNA extraction tube,RNA 提取管,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-008,icons/omics/transcriptomics/rna-fragmentation.svg,omics/transcriptomics,RNA fragmentation,RNA 片段化,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-009,icons/omics/transcriptomics/rna-integrity-gel.svg,omics/transcriptomics,RNA integrity gel,RNA 完整性凝胶,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-010,icons/omics/transcriptomics/sequencing-adapter-ligation.svg,omics/transcriptomics,Sequencing adapter ligation,测序接头连接,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-011,icons/omics/transcriptomics/sequencing-flow-cell.svg,omics/transcriptomics,Sequencing flow cell,测序流动池,original-project-artwork,AI-assisted,not-assigned,draft
-TX-COMP-012,icons/omics/transcriptomics/sequencing-library-tube.svg,omics/transcriptomics,Sequencing library tube,测序文库管,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-001,icons/omics/proteomics-workflow/electrospray-ion-source.svg,omics/proteomics-workflow,Electrospray ion source,电喷雾离子源,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-002,icons/omics/proteomics-workflow/liquid-chromatography-column.svg,omics/proteomics-workflow,Liquid chromatography column,液相色谱柱,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-003,icons/omics/proteomics-workflow/ms1-precursor-spectrum.svg,omics/proteomics-workflow,MS1 precursor spectrum,MS1 前体离子谱,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-004,icons/omics/proteomics-workflow/peptide-desalting-tip.svg,omics/proteomics-workflow,Peptide desalting tip,肽段脱盐枪头,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-005,icons/omics/proteomics-workflow/peptide-spectrum-match.svg,omics/proteomics-workflow,Peptide spectrum match,肽谱匹配,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-006,icons/omics/proteomics-workflow/precursor-isolation.svg,omics/proteomics-workflow,Precursor isolation window,前体离子隔离窗口,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-007,icons/omics/proteomics-workflow/protease-digestion.svg,omics/proteomics-workflow,Protease digestion,蛋白酶解,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-008,icons/omics/proteomics-workflow/protein-abundance-matrix.svg,omics/proteomics-workflow,Protein abundance matrix,蛋白丰度矩阵,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-009,icons/omics/proteomics-workflow/protein-extraction-tube.svg,omics/proteomics-workflow,Protein extraction tube,蛋白质提取管,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-010,icons/omics/proteomics-workflow/protein-inference.svg,omics/proteomics-workflow,Protein inference,蛋白推断,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-011,icons/omics/proteomics-workflow/protein-quantification-plate.svg,omics/proteomics-workflow,Protein quantification plate,蛋白浓度测定板,original-project-artwork,AI-assisted,not-assigned,draft
-PRO-WFL-012,icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg,omics/proteomics-workflow,Tandem MS fragmentation,串联质谱碎裂,original-project-artwork,AI-assisted,not-assigned,draft
-B120-001,icons/biology/cell-processes/autophagic-sequestration.svg,biology/cell-processes,Autophagic sequestration,自噬包裹,original-project-artwork,AI-assisted,not-assigned,draft
-B120-002,icons/biology/cell-processes/cell-division-plane.svg,biology/cell-processes,Cell division plane,细胞分裂平面,original-project-artwork,AI-assisted,not-assigned,draft
-B120-003,icons/biology/cell-processes/cell-turgor.svg,biology/cell-processes,Cell turgor,细胞膨压,original-project-artwork,AI-assisted,not-assigned,draft
-B120-004,icons/biology/cell-processes/cytoplasmic-streaming.svg,biology/cell-processes,Cytoplasmic streaming,细胞质流动,original-project-artwork,AI-assisted,not-assigned,draft
-B120-005,icons/biology/cell-processes/endocytosis.svg,biology/cell-processes,Endocytosis,内吞作用,original-project-artwork,AI-assisted,not-assigned,draft
-B120-006,icons/biology/cell-processes/exocytosis.svg,biology/cell-processes,Exocytosis,胞吐作用,original-project-artwork,AI-assisted,not-assigned,draft
-B120-007,icons/biology/cell-processes/nuclear-export.svg,biology/cell-processes,Nuclear export,核输出,original-project-artwork,AI-assisted,not-assigned,draft
-B120-008,icons/biology/cell-processes/nuclear-import.svg,biology/cell-processes,Nuclear import,核输入,original-project-artwork,AI-assisted,not-assigned,draft
-B120-009,icons/biology/cell-processes/organelle-contact-site.svg,biology/cell-processes,Organelle contact site,细胞器接触位点,original-project-artwork,AI-assisted,not-assigned,draft
-B120-010,icons/biology/cell-processes/plasmolysis.svg,biology/cell-processes,Plasmolysis,质壁分离,original-project-artwork,AI-assisted,not-assigned,draft
-B120-011,icons/biology/cell-processes/vacuolar-sequestration.svg,biology/cell-processes,Vacuolar sequestration,液泡区隔化,original-project-artwork,AI-assisted,not-assigned,draft
-B120-012,icons/biology/cell-processes/vesicle-fusion.svg,biology/cell-processes,Vesicle fusion,囊泡融合,original-project-artwork,AI-assisted,not-assigned,draft
-B120-013,icons/biology/development-ecology/fruit-development.svg,biology/development-ecology,Fruit development,果实发育,original-project-artwork,AI-assisted,not-assigned,draft
-B120-014,icons/biology/development-ecology/graft-union.svg,biology/development-ecology,Plant graft union,植物嫁接接口,original-project-artwork,AI-assisted,not-assigned,draft
-B120-015,icons/biology/development-ecology/mycorrhizal-association.svg,biology/development-ecology,Mycorrhizal association,菌根互作,original-project-artwork,AI-assisted,not-assigned,draft
-B120-016,icons/biology/development-ecology/pollen-tube-growth.svg,biology/development-ecology,Pollen tube growth,花粉管伸长,original-project-artwork,AI-assisted,not-assigned,draft
-B120-017,icons/biology/development-ecology/root-exudation.svg,biology/development-ecology,Root exudation,根系分泌,original-project-artwork,AI-assisted,not-assigned,draft
-B120-018,icons/biology/development-ecology/root-gravitropism.svg,biology/development-ecology,Root gravitropism,根向重力性,original-project-artwork,AI-assisted,not-assigned,draft
-B120-019,icons/biology/development-ecology/root-nodule-section.svg,biology/development-ecology,Root nodule section,根瘤切面,original-project-artwork,AI-assisted,not-assigned,draft
-B120-020,icons/biology/development-ecology/root-surface-biofilm.svg,biology/development-ecology,Root surface biofilm,根表生物膜,original-project-artwork,AI-assisted,not-assigned,draft
-B120-021,icons/biology/development-ecology/seed-dispersal.svg,biology/development-ecology,Seed dispersal,种子传播,original-project-artwork,AI-assisted,not-assigned,draft
-B120-022,icons/biology/development-ecology/seed-dormancy.svg,biology/development-ecology,Seed dormancy,种子休眠,original-project-artwork,AI-assisted,not-assigned,draft
-B120-023,icons/biology/development-ecology/seedling-growth-comparison.svg,biology/development-ecology,Seedling growth comparison,幼苗生长比较,original-project-artwork,AI-assisted,not-assigned,draft
-B120-024,icons/biology/development-ecology/shoot-phototropism.svg,biology/development-ecology,Shoot phototropism,茎向光性,original-project-artwork,AI-assisted,not-assigned,draft
+BIO-MOL-001,icons/biology/molecules/dna-double-helix.svg,biology/molecules,DNA double helix,DNA 双螺旋,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-MOL-003,icons/biology/molecules/protein.svg,biology/molecules,Protein,蛋白质,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-MOL-002,icons/biology/molecules/rna-single-strand.svg,biology/molecules,Single-stranded RNA,单链 RNA,original-project-artwork,project-initial-set,not-assigned,draft
 B120-025,icons/biology/nucleic-acid-operations/base-editing-concept.svg,biology/nucleic-acid-operations,Base editing concept,碱基编辑示意,original-project-artwork,AI-assisted,not-assigned,draft
 B120-026,icons/biology/nucleic-acid-operations/dna-double-strand-break.svg,biology/nucleic-acid-operations,DNA double strand break,DNA 双链断裂,original-project-artwork,AI-assisted,not-assigned,draft
 B120-027,icons/biology/nucleic-acid-operations/dna-end-joining.svg,biology/nucleic-acid-operations,DNA end joining,DNA 末端连接,original-project-artwork,AI-assisted,not-assigned,draft
@@ -327,6 +120,26 @@ B120-045,icons/biology/protein-mechanisms/protein-glycosylation.svg,biology/prot
 B120-046,icons/biology/protein-mechanisms/protein-unfolding.svg,biology/protein-mechanisms,Protein unfolding,蛋白展开,original-project-artwork,AI-assisted,not-assigned,draft
 B120-047,icons/biology/protein-mechanisms/proteolytic-activation.svg,biology/protein-mechanisms,Proteolytic activation,蛋白水解激活,original-project-artwork,AI-assisted,not-assigned,draft
 B120-048,icons/biology/protein-mechanisms/scaffold-protein-assembly.svg,biology/protein-mechanisms,Scaffold mediated assembly,支架蛋白介导组装,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-001,icons/biology/stress-signaling/antioxidant-defense.svg,biology/stress-signaling,Antioxidant defense,抗氧化防御,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-002,icons/biology/stress-signaling/cold-stress.svg,biology/stress-signaling,Cold stress,低温胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-003,icons/biology/stress-signaling/drought-stress.svg,biology/stress-signaling,Drought stress,干旱胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-004,icons/biology/stress-signaling/dry-soil.svg,biology/stress-signaling,Dry soil,干旱土壤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-005,icons/biology/stress-signaling/flooded-soil.svg,biology/stress-signaling,Waterlogged soil,渍水土壤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-006,icons/biology/stress-signaling/fungal-hypha.svg,biology/stress-signaling,Fungal hypha,真菌菌丝,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-007,icons/biology/stress-signaling/heat-stress.svg,biology/stress-signaling,Heat stress,高温胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-008,icons/biology/stress-signaling/high-light.svg,biology/stress-signaling,High light,强光,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-009,icons/biology/stress-signaling/hypoxia.svg,biology/stress-signaling,Hypoxia,低氧胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-010,icons/biology/stress-signaling/ion-channel.svg,biology/stress-signaling,Membrane ion channel,膜离子通道,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-011,icons/biology/stress-signaling/mechanical-wounding.svg,biology/stress-signaling,Mechanical wounding,机械损伤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-012,icons/biology/stress-signaling/membrane-receptor.svg,biology/stress-signaling,Membrane receptor,膜受体,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-013,icons/biology/stress-signaling/osmotic-stress.svg,biology/stress-signaling,Osmotic stress,渗透胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-014,icons/biology/stress-signaling/pathogenic-bacterium.svg,biology/stress-signaling,Bacterial cell,细菌细胞,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-015,icons/biology/stress-signaling/protein-phosphorylation.svg,biology/stress-signaling,Protein phosphorylation,蛋白磷酸化,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-016,icons/biology/stress-signaling/reactive-oxygen-species.svg,biology/stress-signaling,Reactive oxygen species,活性氧,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-017,icons/biology/stress-signaling/soil-salinity.svg,biology/stress-signaling,Saline soil,盐胁迫土壤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-018,icons/biology/stress-signaling/transcriptional-response.svg,biology/stress-signaling,Transcriptional response,转录响应,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-019,icons/biology/stress-signaling/uv-exposure.svg,biology/stress-signaling,UV exposure,紫外线胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-020,icons/biology/stress-signaling/virus-particle.svg,biology/stress-signaling,Virus particle,病毒颗粒,original-project-artwork,AI-assisted,not-assigned,draft
 B120-049,icons/biology/transport-mechanisms/antiport.svg,biology/transport-mechanisms,Antiport,反向交换运输,original-project-artwork,AI-assisted,not-assigned,draft
 B120-050,icons/biology/transport-mechanisms/apoplastic-pathway.svg,biology/transport-mechanisms,Apoplastic transport pathway,质外体运输途径,original-project-artwork,AI-assisted,not-assigned,draft
 B120-051,icons/biology/transport-mechanisms/aquaporin-concept.svg,biology/transport-mechanisms,Aquaporin mediated water transport,水通道蛋白介导水运输,original-project-artwork,AI-assisted,not-assigned,draft
@@ -339,6 +152,12 @@ B120-057,icons/biology/transport-mechanisms/stomatal-gas-diffusion.svg,biology/t
 B120-058,icons/biology/transport-mechanisms/symplastic-pathway.svg,biology/transport-mechanisms,Symplastic transport pathway,共质体运输途径,original-project-artwork,AI-assisted,not-assigned,draft
 B120-059,icons/biology/transport-mechanisms/symport.svg,biology/transport-mechanisms,Symport,同向协同运输,original-project-artwork,AI-assisted,not-assigned,draft
 B120-060,icons/biology/transport-mechanisms/xylem-bulk-flow.svg,biology/transport-mechanisms,Xylem bulk flow,木质部集流,original-project-artwork,AI-assisted,not-assigned,draft
+DIA-PATH-001,icons/diagrams/pathways/activation.svg,diagrams/pathways,Activation,激活,original-project-artwork,project-initial-set,not-assigned,draft
+DIA-PATH-002,icons/diagrams/pathways/inhibition.svg,diagrams/pathways,Inhibition,抑制,original-project-artwork,project-initial-set,not-assigned,draft
+WFL-004,icons/diagrams/workflows/bioinformatics-pipeline.svg,diagrams/workflows,Bioinformatics pipeline,生物信息学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-003,icons/diagrams/workflows/multi-omics-integration.svg,diagrams/workflows,Multi-omics integration,多组学整合,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-002,icons/diagrams/workflows/rna-seq-workflow.svg,diagrams/workflows,RNA-seq workflow,RNA 测序流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-001,icons/diagrams/workflows/sample-to-omics.svg,diagrams/workflows,Sample-to-omics workflow,样品至组学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
 B120-061,icons/experiments/field-research/drip-irrigation.svg,experiments/field-research,Drip irrigation,滴灌,original-project-artwork,AI-assisted,not-assigned,draft
 B120-062,icons/experiments/field-research/field-harvest-bundle.svg,experiments/field-research,Harvested shoot bundle,收获植株束,original-project-artwork,AI-assisted,not-assigned,draft
 B120-063,icons/experiments/field-research/field-sample-flag.svg,experiments/field-research,Field sample flag,田间取样标旗,original-project-artwork,AI-assisted,not-assigned,draft
@@ -351,18 +170,113 @@ B120-069,icons/experiments/field-research/rainout-shelter.svg,experiments/field-
 B120-070,icons/experiments/field-research/root-observation-box.svg,experiments/field-research,Root observation box,根系观察箱,original-project-artwork,AI-assisted,not-assigned,draft
 B120-071,icons/experiments/field-research/soil-core-sampling.svg,experiments/field-research,Soil core sampling,土芯取样,original-project-artwork,AI-assisted,not-assigned,draft
 B120-072,icons/experiments/field-research/soil-moisture-probe.svg,experiments/field-research,Soil moisture probe,土壤水分探头,original-project-artwork,AI-assisted,not-assigned,draft
-B120-073,icons/experiments/research-apparatus/conductivity-meter.svg,experiments/research-apparatus,Conductivity meter,电导率仪,original-project-artwork,AI-assisted,not-assigned,draft
-B120-074,icons/experiments/research-apparatus/cuvette.svg,experiments/research-apparatus,Optical cuvette,比色皿,original-project-artwork,AI-assisted,not-assigned,draft
-B120-075,icons/experiments/research-apparatus/desiccator.svg,experiments/research-apparatus,Laboratory desiccator,干燥器,original-project-artwork,AI-assisted,not-assigned,draft
-B120-076,icons/experiments/research-apparatus/dry-block-heater.svg,experiments/research-apparatus,Dry block heater,干式恒温器,original-project-artwork,AI-assisted,not-assigned,draft
-B120-077,icons/experiments/research-apparatus/microplate-reader.svg,experiments/research-apparatus,Microplate reader,酶标仪,original-project-artwork,AI-assisted,not-assigned,draft
-B120-078,icons/experiments/research-apparatus/orbital-shaker.svg,experiments/research-apparatus,Orbital shaker,轨道摇床,original-project-artwork,AI-assisted,not-assigned,draft
-B120-079,icons/experiments/research-apparatus/peristaltic-pump.svg,experiments/research-apparatus,Peristaltic pump,蠕动泵,original-project-artwork,AI-assisted,not-assigned,draft
-B120-080,icons/experiments/research-apparatus/ph-meter.svg,experiments/research-apparatus,pH meter,pH 计,original-project-artwork,AI-assisted,not-assigned,draft
-B120-081,icons/experiments/research-apparatus/spectrophotometer.svg,experiments/research-apparatus,Spectrophotometer,分光光度计,original-project-artwork,AI-assisted,not-assigned,draft
-B120-082,icons/experiments/research-apparatus/vacuum-manifold.svg,experiments/research-apparatus,Vacuum manifold,真空抽滤装置,original-project-artwork,AI-assisted,not-assigned,draft
-B120-083,icons/experiments/research-apparatus/vacuum-pump.svg,experiments/research-apparatus,Vacuum pump,真空泵,original-project-artwork,AI-assisted,not-assigned,draft
-B120-084,icons/experiments/research-apparatus/water-bath.svg,experiments/research-apparatus,Laboratory water bath,恒温水浴锅,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-005,icons/experiments/lab-equipment/analytical-balance.svg,experiments/lab-equipment,Analytical balance,分析天平,user-provided-file,not-specified,not-assigned,draft
+LAB-001,icons/experiments/lab-equipment/centrifuge.svg,experiments/lab-equipment,Laboratory centrifuge,实验室离心机,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-073,icons/experiments/lab-equipment/conductivity-meter.svg,experiments/lab-equipment,Conductivity meter,电导率仪,original-project-artwork,AI-assisted,not-assigned,draft
+B120-074,icons/experiments/lab-equipment/cuvette.svg,experiments/lab-equipment,Optical cuvette,比色皿,original-project-artwork,AI-assisted,not-assigned,draft
+B120-075,icons/experiments/lab-equipment/desiccator.svg,experiments/lab-equipment,Laboratory desiccator,干燥器,original-project-artwork,AI-assisted,not-assigned,draft
+B120-076,icons/experiments/lab-equipment/dry-block-heater.svg,experiments/lab-equipment,Dry block heater,干式恒温器,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-004,icons/experiments/lab-equipment/erlenmeyer-flask.svg,experiments/lab-equipment,Erlenmeyer flask,锥形瓶,user-provided-file,not-specified,not-assigned,draft
+EXP-GROWTH-001,icons/experiments/lab-equipment/growth-chamber.svg,experiments/lab-equipment,Plant growth chamber,植物生长箱,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+LAB-002,icons/experiments/lab-equipment/microcentrifuge-tube.svg,experiments/lab-equipment,Microcentrifuge tube,微量离心管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+EXP-LAB-001,icons/experiments/lab-equipment/micropipette.svg,experiments/lab-equipment,Micropipette,移液器,user-provided-file,not-specified,not-assigned,draft
+B120-077,icons/experiments/lab-equipment/microplate-reader.svg,experiments/lab-equipment,Microplate reader,酶标仪,original-project-artwork,AI-assisted,not-assigned,draft
+B120-078,icons/experiments/lab-equipment/orbital-shaker.svg,experiments/lab-equipment,Orbital shaker,轨道摇床,original-project-artwork,AI-assisted,not-assigned,draft
+B120-079,icons/experiments/lab-equipment/peristaltic-pump.svg,experiments/lab-equipment,Peristaltic pump,蠕动泵,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-003,icons/experiments/lab-equipment/petri-dish.svg,experiments/lab-equipment,Petri dish,培养皿,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-080,icons/experiments/lab-equipment/ph-meter.svg,experiments/lab-equipment,pH meter,pH 计,original-project-artwork,AI-assisted,not-assigned,draft
+B120-081,icons/experiments/lab-equipment/spectrophotometer.svg,experiments/lab-equipment,Spectrophotometer,分光光度计,original-project-artwork,AI-assisted,not-assigned,draft
+B120-082,icons/experiments/lab-equipment/vacuum-manifold.svg,experiments/lab-equipment,Vacuum manifold,真空抽滤装置,original-project-artwork,AI-assisted,not-assigned,draft
+B120-083,icons/experiments/lab-equipment/vacuum-pump.svg,experiments/lab-equipment,Vacuum pump,真空泵,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-006,icons/experiments/lab-equipment/vertical-autoclave.svg,experiments/lab-equipment,Vertical autoclave,立式高压蒸汽灭菌器,user-provided-file,not-specified,not-assigned,draft
+B120-084,icons/experiments/lab-equipment/water-bath.svg,experiments/lab-equipment,Laboratory water bath,恒温水浴锅,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-001,icons/experiments/lab-supplies/conical-centrifuge-tube.svg,experiments/lab-supplies,Conical centrifuge tube,锥形离心管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-002,icons/experiments/lab-supplies/cryogenic-vial.svg,experiments/lab-supplies,Cryogenic vial,冻存管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-003,icons/experiments/lab-supplies/filter-paper.svg,experiments/lab-supplies,Folded filter paper,折叠滤纸,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-004,icons/experiments/lab-supplies/graduated-cylinder.svg,experiments/lab-supplies,Graduated cylinder,量筒,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-005,icons/experiments/lab-supplies/laboratory-beaker.svg,experiments/lab-supplies,Laboratory beaker,实验室烧杯,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-006,icons/experiments/lab-supplies/laboratory-forceps.svg,experiments/lab-supplies,Laboratory forceps,实验镊子,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-007,icons/experiments/lab-supplies/laboratory-funnel.svg,experiments/lab-supplies,Laboratory funnel,实验漏斗,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-008,icons/experiments/lab-supplies/laboratory-scalpel.svg,experiments/lab-supplies,Laboratory scalpel,手术刀,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-009,icons/experiments/lab-supplies/laboratory-scissors.svg,experiments/lab-supplies,Laboratory scissors,实验剪刀,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-010,icons/experiments/lab-supplies/liquid-nitrogen-dewar.svg,experiments/lab-supplies,Liquid nitrogen dewar,液氮杜瓦瓶,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-011,icons/experiments/lab-supplies/microscope-slide.svg,experiments/lab-supplies,Microscope slide,载玻片,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-012,icons/experiments/lab-supplies/mortar-and-pestle.svg,experiments/lab-supplies,Mortar and pestle,研钵和研杵,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-013,icons/experiments/lab-supplies/multiwell-plate.svg,experiments/lab-supplies,Multiwell plate,多孔板,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-014,icons/experiments/lab-supplies/pcr-strip-tubes.svg,experiments/lab-supplies,PCR tube strip,PCR 八联管,original-project-artwork,AI-assisted,not-assigned,draft
+EXP-PCR-001,icons/experiments/lab-supplies/pcr-tube.svg,experiments/lab-supplies,PCR tube,PCR 管,original-project-artwork,project-initial-set,not-assigned,draft
+LAB-SUP-015,icons/experiments/lab-supplies/pipette-tip-rack.svg,experiments/lab-supplies,Pipette tip rack,移液枪头盒,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-016,icons/experiments/lab-supplies/reagent-bottle.svg,experiments/lab-supplies,Reagent bottle,试剂瓶,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-017,icons/experiments/lab-supplies/seed-envelope.svg,experiments/lab-supplies,Seed envelope,种子纸袋,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-018,icons/experiments/lab-supplies/serological-pipette.svg,experiments/lab-supplies,Serological pipette,血清移液管,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-019,icons/experiments/lab-supplies/tube-rack.svg,experiments/lab-supplies,Microtube rack,离心管架,original-project-artwork,AI-assisted,not-assigned,draft
+LAB-SUP-020,icons/experiments/lab-supplies/wash-bottle.svg,experiments/lab-supplies,Wash bottle,洗瓶,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-001,icons/experiments/microscopy/coverslip.svg,experiments/microscopy,Microscope coverslip,显微镜盖玻片,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-002,icons/experiments/microscopy/fluorescence-channel-merge.svg,experiments/microscopy,Fluorescence channel merge,荧光通道合并,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-003,icons/experiments/microscopy/fluorescence-filter-cube.svg,experiments/microscopy,Fluorescence filter cube,荧光滤光片组,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-004,icons/experiments/microscopy/microscope-digital-camera.svg,experiments/microscopy,Microscope digital camera,显微镜相机,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-005,icons/experiments/microscopy/microscope-objective.svg,experiments/microscopy,Microscope objective lens,显微镜物镜,original-project-artwork,AI-assisted,not-assigned,draft
+EXP-MIC-001,icons/experiments/microscopy/microscope.svg,experiments/microscopy,Microscope,显微镜,original-project-artwork,project-initial-set,not-assigned,draft
+MIC-COMP-006,icons/experiments/microscopy/microscopy-scale-bar.svg,experiments/microscopy,Microscopy scale bar,显微图比例尺,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-007,icons/experiments/microscopy/microtome.svg,experiments/microscopy,Laboratory microtome,切片机,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-008,icons/experiments/microscopy/mounting-medium-drop.svg,experiments/microscopy,Mounting medium drop,封片剂液滴,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-009,icons/experiments/microscopy/paraffin-embedded-tissue-block.svg,experiments/microscopy,Paraffin embedded tissue block,石蜡包埋组织块,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-010,icons/experiments/microscopy/tissue-embedding-cassette.svg,experiments/microscopy,Tissue embedding cassette,组织包埋盒,original-project-artwork,AI-assisted,not-assigned,draft
+MIC-COMP-011,icons/experiments/microscopy/z-stack.svg,experiments/microscopy,Microscopy z stack,显微 Z 轴序列,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-001,icons/experiments/molecular-assays/bacterial-culture-tube.svg,experiments/molecular-assays,Bacterial suspension tube,细菌悬液管,original-project-artwork,AI-assisted,not-assigned,draft
+ASS-005,icons/experiments/molecular-assays/bifc.svg,experiments/molecular-assays,Bimolecular fluorescence complementation,双分子荧光互补,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-006,icons/experiments/molecular-assays/co-immunoprecipitation.svg,experiments/molecular-assays,Co-immunoprecipitation assay,免疫共沉淀,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-001,icons/experiments/molecular-assays/crispr-cas9.svg,experiments/molecular-assays,CRISPR-Cas9 genome editing,CRISPR-Cas9 基因编辑,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ASS-004,icons/experiments/molecular-assays/dual-luciferase.svg,experiments/molecular-assays,Dual-luciferase reporter assay,双荧光素酶报告实验,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+REP-ASSAY-002,icons/experiments/molecular-assays/emsa-gel-shift.svg,experiments/molecular-assays,EMSA gel mobility shift,EMSA 凝胶迁移率变化,original-project-artwork,AI-assisted,not-assigned,draft
+ASS-003,icons/experiments/molecular-assays/emsa.svg,experiments/molecular-assays,Electrophoretic mobility shift assay,电泳迁移率变动分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+REP-ASSAY-003,icons/experiments/molecular-assays/gus-stained-leaf.svg,experiments/molecular-assays,GUS stained leaf,GUS 染色叶片,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-004,icons/experiments/molecular-assays/gus-stained-root.svg,experiments/molecular-assays,GUS stained root,GUS 染色根系,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-005,icons/experiments/molecular-assays/gus-stained-tissue-section.svg,experiments/molecular-assays,GUS stained tissue section,GUS 染色组织切片,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-006,icons/experiments/molecular-assays/histochemical-staining-vial.svg,experiments/molecular-assays,Histochemical staining vial,组织化学染色瓶,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-007,icons/experiments/molecular-assays/leaf-infiltration-syringe.svg,experiments/molecular-assays,Leaf syringe infiltration,叶片注射渗透,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-008,icons/experiments/molecular-assays/luciferase-reporter-leaf.svg,experiments/molecular-assays,Luciferase reporter leaf,荧光素酶报告叶片,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-009,icons/experiments/molecular-assays/promoter-gus-reporter.svg,experiments/molecular-assays,Promoter GUS reporter construct,启动子 GUS 报告载体元件,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-010,icons/experiments/molecular-assays/promoter-luciferase-reporter.svg,experiments/molecular-assays,Promoter LUC reporter construct,启动子 LUC 报告载体元件,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-011,icons/experiments/molecular-assays/qpcr-fluorescence-tubes.svg,experiments/molecular-assays,qPCR fluorescence tubes,qPCR 荧光反应管,original-project-artwork,AI-assisted,not-assigned,draft
+REP-ASSAY-012,icons/experiments/molecular-assays/western-blot-strip.svg,experiments/molecular-assays,Western blot strip,蛋白免疫印迹条带,original-project-artwork,AI-assisted,not-assigned,draft
+ASS-002,icons/experiments/molecular-assays/yeast-one-hybrid.svg,experiments/molecular-assays,Yeast one-hybrid assay,酵母单杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PLANT-EXP-001,icons/experiments/plant-phenotyping/foliar-spray.svg,experiments/plant-phenotyping,Foliar spraying,叶面喷施,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-002,icons/experiments/plant-phenotyping/germination-dish.svg,experiments/plant-phenotyping,Seed germination dish,培养皿种子萌发,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-003,icons/experiments/plant-phenotyping/hydroponic-plant.svg,experiments/plant-phenotyping,Hydroponic plant,水培植株,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-004,icons/experiments/plant-phenotyping/leaf-chlorophyll-meter.svg,experiments/plant-phenotyping,Leaf chlorophyll meter,叶片叶绿素仪,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-005,icons/experiments/plant-phenotyping/leaf-disc-punch.svg,experiments/plant-phenotyping,Leaf disc punch,叶片打孔器,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-006,icons/experiments/plant-phenotyping/leaf-gas-exchange-chamber.svg,experiments/plant-phenotyping,Leaf gas-exchange chamber,叶片气体交换叶室,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-007,icons/experiments/plant-phenotyping/plant-label.svg,experiments/plant-phenotyping,Plant label,植物标牌,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-008,icons/experiments/plant-phenotyping/plant-sample-bag.svg,experiments/plant-phenotyping,Plant sample bag,植物样品袋,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-009,icons/experiments/plant-phenotyping/potted-plant.svg,experiments/plant-phenotyping,Plant in pot,盆栽植株,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-010,icons/experiments/plant-phenotyping/root-imaging-tray.svg,experiments/plant-phenotyping,Root imaging tray,根系成像托盘,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-011,icons/experiments/plant-phenotyping/root-rinsing.svg,experiments/plant-phenotyping,Root rinsing,根系冲洗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-EXP-012,icons/experiments/plant-phenotyping/seedling-tray.svg,experiments/plant-phenotyping,Seedling tray,育苗盘,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-001,icons/experiments/plant-physiology/chlorophyll-extraction-sample.svg,experiments/plant-physiology,Leaf pigment extraction tube,叶片色素提取管,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-002,icons/experiments/plant-physiology/electrolyte-leakage-sample.svg,experiments/plant-physiology,Electrolyte leakage sample,电解质渗漏测定样品,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-003,icons/experiments/plant-physiology/fresh-biomass-balance.svg,experiments/plant-physiology,Fresh biomass weighing,鲜重称量,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-004,icons/experiments/plant-physiology/ion-analysis-samples.svg,experiments/plant-physiology,Ion analysis sample tubes,离子含量测定样品管,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-005,icons/experiments/plant-physiology/leaf-water-content-sample.svg,experiments/plant-physiology,Leaf water-content sample,叶片含水量样品,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-006,icons/experiments/plant-physiology/root-length-measurement.svg,experiments/plant-physiology,Root length measurement,根长测量,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-007,icons/experiments/plant-physiology/root-shoot-separation.svg,experiments/plant-physiology,Root and shoot separation,根与地上部取样,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-008,icons/experiments/plant-physiology/salt-hydroponic-treatment.svg,experiments/plant-physiology,Salt treatment hydroponic vessel,盐处理水培容器,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-009,icons/experiments/plant-physiology/salt-seed-germination.svg,experiments/plant-physiology,Salt treatment germination dish,盐处理萌发培养皿,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-010,icons/experiments/plant-physiology/salt-solution-flask.svg,experiments/plant-physiology,Salt solution flask,盐溶液配制,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-011,icons/experiments/plant-physiology/shoot-height-measurement.svg,experiments/plant-physiology,Shoot height measurement,地上部高度测量,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-012,icons/experiments/plant-physiology/stained-root-sample.svg,experiments/plant-physiology,Stained root sample,根系染色样品,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-001,icons/experiments/plant-tissue-culture/callus-culture-vessel.svg,experiments/plant-tissue-culture,Callus culture vessel,愈伤组织培养瓶,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-002,icons/experiments/plant-tissue-culture/callus-on-medium.svg,experiments/plant-tissue-culture,Callus on medium,培养基上的愈伤组织,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-003,icons/experiments/plant-tissue-culture/culture-vessel.svg,experiments/plant-tissue-culture,Plant tissue culture vessel,植物组织培养瓶,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-004,icons/experiments/plant-tissue-culture/explant-on-medium.svg,experiments/plant-tissue-culture,Explant on medium,培养基上的外植体,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-005,icons/experiments/plant-tissue-culture/forceps-transfer-explant.svg,experiments/plant-tissue-culture,Explant transfer with forceps,镊子转移外植体,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-006,icons/experiments/plant-tissue-culture/liquid-medium-flask.svg,experiments/plant-tissue-culture,Liquid culture medium flask,液体培养基锥形瓶,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-007,icons/experiments/plant-tissue-culture/maize-immature-embryo-explant.svg,experiments/plant-tissue-culture,Maize immature embryo explant,玉米幼胚外植体,original-project-artwork-revised,AI-assisted-revision,not-assigned,draft
+PLANT-TC-008,icons/experiments/plant-tissue-culture/plantlet-acclimatization.svg,experiments/plant-tissue-culture,Plantlet acclimatization,组培苗移栽驯化,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-009,icons/experiments/plant-tissue-culture/rooted-plantlet.svg,experiments/plant-tissue-culture,Rooted plantlet in culture,生根培养苗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-010,icons/experiments/plant-tissue-culture/seed-sterilization-tube.svg,experiments/plant-tissue-culture,Seed surface sterilization,种子表面消毒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-011,icons/experiments/plant-tissue-culture/shoot-regeneration.svg,experiments/plant-tissue-culture,Shoot regeneration,芽再生,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-TC-012,icons/experiments/plant-tissue-culture/stem-explant.svg,experiments/plant-tissue-culture,Stem segment explant,茎段外植体,original-project-artwork,AI-assisted,not-assigned,draft
 B120-085,icons/experiments/specimen-preparation/biological-replicates.svg,experiments/specimen-preparation,Biological replicates,生物学重复,original-project-artwork,AI-assisted,not-assigned,draft
 B120-086,icons/experiments/specimen-preparation/ice-bucket.svg,experiments/specimen-preparation,Ice bucket,冰桶,original-project-artwork,AI-assisted,not-assigned,draft
 B120-087,icons/experiments/specimen-preparation/leaf-blade-segment.svg,experiments/specimen-preparation,Leaf blade segment,叶片截段,original-project-artwork,AI-assisted,not-assigned,draft
@@ -375,147 +289,233 @@ B120-093,icons/experiments/specimen-preparation/seed-counting-tray.svg,experimen
 B120-094,icons/experiments/specimen-preparation/soil-sample-bag.svg,experiments/specimen-preparation,Soil sample bag,土壤样品袋,original-project-artwork,AI-assisted,not-assigned,draft
 B120-095,icons/experiments/specimen-preparation/soil-sieve.svg,experiments/specimen-preparation,Soil sieve,土壤筛,original-project-artwork,AI-assisted,not-assigned,draft
 B120-096,icons/experiments/specimen-preparation/stem-transverse-slice.svg,experiments/specimen-preparation,Stem transverse slice,茎横切片,original-project-artwork,AI-assisted,not-assigned,draft
-B120-097,icons/omics/metabolomics-workflow/autosampler-vial.svg,omics/metabolomics-workflow,Autosampler vial,自动进样瓶,original-project-artwork,AI-assisted,not-assigned,draft
-B120-098,icons/omics/metabolomics-workflow/chromatographic-gradient.svg,omics/metabolomics-workflow,Chromatographic gradient,色谱梯度,original-project-artwork,AI-assisted,not-assigned,draft
-B120-099,icons/omics/metabolomics-workflow/extracted-ion-chromatogram.svg,omics/metabolomics-workflow,Extracted ion chromatogram,提取离子流色谱图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-100,icons/omics/metabolomics-workflow/metabolite-annotation.svg,omics/metabolomics-workflow,Metabolite annotation,代谢物注释,original-project-artwork,AI-assisted,not-assigned,draft
-B120-101,icons/omics/metabolomics-workflow/metabolite-feature-matrix.svg,omics/metabolomics-workflow,Metabolite feature matrix,代谢特征矩阵,original-project-artwork,AI-assisted,not-assigned,draft
-B120-102,icons/omics/metabolomics-workflow/nitrogen-sample-drying.svg,omics/metabolomics-workflow,Sample drying under gas,气流吹干样品,original-project-artwork,AI-assisted,not-assigned,draft
-B120-103,icons/omics/metabolomics-workflow/phase-partitioning.svg,omics/metabolomics-workflow,Liquid phase partitioning,液液分相,original-project-artwork,AI-assisted,not-assigned,draft
-B120-104,icons/omics/metabolomics-workflow/sample-filtration.svg,omics/metabolomics-workflow,Sample filtration,样品过滤,original-project-artwork,AI-assisted,not-assigned,draft
-B120-105,icons/omics/metabolomics-workflow/sample-reconstitution.svg,omics/metabolomics-workflow,Sample reconstitution,样品复溶,original-project-artwork,AI-assisted,not-assigned,draft
-B120-106,icons/omics/metabolomics-workflow/tissue-homogenization.svg,omics/metabolomics-workflow,Tissue homogenization,组织匀浆,original-project-artwork,AI-assisted,not-assigned,draft
-B120-107,icons/omics/metabolomics-workflow/ultrasonic-bath.svg,omics/metabolomics-workflow,Ultrasonic bath,超声水浴,original-project-artwork,AI-assisted,not-assigned,draft
-B120-108,icons/omics/metabolomics-workflow/vortex-mixing.svg,omics/metabolomics-workflow,Vortex mixing,涡旋混匀,original-project-artwork,AI-assisted,not-assigned,draft
-B120-109,icons/omics/statistical-components/box-plot-concept.svg,omics/statistical-components,Box plot,箱线图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-110,icons/omics/statistical-components/correlation-scatter.svg,omics/statistical-components,Correlation scatter plot,相关散点图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-111,icons/omics/statistical-components/density-distribution.svg,omics/statistical-components,Density distribution,密度分布图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-112,icons/omics/statistical-components/effect-size-interval.svg,omics/statistical-components,Effect size interval,效应量区间,original-project-artwork,AI-assisted,not-assigned,draft
-B120-113,icons/omics/statistical-components/empirical-cumulative-distribution.svg,omics/statistical-components,Cumulative distribution,累积分布图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-114,icons/omics/statistical-components/enrichment-dot-plot.svg,omics/statistical-components,Enrichment dot plot,富集气泡图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-115,icons/omics/statistical-components/forest-plot-concept.svg,omics/statistical-components,Forest plot,森林图,original-project-artwork,AI-assisted,not-assigned,draft
-B120-116,icons/omics/statistical-components/hierarchical-dendrogram.svg,omics/statistical-components,Hierarchical dendrogram,层次聚类树,original-project-artwork,AI-assisted,not-assigned,draft
-B120-117,icons/omics/statistical-components/missing-data-pattern.svg,omics/statistical-components,Missing data pattern,缺失数据分布,original-project-artwork,AI-assisted,not-assigned,draft
-B120-118,icons/omics/statistical-components/phylogenetic-tree-concept.svg,omics/statistical-components,Phylogenetic tree,系统发育树,original-project-artwork,AI-assisted,not-assigned,draft
-B120-119,icons/omics/statistical-components/set-intersection-venn.svg,omics/statistical-components,Set intersection,集合交集,original-project-artwork,AI-assisted,not-assigned,draft
-B120-120,icons/omics/statistical-components/violin-plot-concept.svg,omics/statistical-components,Violin plot,小提琴图,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-001,icons/human/organs/human-brain.svg,human/organs,Human brain,人脑,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-002,icons/human/organs/human-heart.svg,human/organs,Human heart,人心脏,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-003,icons/human/organs/human-lungs.svg,human/organs,Human lungs,人肺,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-004,icons/human/organs/human-liver.svg,human/organs,Human liver,人肝脏,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-005,icons/human/organs/human-kidney.svg,human/organs,Human kidney,人肾脏,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-006,icons/human/organs/human-stomach.svg,human/organs,Human stomach,人胃,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-007,icons/human/organs/human-intestine.svg,human/organs,Human intestine,人肠道,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-008,icons/human/organs/human-pancreas.svg,human/organs,Human pancreas,人胰腺,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-009,icons/human/organs/human-spleen.svg,human/organs,Human spleen,人脾脏,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-010,icons/human/organs/urinary-bladder.svg,human/organs,Urinary bladder,膀胱,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-011,icons/human/organs/skin-cross-section.svg,human/organs,Skin cross section,皮肤横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-012,icons/human/organs/long-bone.svg,human/organs,Long bone,长骨,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-017,icons/human/cells/adipocyte.svg,human/cells,Adipocyte,脂肪细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-019,icons/human/cells/chondrocyte.svg,human/cells,Chondrocyte,软骨细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-023,icons/human/cells/endothelial-cell.svg,human/cells,Endothelial cell,内皮细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-021,icons/human/cells/enterocyte.svg,human/cells,Enterocyte,肠吸收细胞,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-013,icons/human/cells/erythrocyte.svg,human/cells,Erythrocyte,红细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-024,icons/human/cells/fibroblast.svg,human/cells,Fibroblast,成纤维细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-022,icons/human/cells/goblet-cell.svg,human/cells,Goblet cell,杯状细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-020,icons/human/cells/hepatocyte.svg,human/cells,Hepatocyte,肝细胞,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-014,icons/human/cells/neuron.svg,human/cells,Neuron,神经元,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-018,icons/human/cells/osteocyte.svg,human/cells,Osteocyte,骨细胞,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-015,icons/human/cells/skeletal-myofiber.svg,human/cells,Skeletal myofiber,骨骼肌纤维,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-016,icons/human/cells/smooth-muscle-cell.svg,human/cells,Smooth muscle cell,平滑肌细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-017,icons/human/cells/adipocyte.svg,human/cells,Adipocyte,脂肪细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-018,icons/human/cells/osteocyte.svg,human/cells,Osteocyte,骨细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-019,icons/human/cells/chondrocyte.svg,human/cells,Chondrocyte,软骨细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-020,icons/human/cells/hepatocyte.svg,human/cells,Hepatocyte,肝细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-021,icons/human/cells/enterocyte.svg,human/cells,Enterocyte,肠吸收细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-022,icons/human/cells/goblet-cell.svg,human/cells,Goblet cell,杯状细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-023,icons/human/cells/endothelial-cell.svg,human/cells,Endothelial cell,内皮细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-024,icons/human/cells/fibroblast.svg,human/cells,Fibroblast,成纤维细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-025,icons/animal/mouse-research/laboratory-mouse-profile.svg,animal/mouse-research,Laboratory mouse profile,实验小鼠侧面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-026,icons/animal/mouse-research/laboratory-mouse-dorsal.svg,animal/mouse-research,Laboratory mouse dorsal view,实验小鼠背面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-027,icons/animal/mouse-research/mouse-housing-cage.svg,animal/mouse-research,Mouse housing cage,小鼠饲养笼,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-028,icons/animal/mouse-research/mouse-water-bottle.svg,animal/mouse-research,Mouse drinking bottle,小鼠饮水瓶,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-029,icons/animal/mouse-research/mouse-feed-hopper.svg,animal/mouse-research,Mouse feed hopper,小鼠饲料槽,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-030,icons/animal/mouse-research/mouse-running-wheel.svg,animal/mouse-research,Mouse running wheel,小鼠跑轮,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-031,icons/animal/mouse-research/mouse-enrichment-tunnel.svg,animal/mouse-research,Mouse enrichment tunnel,小鼠丰容隧道,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-032,icons/animal/mouse-research/mouse-body-weight.svg,animal/mouse-research,Mouse body weight measurement,小鼠体重称量,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-033,icons/animal/mouse-research/mouse-ear-tag.svg,animal/mouse-research,Mouse ear tag,小鼠耳标,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-034,icons/animal/mouse-research/mouse-footprints.svg,animal/mouse-research,Mouse footprints,小鼠足迹,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-035,icons/animal/mouse-research/mouse-open-field-arena.svg,animal/mouse-research,Mouse open field arena,小鼠旷场装置,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-036,icons/animal/mouse-research/mouse-restraint-tube.svg,animal/mouse-research,Mouse restraint tube,小鼠固定管,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-037,icons/medicine/dosage-forms/oral-tablet.svg,medicine/dosage-forms,Oral tablet,口服片剂,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-038,icons/medicine/dosage-forms/hard-capsule.svg,medicine/dosage-forms,Hard capsule,硬胶囊,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-039,icons/medicine/dosage-forms/softgel-capsule.svg,medicine/dosage-forms,Softgel capsule,软胶囊,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-040,icons/medicine/dosage-forms/oral-liquid.svg,medicine/dosage-forms,Oral liquid medicine,口服液,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-041,icons/medicine/dosage-forms/metered-dose-inhaler.svg,medicine/dosage-forms,Metered dose inhaler,定量吸入器,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-042,icons/medicine/dosage-forms/nasal-spray-bottle.svg,medicine/dosage-forms,Nasal spray bottle,鼻喷剂瓶,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-043,icons/medicine/dosage-forms/transdermal-patch.svg,medicine/dosage-forms,Transdermal patch,透皮贴剂,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-044,icons/medicine/dosage-forms/suppository.svg,medicine/dosage-forms,Suppository,栓剂,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-045,icons/medicine/dosage-forms/ointment-tube.svg,medicine/dosage-forms,Ointment tube,软膏管,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-046,icons/medicine/dosage-forms/eye-drop-bottle.svg,medicine/dosage-forms,Eye drop bottle,滴眼液瓶,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-047,icons/medicine/dosage-forms/blister-pack.svg,medicine/dosage-forms,Blister pack,泡罩包装,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-048,icons/medicine/dosage-forms/powder-sachet.svg,medicine/dosage-forms,Powder sachet,药用粉剂袋,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-001,icons/human/organs/human-brain.svg,human/organs,Human brain,人脑,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-002,icons/human/organs/human-heart.svg,human/organs,Human heart,人心脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-007,icons/human/organs/human-intestine.svg,human/organs,Human intestine,人肠道,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-005,icons/human/organs/human-kidney.svg,human/organs,Human kidney,人肾脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-004,icons/human/organs/human-liver.svg,human/organs,Human liver,人肝脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-003,icons/human/organs/human-lungs.svg,human/organs,Human lungs,人肺,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-008,icons/human/organs/human-pancreas.svg,human/organs,Human pancreas,人胰腺,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-009,icons/human/organs/human-spleen.svg,human/organs,Human spleen,人脾脏,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-006,icons/human/organs/human-stomach.svg,human/organs,Human stomach,人胃,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-012,icons/human/organs/long-bone.svg,human/organs,Long bone,长骨,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-011,icons/human/organs/skin-cross-section.svg,human/organs,Skin cross section,皮肤横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-010,icons/human/organs/urinary-bladder.svg,human/organs,Urinary bladder,膀胱,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-112,icons/human/tissues/alveolar-cluster.svg,human/tissues,Alveolar cluster,肺泡簇,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-109,icons/human/tissues/artery-cross-section.svg,human/tissues,Artery cross section,动脉横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-111,icons/human/tissues/capillary-tissue.svg,human/tissues,Capillary,毛细血管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-115,icons/human/tissues/hyaline-cartilage.svg,human/tissues,Hyaline cartilage,透明软骨,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-114,icons/human/tissues/intestinal-villus.svg,human/tissues,Intestinal villus,肠绒毛,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-120,icons/human/tissues/lymph-node-section.svg,human/tissues,Lymph node section,淋巴结切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-113,icons/human/tissues/nephron-concept.svg,human/tissues,Nephron concept,肾单位示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-119,icons/human/tissues/peripheral-nerve-section.svg,human/tissues,Peripheral nerve section,外周神经横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-117,icons/human/tissues/skeletal-muscle-bundle.svg,human/tissues,Skeletal muscle bundle,骨骼肌束,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-118,icons/human/tissues/smooth-muscle-tissue.svg,human/tissues,Smooth muscle tissue,平滑肌组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-116,icons/human/tissues/tendon-tissue.svg,human/tissues,Tendon tissue,肌腱组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-110,icons/human/tissues/vein-cross-section.svg,human/tissues,Vein cross section,静脉横切面,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-049,icons/medicine/delivery-systems/drug-loaded-liposome.svg,medicine/delivery-systems,Drug loaded liposome,载药脂质体,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-050,icons/medicine/delivery-systems/polymeric-nanoparticle.svg,medicine/delivery-systems,Polymeric nanoparticle,聚合物纳米颗粒,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-051,icons/medicine/delivery-systems/drug-micelle.svg,medicine/delivery-systems,Drug micelle,载药胶束,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-058,icons/medicine/delivery-systems/enteric-coated-tablet.svg,medicine/delivery-systems,Enteric coated tablet,肠溶包衣片,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-052,icons/medicine/delivery-systems/hydrogel-drug-depot.svg,medicine/delivery-systems,Hydrogel drug depot,水凝胶药物储库,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-053,icons/medicine/delivery-systems/implantable-drug-rod.svg,medicine/delivery-systems,Implantable drug rod,植入式药物棒,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-054,icons/medicine/delivery-systems/intravenous-infusion-bag.svg,medicine/delivery-systems,Intravenous infusion bag,静脉输液袋,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-055,icons/medicine/delivery-systems/syringe-pump-device.svg,medicine/delivery-systems,Syringe pump,注射泵,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-056,icons/medicine/delivery-systems/nebulizer-device.svg,medicine/delivery-systems,Nebulizer,雾化器,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-057,icons/medicine/delivery-systems/oral-dose-syringe.svg,medicine/delivery-systems,Oral dosing syringe,口服给药注射器,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-058,icons/medicine/delivery-systems/enteric-coated-tablet.svg,medicine/delivery-systems,Enteric coated tablet,肠溶包衣片,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-050,icons/medicine/delivery-systems/polymeric-nanoparticle.svg,medicine/delivery-systems,Polymeric nanoparticle,聚合物纳米颗粒,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-059,icons/medicine/delivery-systems/porous-tissue-scaffold.svg,medicine/delivery-systems,Porous tissue scaffold,多孔组织支架,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-055,icons/medicine/delivery-systems/syringe-pump-device.svg,medicine/delivery-systems,Syringe pump,注射泵,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-060,icons/medicine/delivery-systems/wound-dressing.svg,medicine/delivery-systems,Wound dressing,伤口敷料,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-047,icons/medicine/dosage-forms/blister-pack.svg,medicine/dosage-forms,Blister pack,泡罩包装,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-046,icons/medicine/dosage-forms/eye-drop-bottle.svg,medicine/dosage-forms,Eye drop bottle,滴眼液瓶,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-038,icons/medicine/dosage-forms/hard-capsule.svg,medicine/dosage-forms,Hard capsule,硬胶囊,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-041,icons/medicine/dosage-forms/metered-dose-inhaler.svg,medicine/dosage-forms,Metered dose inhaler,定量吸入器,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-042,icons/medicine/dosage-forms/nasal-spray-bottle.svg,medicine/dosage-forms,Nasal spray bottle,鼻喷剂瓶,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-045,icons/medicine/dosage-forms/ointment-tube.svg,medicine/dosage-forms,Ointment tube,软膏管,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-040,icons/medicine/dosage-forms/oral-liquid.svg,medicine/dosage-forms,Oral liquid medicine,口服液,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-037,icons/medicine/dosage-forms/oral-tablet.svg,medicine/dosage-forms,Oral tablet,口服片剂,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-048,icons/medicine/dosage-forms/powder-sachet.svg,medicine/dosage-forms,Powder sachet,药用粉剂袋,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-039,icons/medicine/dosage-forms/softgel-capsule.svg,medicine/dosage-forms,Softgel capsule,软胶囊,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-044,icons/medicine/dosage-forms/suppository.svg,medicine/dosage-forms,Suppository,栓剂,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-043,icons/medicine/dosage-forms/transdermal-patch.svg,medicine/dosage-forms,Transdermal patch,透皮贴剂,original-project-artwork,AI-assisted,not-assigned,draft
+B120-109,icons/omics/analysis/box-plot-concept.svg,omics/analysis,Box plot,箱线图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-110,icons/omics/analysis/correlation-scatter.svg,omics/analysis,Correlation scatter plot,相关散点图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-111,icons/omics/analysis/density-distribution.svg,omics/analysis,Density distribution,密度分布图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-112,icons/omics/analysis/effect-size-interval.svg,omics/analysis,Effect size interval,效应量区间,original-project-artwork,AI-assisted,not-assigned,draft
+B120-113,icons/omics/analysis/empirical-cumulative-distribution.svg,omics/analysis,Cumulative distribution,累积分布图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-114,icons/omics/analysis/enrichment-dot-plot.svg,omics/analysis,Enrichment dot plot,富集气泡图,original-project-artwork,AI-assisted,not-assigned,draft
+B120-115,icons/omics/analysis/forest-plot-concept.svg,omics/analysis,Forest plot,森林图,original-project-artwork,AI-assisted,not-assigned,draft
+OMX-ANA-006,icons/omics/analysis/gsea-enrichment.svg,omics/analysis,Gene set enrichment analysis,基因集富集分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-003,icons/omics/analysis/gwas-manhattan.svg,omics/analysis,GWAS Manhattan plot,GWAS 曼哈顿图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+B120-116,icons/omics/analysis/hierarchical-dendrogram.svg,omics/analysis,Hierarchical dendrogram,层次聚类树,original-project-artwork,AI-assisted,not-assigned,draft
+B120-117,icons/omics/analysis/missing-data-pattern.svg,omics/analysis,Missing data pattern,缺失数据分布,original-project-artwork,AI-assisted,not-assigned,draft
+OMX-ANA-001,icons/omics/analysis/pca-plot.svg,omics/analysis,Principal component analysis plot,主成分分析图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+B120-118,icons/omics/analysis/phylogenetic-tree-concept.svg,omics/analysis,Phylogenetic tree,系统发育树,original-project-artwork,AI-assisted,not-assigned,draft
+OMX-ANA-007,icons/omics/analysis/ppi-network.svg,omics/analysis,Protein-protein interaction network,蛋白质互作网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+OMX-ANA-004,icons/omics/analysis/qtl-interval.svg,omics/analysis,QTL interval mapping,QTL 区间定位图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+B120-119,icons/omics/analysis/set-intersection-venn.svg,omics/analysis,Set intersection,集合交集,original-project-artwork,AI-assisted,not-assigned,draft
+OMX-ANA-002,icons/omics/analysis/umap-plot.svg,omics/analysis,UMAP embedding plot,UMAP 降维图,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+B120-120,icons/omics/analysis/violin-plot-concept.svg,omics/analysis,Violin plot,小提琴图,original-project-artwork,AI-assisted,not-assigned,draft
+OMX-ANA-005,icons/omics/analysis/wgcna-network.svg,omics/analysis,WGCNA co-expression network,WGCNA 共表达网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+B120-097,icons/omics/metabolomics/autosampler-vial.svg,omics/metabolomics,Autosampler vial,自动进样瓶,original-project-artwork,AI-assisted,not-assigned,draft
+MET-003,icons/omics/metabolomics/chromatogram.svg,omics/metabolomics,Chromatogram,色谱图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-098,icons/omics/metabolomics/chromatographic-gradient.svg,omics/metabolomics,Chromatographic gradient,色谱梯度,original-project-artwork,AI-assisted,not-assigned,draft
+B120-099,icons/omics/metabolomics/extracted-ion-chromatogram.svg,omics/metabolomics,Extracted ion chromatogram,提取离子流色谱图,original-project-artwork,AI-assisted,not-assigned,draft
+MET-001,icons/omics/metabolomics/lc-ms-system.svg,omics/metabolomics,LC-MS system,液相色谱-质谱系统,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-100,icons/omics/metabolomics/metabolite-annotation.svg,omics/metabolomics,Metabolite annotation,代谢物注释,original-project-artwork,AI-assisted,not-assigned,draft
+MET-002,icons/omics/metabolomics/metabolite-extraction.svg,omics/metabolomics,Metabolite extraction,代谢物提取,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-101,icons/omics/metabolomics/metabolite-feature-matrix.svg,omics/metabolomics,Metabolite feature matrix,代谢特征矩阵,original-project-artwork,AI-assisted,not-assigned,draft
+MET-004,icons/omics/metabolomics/metabolite-network.svg,omics/metabolomics,Metabolite network,代谢物网络,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-102,icons/omics/metabolomics/nitrogen-sample-drying.svg,omics/metabolomics,Sample drying under gas,气流吹干样品,original-project-artwork,AI-assisted,not-assigned,draft
+B120-103,icons/omics/metabolomics/phase-partitioning.svg,omics/metabolomics,Liquid phase partitioning,液液分相,original-project-artwork,AI-assisted,not-assigned,draft
+B120-104,icons/omics/metabolomics/sample-filtration.svg,omics/metabolomics,Sample filtration,样品过滤,original-project-artwork,AI-assisted,not-assigned,draft
+B120-105,icons/omics/metabolomics/sample-reconstitution.svg,omics/metabolomics,Sample reconstitution,样品复溶,original-project-artwork,AI-assisted,not-assigned,draft
+B120-106,icons/omics/metabolomics/tissue-homogenization.svg,omics/metabolomics,Tissue homogenization,组织匀浆,original-project-artwork,AI-assisted,not-assigned,draft
+B120-107,icons/omics/metabolomics/ultrasonic-bath.svg,omics/metabolomics,Ultrasonic bath,超声水浴,original-project-artwork,AI-assisted,not-assigned,draft
+B120-108,icons/omics/metabolomics/vortex-mixing.svg,omics/metabolomics,Vortex mixing,涡旋混匀,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-001,icons/omics/proteomics/electrospray-ion-source.svg,omics/proteomics,Electrospray ion source,电喷雾离子源,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-004,icons/omics/proteomics/gel-electrophoresis.svg,omics/proteomics,Gel electrophoresis,凝胶电泳,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-WFL-002,icons/omics/proteomics/liquid-chromatography-column.svg,omics/proteomics,Liquid chromatography column,液相色谱柱,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-001,icons/omics/proteomics/mass-spectrometer.svg,omics/proteomics,Mass spectrometer,质谱仪,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-WFL-003,icons/omics/proteomics/ms1-precursor-spectrum.svg,omics/proteomics,MS1 precursor spectrum,MS1 前体离子谱,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-004,icons/omics/proteomics/peptide-desalting-tip.svg,omics/proteomics,Peptide desalting tip,肽段脱盐枪头,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-005,icons/omics/proteomics/peptide-spectrum-match.svg,omics/proteomics,Peptide spectrum match,肽谱匹配,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-002,icons/omics/proteomics/peptide-spectrum.svg,omics/proteomics,Peptide mass spectrum,肽段质谱图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-WFL-006,icons/omics/proteomics/precursor-isolation.svg,omics/proteomics,Precursor isolation window,前体离子隔离窗口,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-007,icons/omics/proteomics/protease-digestion.svg,omics/proteomics,Protease digestion,蛋白酶解,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-008,icons/omics/proteomics/protein-abundance-matrix.svg,omics/proteomics,Protein abundance matrix,蛋白丰度矩阵,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-009,icons/omics/proteomics/protein-extraction-tube.svg,omics/proteomics,Protein extraction tube,蛋白质提取管,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-003,icons/omics/proteomics/protein-heatmap.svg,omics/proteomics,Protein abundance heatmap,蛋白丰度热图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-WFL-010,icons/omics/proteomics/protein-inference.svg,omics/proteomics,Protein inference,蛋白推断,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-011,icons/omics/proteomics/protein-quantification-plate.svg,omics/proteomics,Protein quantification plate,蛋白浓度测定板,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-012,icons/omics/proteomics/tandem-ms-fragmentation.svg,omics/proteomics,Tandem MS fragmentation,串联质谱碎裂,original-project-artwork,AI-assisted,not-assigned,draft
+OMX-SEQ-001,icons/omics/sequencing/sequencer.svg,omics/sequencing,Sequencer,测序仪,original-project-artwork,project-initial-set,not-assigned,draft
+TX-COMP-001,icons/omics/transcriptomics/gene-count-matrix.svg,omics/transcriptomics,Gene count matrix,基因计数矩阵,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-002,icons/omics/transcriptomics/library-pooling.svg,omics/transcriptomics,Sequencing library pooling,测序文库混合,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-003,icons/omics/transcriptomics/plant-tissue-rna-sample.svg,omics/transcriptomics,Plant tissue sample for RNA,转录组植物组织样品,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-004,icons/omics/transcriptomics/polya-mrna-capture.svg,omics/transcriptomics,Poly(A) mRNA capture,Poly(A) mRNA 富集,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-005,icons/omics/transcriptomics/read-reference-alignment.svg,omics/transcriptomics,Read reference alignment,测序序列比对参考基因组,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-006,icons/omics/transcriptomics/reverse-transcription.svg,omics/transcriptomics,Reverse transcription,逆转录,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-007,icons/omics/transcriptomics/rna-extraction-tube.svg,omics/transcriptomics,RNA extraction tube,RNA 提取管,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-008,icons/omics/transcriptomics/rna-fragmentation.svg,omics/transcriptomics,RNA fragmentation,RNA 片段化,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-009,icons/omics/transcriptomics/rna-integrity-gel.svg,omics/transcriptomics,RNA integrity gel,RNA 完整性凝胶,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-010,icons/omics/transcriptomics/sequencing-adapter-ligation.svg,omics/transcriptomics,Sequencing adapter ligation,测序接头连接,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-011,icons/omics/transcriptomics/sequencing-flow-cell.svg,omics/transcriptomics,Sequencing flow cell,测序流动池,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-012,icons/omics/transcriptomics/sequencing-library-tube.svg,omics/transcriptomics,Sequencing library tube,测序文库管,original-project-artwork,AI-assisted,not-assigned,draft
+ANA-003,icons/plants/anatomy/epidermal-cells.svg,plants/anatomy,Leaf epidermal cells,叶表皮细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-002,icons/plants/anatomy/guard-cells.svg,plants/anatomy,Guard cells,保卫细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-006,icons/plants/anatomy/root-hair-cell.svg,plants/anatomy,Root hair cell,根毛细胞,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-005,icons/plants/anatomy/root-tip.svg,plants/anatomy,Root tip anatomy,根尖结构,original-project-artwork-revised,AI-assisted-revision,not-assigned,draft
+ANA-001,icons/plants/anatomy/stomatal-complex.svg,plants/anatomy,Stomatal complex,气孔复合体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+ANA-004,icons/plants/anatomy/vascular-bundle-cross-section.svg,plants/anatomy,Vascular bundle cross-section,维管束横切面,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+CHL-001,icons/plants/chloroplasts/chloroplast-ultrastructure.svg,plants/chloroplasts,Chloroplast ultrastructure,叶绿体超微结构,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+CHL-002,icons/plants/chloroplasts/granum-stack.svg,plants/chloroplasts,Granum stack,基粒,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+CHL-003,icons/plants/chloroplasts/thylakoid-membrane.svg,plants/chloroplasts,Thylakoid membrane,类囊体膜,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+B120-013,icons/plants/development-ecology/fruit-development.svg,plants/development-ecology,Fruit development,果实发育,original-project-artwork,AI-assisted,not-assigned,draft
+B120-014,icons/plants/development-ecology/graft-union.svg,plants/development-ecology,Plant graft union,植物嫁接接口,original-project-artwork,AI-assisted,not-assigned,draft
+B120-015,icons/plants/development-ecology/mycorrhizal-association.svg,plants/development-ecology,Mycorrhizal association,菌根互作,original-project-artwork,AI-assisted,not-assigned,draft
+B120-016,icons/plants/development-ecology/pollen-tube-growth.svg,plants/development-ecology,Pollen tube growth,花粉管伸长,original-project-artwork,AI-assisted,not-assigned,draft
+B120-017,icons/plants/development-ecology/root-exudation.svg,plants/development-ecology,Root exudation,根系分泌,original-project-artwork,AI-assisted,not-assigned,draft
+B120-018,icons/plants/development-ecology/root-gravitropism.svg,plants/development-ecology,Root gravitropism,根向重力性,original-project-artwork,AI-assisted,not-assigned,draft
+B120-019,icons/plants/development-ecology/root-nodule-section.svg,plants/development-ecology,Root nodule section,根瘤切面,original-project-artwork,AI-assisted,not-assigned,draft
+B120-020,icons/plants/development-ecology/root-surface-biofilm.svg,plants/development-ecology,Root surface biofilm,根表生物膜,original-project-artwork,AI-assisted,not-assigned,draft
+B120-021,icons/plants/development-ecology/seed-dispersal.svg,plants/development-ecology,Seed dispersal,种子传播,original-project-artwork,AI-assisted,not-assigned,draft
+B120-022,icons/plants/development-ecology/seed-dormancy.svg,plants/development-ecology,Seed dormancy,种子休眠,original-project-artwork,AI-assisted,not-assigned,draft
+B120-023,icons/plants/development-ecology/seedling-growth-comparison.svg,plants/development-ecology,Seedling growth comparison,幼苗生长比较,original-project-artwork,AI-assisted,not-assigned,draft
+B120-024,icons/plants/development-ecology/shoot-phototropism.svg,plants/development-ecology,Shoot phototropism,茎向光性,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-072,icons/plants/leaf-tissues/bulliform-cells.svg,plants/leaf-tissues,Bulliform cells,泡状细胞,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-061,icons/plants/leaf-tissues/dicot-leaf-section.svg,plants/leaf-tissues,Dicot leaf section,双子叶植物叶片切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-065,icons/plants/leaf-tissues/epidermal-pavement-tissue.svg,plants/leaf-tissues,Pavement epidermal tissue,表皮铺路细胞组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-070,icons/plants/leaf-tissues/glandular-trichome.svg,plants/leaf-tissues,Glandular trichome,腺毛,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-068,icons/plants/leaf-tissues/grass-guard-cells.svg,plants/leaf-tissues,Grass guard cells,禾本科保卫细胞,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-069,icons/plants/leaf-tissues/kranz-anatomy-concept.svg,plants/leaf-tissues,Kranz anatomy concept,花环结构示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-066,icons/plants/leaf-tissues/leaf-cuticle.svg,plants/leaf-tissues,Leaf cuticle,叶片角质层,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-071,icons/plants/leaf-tissues/leaf-hydathode.svg,plants/leaf-tissues,Leaf hydathode,叶片水孔,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-062,icons/plants/leaf-tissues/monocot-leaf-section.svg,plants/leaf-tissues,Monocot leaf section,单子叶植物叶片切面,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-063,icons/plants/leaf-tissues/palisade-mesophyll.svg,plants/leaf-tissues,Palisade mesophyll,栅栏叶肉,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-064,icons/plants/leaf-tissues/spongy-mesophyll.svg,plants/leaf-tissues,Spongy mesophyll,海绵叶肉,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-065,icons/plants/leaf-tissues/epidermal-pavement-tissue.svg,plants/leaf-tissues,Pavement epidermal tissue,表皮铺路细胞组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-066,icons/plants/leaf-tissues/leaf-cuticle.svg,plants/leaf-tissues,Leaf cuticle,叶片角质层,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-067,icons/plants/leaf-tissues/stomatal-pore-section.svg,plants/leaf-tissues,Stomatal pore section,气孔孔隙切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-068,icons/plants/leaf-tissues/grass-guard-cells.svg,plants/leaf-tissues,Grass guard cells,禾本科保卫细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-069,icons/plants/leaf-tissues/kranz-anatomy-concept.svg,plants/leaf-tissues,Kranz anatomy concept,花环结构示意,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-070,icons/plants/leaf-tissues/glandular-trichome.svg,plants/leaf-tissues,Glandular trichome,腺毛,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-071,icons/plants/leaf-tissues/leaf-hydathode.svg,plants/leaf-tissues,Leaf hydathode,叶片水孔,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-072,icons/plants/leaf-tissues/bulliform-cells.svg,plants/leaf-tissues,Bulliform cells,泡状细胞,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-073,icons/plants/root-tissues/monocot-root-section.svg,plants/root-tissues,Monocot root section,单子叶植物根横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-074,icons/plants/root-tissues/dicot-root-section.svg,plants/root-tissues,Dicot root section,双子叶植物根横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-075,icons/plants/root-tissues/root-cortex.svg,plants/root-tissues,Root cortex tissue,根皮层组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-076,icons/plants/root-tissues/endodermal-ring.svg,plants/root-tissues,Endodermal ring,内皮层环,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-077,icons/plants/root-tissues/pericycle-layer.svg,plants/root-tissues,Pericycle layer,中柱鞘层,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-078,icons/plants/root-tissues/casparian-strip.svg,plants/root-tissues,Casparian strip concept,凯氏带示意,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-079,icons/plants/root-tissues/exodermal-tissue.svg,plants/root-tissues,Exodermal tissue,外皮层组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-080,icons/plants/root-tissues/root-meristem-tissue.svg,plants/root-tissues,Root meristematic tissue,根分生组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-081,icons/plants/root-tissues/quiescent-center-concept.svg,plants/root-tissues,Root quiescent center concept,根静止中心示意,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-082,icons/plants/root-tissues/root-cap-statoliths.svg,plants/root-tissues,Root cap statolith concept,根冠平衡石示意,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-083,icons/plants/root-tissues/root-aerenchyma.svg,plants/root-tissues,Root aerenchyma,根通气组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-084,icons/plants/root-tissues/root-vascular-cylinder.svg,plants/root-tissues,Root vascular cylinder,根中柱,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-085,icons/plants/stem-tissues/herbaceous-dicot-stem-section.svg,plants/stem-tissues,Herbaceous dicot stem section,草本双子叶植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-086,icons/plants/stem-tissues/monocot-stem-section.svg,plants/stem-tissues,Monocot stem section,单子叶植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-087,icons/plants/stem-tissues/woody-stem-section.svg,plants/stem-tissues,Woody stem section,木本植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-088,icons/plants/stem-tissues/vascular-cambium.svg,plants/stem-tissues,Vascular cambium,维管形成层,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-089,icons/plants/stem-tissues/annual-growth-rings.svg,plants/stem-tissues,Annual growth rings,年轮,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-090,icons/plants/stem-tissues/cork-tissue.svg,plants/stem-tissues,Cork tissue,木栓组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-091,icons/plants/stem-tissues/lenticel.svg,plants/stem-tissues,Lenticel,皮孔,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-092,icons/plants/stem-tissues/sclerenchyma-fibers.svg,plants/stem-tissues,Sclerenchyma fibers,厚壁纤维组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-093,icons/plants/stem-tissues/collenchyma-tissue.svg,plants/stem-tissues,Collenchyma tissue,厚角组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-094,icons/plants/stem-tissues/collateral-vascular-bundle.svg,plants/stem-tissues,Collateral vascular bundle,外韧维管束,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-095,icons/plants/stem-tissues/stem-pith.svg,plants/stem-tissues,Stem pith tissue,茎髓组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-096,icons/plants/stem-tissues/stem-node-section.svg,plants/stem-tissues,Stem node longitudinal section,茎节纵切面,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-001,icons/plants/morphology/arabidopsis-rosette.svg,plants/morphology,Arabidopsis rosette,拟南芥莲座叶,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-002,icons/plants/morphology/cotton-boll.svg,plants/morphology,Open cotton boll,吐絮棉铃,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-003,icons/plants/morphology/foxtail-millet-panicle.svg,plants/morphology,Foxtail millet panicle,谷子穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-004,icons/plants/morphology/germinating-maize-kernel.svg,plants/morphology,Germinating maize kernel,萌发玉米籽粒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-005,icons/plants/morphology/lateral-root-emergence.svg,plants/morphology,Lateral root emergence,侧根发生,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-006,icons/plants/morphology/leaf-disc.svg,plants/morphology,Leaf disc,叶圆片,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-007,icons/plants/morphology/legume-root-nodules.svg,plants/morphology,Legume root nodules,豆科植物根瘤,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-008,icons/plants/morphology/maize-crown-root-system.svg,plants/morphology,Maize crown root system,玉米冠根,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-010,icons/plants/morphology/maize-ear-silk.svg,plants/morphology,Maize ear silk,玉米花丝,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-009,icons/plants/morphology/maize-ear.svg,plants/morphology,Maize ear with exposed kernels,玉米果穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-012,icons/plants/morphology/maize-kernel-longitudinal-section.svg,plants/morphology,Maize kernel longitudinal section,玉米籽粒纵切面,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-011,icons/plants/morphology/maize-kernel.svg,plants/morphology,Maize kernel,玉米籽粒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-013,icons/plants/morphology/maize-leaf-parallel-veins.svg,plants/morphology,Maize leaf with parallel veins,玉米叶片平行叶脉,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-014,icons/plants/morphology/maize-pollen-grain.svg,plants/morphology,Maize pollen grain,玉米花粉粒,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-015,icons/plants/morphology/maize-tassel.svg,plants/morphology,Maize tassel,玉米雄穗,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-016,icons/plants/morphology/maize-whole-plant.svg,plants/morphology,Maize plant,玉米植株,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-017,icons/plants/morphology/potato-tuber.svg,plants/morphology,Potato tuber,马铃薯块茎,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-018,icons/plants/morphology/rice-panicle.svg,plants/morphology,Rice panicle,水稻圆锥花序,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-019,icons/plants/morphology/sorghum-panicle.svg,plants/morphology,Sorghum panicle,高粱圆锥花序,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-020,icons/plants/morphology/soybean-pod.svg,plants/morphology,Soybean pod,大豆豆荚,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-021,icons/plants/morphology/tomato-fruit.svg,plants/morphology,Tomato fruit,番茄果实,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-MOR-022,icons/plants/morphology/wheat-spike.svg,plants/morphology,Wheat spike,小麦穗,original-project-artwork,AI-assisted,not-assigned,draft
+PHO-005,icons/plants/photosynthesis/c4-carbon-concentrating-mechanism.svg,plants/photosynthesis,C4 carbon-concentrating mechanism,C4 碳浓缩机制,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-004,icons/plants/photosynthesis/calvin-cycle.svg,plants/photosynthesis,Calvin-Benson cycle,卡尔文-本森循环,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-006,icons/plants/photosynthesis/photorespiration.svg,plants/photosynthesis,Photorespiration pathway,光呼吸途径,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-002,icons/plants/photosynthesis/photosystem-i.svg,plants/photosynthesis,Photosystem I,光系统 I,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-001,icons/plants/photosynthesis/photosystem-ii.svg,plants/photosynthesis,Photosystem II,光系统 II,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PHO-003,icons/plants/photosynthesis/rubisco.svg,plants/photosynthesis,Rubisco holoenzyme,Rubisco 全酶,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 CD120-097,icons/plants/reproductive-tissues/anther-cross-section.svg,plants/reproductive-tissues,Anther cross section,花药横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-098,icons/plants/reproductive-tissues/pollen-tetrad.svg,plants/reproductive-tissues,Pollen tetrad,花粉四分体,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-099,icons/plants/reproductive-tissues/ovule-section.svg,plants/reproductive-tissues,Ovule section,胚珠切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-100,icons/plants/reproductive-tissues/pistil.svg,plants/reproductive-tissues,Pistil,雌蕊,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-101,icons/plants/reproductive-tissues/stigma-surface.svg,plants/reproductive-tissues,Stigma surface,柱头表面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-102,icons/plants/reproductive-tissues/ovary-cross-section.svg,plants/reproductive-tissues,Ovary cross section,子房横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-103,icons/plants/reproductive-tissues/petal-tissue.svg,plants/reproductive-tissues,Petal,花瓣,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-104,icons/plants/reproductive-tissues/sepal.svg,plants/reproductive-tissues,Sepal,萼片,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-105,icons/plants/reproductive-tissues/floral-meristem-concept.svg,plants/reproductive-tissues,Floral meristem concept,花分生组织示意,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-106,icons/plants/reproductive-tissues/seed-coat-tissue.svg,plants/reproductive-tissues,Seed coat tissue,种皮组织,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-107,icons/plants/reproductive-tissues/endosperm-tissue.svg,plants/reproductive-tissues,Endosperm tissue,胚乳组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-105,icons/plants/reproductive-tissues/floral-meristem-concept.svg,plants/reproductive-tissues,Floral meristem concept,花分生组织示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-102,icons/plants/reproductive-tissues/ovary-cross-section.svg,plants/reproductive-tissues,Ovary cross section,子房横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-099,icons/plants/reproductive-tissues/ovule-section.svg,plants/reproductive-tissues,Ovule section,胚珠切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-103,icons/plants/reproductive-tissues/petal-tissue.svg,plants/reproductive-tissues,Petal,花瓣,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-100,icons/plants/reproductive-tissues/pistil.svg,plants/reproductive-tissues,Pistil,雌蕊,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-098,icons/plants/reproductive-tissues/pollen-tetrad.svg,plants/reproductive-tissues,Pollen tetrad,花粉四分体,original-project-artwork,AI-assisted,not-assigned,draft
 CD120-108,icons/plants/reproductive-tissues/pollen-tube-in-style.svg,plants/reproductive-tissues,Pollen tube in style,花柱内花粉管,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-109,icons/human/tissues/artery-cross-section.svg,human/tissues,Artery cross section,动脉横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-110,icons/human/tissues/vein-cross-section.svg,human/tissues,Vein cross section,静脉横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-111,icons/human/tissues/capillary-tissue.svg,human/tissues,Capillary,毛细血管,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-112,icons/human/tissues/alveolar-cluster.svg,human/tissues,Alveolar cluster,肺泡簇,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-113,icons/human/tissues/nephron-concept.svg,human/tissues,Nephron concept,肾单位示意,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-114,icons/human/tissues/intestinal-villus.svg,human/tissues,Intestinal villus,肠绒毛,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-115,icons/human/tissues/hyaline-cartilage.svg,human/tissues,Hyaline cartilage,透明软骨,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-116,icons/human/tissues/tendon-tissue.svg,human/tissues,Tendon tissue,肌腱组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-117,icons/human/tissues/skeletal-muscle-bundle.svg,human/tissues,Skeletal muscle bundle,骨骼肌束,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-118,icons/human/tissues/smooth-muscle-tissue.svg,human/tissues,Smooth muscle tissue,平滑肌组织,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-119,icons/human/tissues/peripheral-nerve-section.svg,human/tissues,Peripheral nerve section,外周神经横切面,original-project-artwork,AI-assisted,not-assigned,draft
-CD120-120,icons/human/tissues/lymph-node-section.svg,human/tissues,Lymph node section,淋巴结切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-106,icons/plants/reproductive-tissues/seed-coat-tissue.svg,plants/reproductive-tissues,Seed coat tissue,种皮组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-104,icons/plants/reproductive-tissues/sepal.svg,plants/reproductive-tissues,Sepal,萼片,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-101,icons/plants/reproductive-tissues/stigma-surface.svg,plants/reproductive-tissues,Stigma surface,柱头表面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-078,icons/plants/root-tissues/casparian-strip.svg,plants/root-tissues,Casparian strip concept,凯氏带示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-074,icons/plants/root-tissues/dicot-root-section.svg,plants/root-tissues,Dicot root section,双子叶植物根横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-076,icons/plants/root-tissues/endodermal-ring.svg,plants/root-tissues,Endodermal ring,内皮层环,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-079,icons/plants/root-tissues/exodermal-tissue.svg,plants/root-tissues,Exodermal tissue,外皮层组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-073,icons/plants/root-tissues/monocot-root-section.svg,plants/root-tissues,Monocot root section,单子叶植物根横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-077,icons/plants/root-tissues/pericycle-layer.svg,plants/root-tissues,Pericycle layer,中柱鞘层,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-081,icons/plants/root-tissues/quiescent-center-concept.svg,plants/root-tissues,Root quiescent center concept,根静止中心示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-083,icons/plants/root-tissues/root-aerenchyma.svg,plants/root-tissues,Root aerenchyma,根通气组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-082,icons/plants/root-tissues/root-cap-statoliths.svg,plants/root-tissues,Root cap statolith concept,根冠平衡石示意,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-075,icons/plants/root-tissues/root-cortex.svg,plants/root-tissues,Root cortex tissue,根皮层组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-080,icons/plants/root-tissues/root-meristem-tissue.svg,plants/root-tissues,Root meristematic tissue,根分生组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-084,icons/plants/root-tissues/root-vascular-cylinder.svg,plants/root-tissues,Root vascular cylinder,根中柱,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-089,icons/plants/stem-tissues/annual-growth-rings.svg,plants/stem-tissues,Annual growth rings,年轮,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-094,icons/plants/stem-tissues/collateral-vascular-bundle.svg,plants/stem-tissues,Collateral vascular bundle,外韧维管束,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-093,icons/plants/stem-tissues/collenchyma-tissue.svg,plants/stem-tissues,Collenchyma tissue,厚角组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-090,icons/plants/stem-tissues/cork-tissue.svg,plants/stem-tissues,Cork tissue,木栓组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-085,icons/plants/stem-tissues/herbaceous-dicot-stem-section.svg,plants/stem-tissues,Herbaceous dicot stem section,草本双子叶植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-091,icons/plants/stem-tissues/lenticel.svg,plants/stem-tissues,Lenticel,皮孔,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-086,icons/plants/stem-tissues/monocot-stem-section.svg,plants/stem-tissues,Monocot stem section,单子叶植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-092,icons/plants/stem-tissues/sclerenchyma-fibers.svg,plants/stem-tissues,Sclerenchyma fibers,厚壁纤维组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-096,icons/plants/stem-tissues/stem-node-section.svg,plants/stem-tissues,Stem node longitudinal section,茎节纵切面,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-095,icons/plants/stem-tissues/stem-pith.svg,plants/stem-tissues,Stem pith tissue,茎髓组织,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-088,icons/plants/stem-tissues/vascular-cambium.svg,plants/stem-tissues,Vascular cambium,维管形成层,original-project-artwork,AI-assisted,not-assigned,draft
+CD120-087,icons/plants/stem-tissues/woody-stem-section.svg,plants/stem-tissues,Woody stem section,木本植物茎横切面,original-project-artwork,AI-assisted,not-assigned,draft
+TIS-003,icons/plants/tissues/bundle-sheath-cell.svg,plants/tissues,Bundle sheath cell,维管束鞘细胞,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-001,icons/plants/tissues/leaf-cross-section.svg,plants/tissues,Leaf cross-section,叶片横切面,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-002,icons/plants/tissues/mesophyll-cell.svg,plants/tissues,Mesophyll cell,叶肉细胞,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-006,icons/plants/tissues/phloem-sieve-tube.svg,plants/tissues,Phloem sieve tube,韧皮部筛管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-004,icons/plants/tissues/vascular-bundle.svg,plants/tissues,Vascular bundle,维管束,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-005,icons/plants/tissues/xylem-vessel.svg,plants/tissues,Xylem vessel,木质部导管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+BIO-PLANT-001,icons/plants/whole-plants/leaf.svg,plants/whole-plants,Leaf,叶片,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-PLANT-002,icons/plants/whole-plants/maize.svg,plants/whole-plants,Maize,玉米,original-project-artwork,project-initial-set,not-assigned,draft
+BIO-PLANT-003,icons/plants/whole-plants/seedling.svg,plants/whole-plants,Seedling,幼苗,original-project-artwork,project-initial-set,not-assigned,draft

@@ -29,3 +29,9 @@ Thank you for helping improve Scientific SVG Icons. 感谢参与完善本项目�
 - Do not use bot or AI-agent identities as commit authors. 不使用 bot 或 AI agent 身份作为提交作者。
 - Update the icon index whenever icons change. 图标发生变化时同步更新索引。
 - Keep `VERSION` synchronized with the README. 保持 VERSION 与 README 版本一致。
+
+## Classification and galleries | 分类与预览维护
+
+- Add assets to an existing category under `icons/` when appropriate; plant organs and tissues belong in `icons/plants/`. 优先归入现有分类；植物器官及组织归入 `icons/plants/`。
+- Keep the directory, CSV category and README gallery synchronized. 保持目录、CSV 分类和 README 预览一致。
+- When relocating an SVG, update references and record the old/new path in the metadata migration table. 移动 SVG 时更新引用，并在元数据迁移表登记新旧路径。
