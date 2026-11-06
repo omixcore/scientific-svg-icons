@@ -199,3 +199,28 @@ Editable schematic elements for assembling gene models and regulatory diagrams. 
 ### Revised plant anatomy | 更新的植物解剖图
 
 [![Root tip anatomy](icons/biology/anatomy/root-tip.svg)](icons/biology/anatomy/root-tip.svg)
+
+## Cellular components | 细胞与亚细胞组分
+
+Editable conceptual components for plant-cell and molecular-mechanism figures; structures are schematic and not to scale. 可编辑的植物细胞及分子机制图组件；结构为示意图，不代表真实比例。
+
+| Actin filament / 肌动蛋白丝 | Central vacuole / 中央液泡 | Golgi apparatus / 高尔基体 | Lipid droplet / 脂滴 |
+| --- | --- | --- | --- |
+| [![Actin filament](icons/biology/cellular-components/actin-filament.svg)](icons/biology/cellular-components/actin-filament.svg) | [![Central vacuole](icons/biology/cellular-components/central-vacuole.svg)](icons/biology/cellular-components/central-vacuole.svg) | [![Golgi apparatus](icons/biology/cellular-components/golgi-apparatus.svg)](icons/biology/cellular-components/golgi-apparatus.svg) | [![Lipid droplet](icons/biology/cellular-components/lipid-droplet.svg)](icons/biology/cellular-components/lipid-droplet.svg) |
+
+| Microtubule / 微管 | Mitochondrion / 线粒体 | Nuclear pore complex / 核孔复合体 | Nucleolus / 核仁 |
+| --- | --- | --- | --- |
+| [![Microtubule](icons/biology/cellular-components/microtubule.svg)](icons/biology/cellular-components/microtubule.svg) | [![Mitochondrion](icons/biology/cellular-components/mitochondrion.svg)](icons/biology/cellular-components/mitochondrion.svg) | [![Nuclear pore complex](icons/biology/cellular-components/nuclear-pore.svg)](icons/biology/cellular-components/nuclear-pore.svg) | [![Nucleolus](icons/biology/cellular-components/nucleolus.svg)](icons/biology/cellular-components/nucleolus.svg) |
+
+| Nucleus / 细胞核 | Peroxisome / 过氧化物酶体 | Plant cell wall / 植物细胞壁 | Plasma membrane / 质膜 |
+| --- | --- | --- | --- |
+| [![Nucleus](icons/biology/cellular-components/nucleus.svg)](icons/biology/cellular-components/nucleus.svg) | [![Peroxisome](icons/biology/cellular-components/peroxisome.svg)](icons/biology/cellular-components/peroxisome.svg) | [![Plant cell wall](icons/biology/cellular-components/plant-cell-wall.svg)](icons/biology/cellular-components/plant-cell-wall.svg) | [![Plasma membrane](icons/biology/cellular-components/plasma-membrane.svg)](icons/biology/cellular-components/plasma-membrane.svg) |
+
+| Plasmodesma / 胞间连丝 | Proteasome / 蛋白酶体 | Ribosome / 核糖体 | Rough endoplasmic reticulum / 粗面内质网 |
+| --- | --- | --- | --- |
+| [![Plasmodesma](icons/biology/cellular-components/plasmodesma.svg)](icons/biology/cellular-components/plasmodesma.svg) | [![Proteasome](icons/biology/cellular-components/proteasome.svg)](icons/biology/cellular-components/proteasome.svg) | [![Ribosome](icons/biology/cellular-components/ribosome.svg)](icons/biology/cellular-components/ribosome.svg) | [![Rough endoplasmic reticulum](icons/biology/cellular-components/rough-endoplasmic-reticulum.svg)](icons/biology/cellular-components/rough-endoplasmic-reticulum.svg) |
+
+| Smooth endoplasmic reticulum / 光面内质网 | Starch granule / 淀粉粒 | Tonoplast / 液泡膜 | Transport vesicle / 运输囊泡 |
+| --- | --- | --- | --- |
+| [![Smooth endoplasmic reticulum](icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg)](icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg) | [![Starch granule](icons/biology/cellular-components/starch-granule.svg)](icons/biology/cellular-components/starch-granule.svg) | [![Tonoplast](icons/biology/cellular-components/tonoplast.svg)](icons/biology/cellular-components/tonoplast.svg) | [![Transport vesicle](icons/biology/cellular-components/transport-vesicle.svg)](icons/biology/cellular-components/transport-vesicle.svg) |
+

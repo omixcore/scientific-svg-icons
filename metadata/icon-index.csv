@@ -94,3 +94,23 @@ GENE-ELEM-016,icons/diagrams/gene-elements/terminator.svg,diagrams/gene-elements
 GENE-ELEM-017,icons/diagrams/gene-elements/three-prime-utr.svg,diagrams/gene-elements,3′ untranslated region,3′ 非翻译区,original-project-artwork,AI-assisted,not-assigned,draft
 GENE-ELEM-018,icons/diagrams/gene-elements/transcription-factor-binding.svg,diagrams/gene-elements,Transcription factor binding,转录因子结合,original-project-artwork,AI-assisted,not-assigned,draft
 GENE-ELEM-019,icons/diagrams/gene-elements/transcription-start-site.svg,diagrams/gene-elements,Transcription start site,转录起始位点,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-001,icons/biology/cellular-components/actin-filament.svg,biology/cellular-components,Actin filament,肌动蛋白丝,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-002,icons/biology/cellular-components/central-vacuole.svg,biology/cellular-components,Central vacuole,中央液泡,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-003,icons/biology/cellular-components/golgi-apparatus.svg,biology/cellular-components,Golgi apparatus,高尔基体,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-004,icons/biology/cellular-components/lipid-droplet.svg,biology/cellular-components,Lipid droplet,脂滴,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-005,icons/biology/cellular-components/microtubule.svg,biology/cellular-components,Microtubule,微管,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-006,icons/biology/cellular-components/mitochondrion.svg,biology/cellular-components,Mitochondrion,线粒体,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-007,icons/biology/cellular-components/nuclear-pore.svg,biology/cellular-components,Nuclear pore complex,核孔复合体,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-008,icons/biology/cellular-components/nucleolus.svg,biology/cellular-components,Nucleolus,核仁,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-009,icons/biology/cellular-components/nucleus.svg,biology/cellular-components,Nucleus,细胞核,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-010,icons/biology/cellular-components/peroxisome.svg,biology/cellular-components,Peroxisome,过氧化物酶体,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-011,icons/biology/cellular-components/plant-cell-wall.svg,biology/cellular-components,Plant cell wall,植物细胞壁,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-012,icons/biology/cellular-components/plasma-membrane.svg,biology/cellular-components,Plasma membrane,质膜,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-013,icons/biology/cellular-components/plasmodesma.svg,biology/cellular-components,Plasmodesma,胞间连丝,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-014,icons/biology/cellular-components/proteasome.svg,biology/cellular-components,Proteasome,蛋白酶体,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-015,icons/biology/cellular-components/ribosome.svg,biology/cellular-components,Ribosome,核糖体,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-016,icons/biology/cellular-components/rough-endoplasmic-reticulum.svg,biology/cellular-components,Rough endoplasmic reticulum,粗面内质网,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-017,icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg,biology/cellular-components,Smooth endoplasmic reticulum,光面内质网,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-018,icons/biology/cellular-components/starch-granule.svg,biology/cellular-components,Starch granule,淀粉粒,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-019,icons/biology/cellular-components/tonoplast.svg,biology/cellular-components,Tonoplast,液泡膜,original-project-artwork,AI-assisted,not-assigned,draft
+CELL-COMP-020,icons/biology/cellular-components/transport-vesicle.svg,biology/cellular-components,Transport vesicle,运输囊泡,original-project-artwork,AI-assisted,not-assigned,draft
