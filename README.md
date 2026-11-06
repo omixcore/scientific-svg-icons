@@ -49,6 +49,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/microscopy-components/` | Microscopy and specimen preparation / 显微成像与样品制备 |
 | `icons/experiments/plant-physiology/` | Plant physiology and salt stress assays / 植物生理与盐胁迫实验 |
 | `icons/omics/transcriptomics/` | Transcriptomics and RNA sequencing / 转录组与 RNA 测序 |
+| `icons/omics/proteomics-workflow/` | Proteomics workflow components / 蛋白组学流程组件 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -437,4 +438,21 @@ Editable conceptual components for RNA sequencing workflows. Library preparation
 | RNA integrity gel / RNA 完整性凝胶 | Sequencing adapter ligation / 测序接头连接 | Sequencing flow cell / 测序流动池 | Sequencing library tube / 测序文库管 |
 | --- | --- | --- | --- |
 | [![RNA integrity gel](icons/omics/transcriptomics/rna-integrity-gel.svg)](icons/omics/transcriptomics/rna-integrity-gel.svg) | [![Sequencing adapter ligation](icons/omics/transcriptomics/sequencing-adapter-ligation.svg)](icons/omics/transcriptomics/sequencing-adapter-ligation.svg) | [![Sequencing flow cell](icons/omics/transcriptomics/sequencing-flow-cell.svg)](icons/omics/transcriptomics/sequencing-flow-cell.svg) | [![Sequencing library tube](icons/omics/transcriptomics/sequencing-library-tube.svg)](icons/omics/transcriptomics/sequencing-library-tube.svg) |
+
+
+## Proteomics workflow | 蛋白组学流程
+
+Editable conceptual components for protein preparation and mass spectrometry. Spectra and matrices are illustrative and do not represent experimental measurements. 可编辑的蛋白制备与质谱流程素材；谱图和矩阵为示意，不代表实际实验数据。
+
+| Electrospray ion source / 电喷雾离子源 | Liquid chromatography column / 液相色谱柱 | MS1 precursor spectrum / MS1 前体离子谱 | Peptide desalting tip / 肽段脱盐枪头 |
+| --- | --- | --- | --- |
+| [![Electrospray ion source](icons/omics/proteomics-workflow/electrospray-ion-source.svg)](icons/omics/proteomics-workflow/electrospray-ion-source.svg) | [![Liquid chromatography column](icons/omics/proteomics-workflow/liquid-chromatography-column.svg)](icons/omics/proteomics-workflow/liquid-chromatography-column.svg) | [![MS1 precursor spectrum](icons/omics/proteomics-workflow/ms1-precursor-spectrum.svg)](icons/omics/proteomics-workflow/ms1-precursor-spectrum.svg) | [![Peptide desalting tip](icons/omics/proteomics-workflow/peptide-desalting-tip.svg)](icons/omics/proteomics-workflow/peptide-desalting-tip.svg) |
+
+| Peptide spectrum match / 肽谱匹配 | Precursor isolation window / 前体离子隔离窗口 | Protease digestion / 蛋白酶解 | Protein abundance matrix / 蛋白丰度矩阵 |
+| --- | --- | --- | --- |
+| [![Peptide spectrum match](icons/omics/proteomics-workflow/peptide-spectrum-match.svg)](icons/omics/proteomics-workflow/peptide-spectrum-match.svg) | [![Precursor isolation window](icons/omics/proteomics-workflow/precursor-isolation.svg)](icons/omics/proteomics-workflow/precursor-isolation.svg) | [![Protease digestion](icons/omics/proteomics-workflow/protease-digestion.svg)](icons/omics/proteomics-workflow/protease-digestion.svg) | [![Protein abundance matrix](icons/omics/proteomics-workflow/protein-abundance-matrix.svg)](icons/omics/proteomics-workflow/protein-abundance-matrix.svg) |
+
+| Protein extraction tube / 蛋白质提取管 | Protein inference / 蛋白推断 | Protein quantification plate / 蛋白浓度测定板 | Tandem MS fragmentation / 串联质谱碎裂 |
+| --- | --- | --- | --- |
+| [![Protein extraction tube](icons/omics/proteomics-workflow/protein-extraction-tube.svg)](icons/omics/proteomics-workflow/protein-extraction-tube.svg) | [![Protein inference](icons/omics/proteomics-workflow/protein-inference.svg)](icons/omics/proteomics-workflow/protein-inference.svg) | [![Protein quantification plate](icons/omics/proteomics-workflow/protein-quantification-plate.svg)](icons/omics/proteomics-workflow/protein-quantification-plate.svg) | [![Tandem MS fragmentation](icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg)](icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg) |
 

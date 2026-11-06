@@ -267,3 +267,15 @@ TX-COMP-009,icons/omics/transcriptomics/rna-integrity-gel.svg,omics/transcriptom
 TX-COMP-010,icons/omics/transcriptomics/sequencing-adapter-ligation.svg,omics/transcriptomics,Sequencing adapter ligation,测序接头连接,original-project-artwork,AI-assisted,not-assigned,draft
 TX-COMP-011,icons/omics/transcriptomics/sequencing-flow-cell.svg,omics/transcriptomics,Sequencing flow cell,测序流动池,original-project-artwork,AI-assisted,not-assigned,draft
 TX-COMP-012,icons/omics/transcriptomics/sequencing-library-tube.svg,omics/transcriptomics,Sequencing library tube,测序文库管,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-001,icons/omics/proteomics-workflow/electrospray-ion-source.svg,omics/proteomics-workflow,Electrospray ion source,电喷雾离子源,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-002,icons/omics/proteomics-workflow/liquid-chromatography-column.svg,omics/proteomics-workflow,Liquid chromatography column,液相色谱柱,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-003,icons/omics/proteomics-workflow/ms1-precursor-spectrum.svg,omics/proteomics-workflow,MS1 precursor spectrum,MS1 前体离子谱,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-004,icons/omics/proteomics-workflow/peptide-desalting-tip.svg,omics/proteomics-workflow,Peptide desalting tip,肽段脱盐枪头,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-005,icons/omics/proteomics-workflow/peptide-spectrum-match.svg,omics/proteomics-workflow,Peptide spectrum match,肽谱匹配,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-006,icons/omics/proteomics-workflow/precursor-isolation.svg,omics/proteomics-workflow,Precursor isolation window,前体离子隔离窗口,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-007,icons/omics/proteomics-workflow/protease-digestion.svg,omics/proteomics-workflow,Protease digestion,蛋白酶解,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-008,icons/omics/proteomics-workflow/protein-abundance-matrix.svg,omics/proteomics-workflow,Protein abundance matrix,蛋白丰度矩阵,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-009,icons/omics/proteomics-workflow/protein-extraction-tube.svg,omics/proteomics-workflow,Protein extraction tube,蛋白质提取管,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-010,icons/omics/proteomics-workflow/protein-inference.svg,omics/proteomics-workflow,Protein inference,蛋白推断,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-011,icons/omics/proteomics-workflow/protein-quantification-plate.svg,omics/proteomics-workflow,Protein quantification plate,蛋白浓度测定板,original-project-artwork,AI-assisted,not-assigned,draft
+PRO-WFL-012,icons/omics/proteomics-workflow/tandem-ms-fragmentation.svg,omics/proteomics-workflow,Tandem MS fragmentation,串联质谱碎裂,original-project-artwork,AI-assisted,not-assigned,draft
