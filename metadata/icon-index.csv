@@ -114,3 +114,23 @@ CELL-COMP-017,icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg
 CELL-COMP-018,icons/biology/cellular-components/starch-granule.svg,biology/cellular-components,Starch granule,淀粉粒,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-019,icons/biology/cellular-components/tonoplast.svg,biology/cellular-components,Tonoplast,液泡膜,original-project-artwork,AI-assisted,not-assigned,draft
 CELL-COMP-020,icons/biology/cellular-components/transport-vesicle.svg,biology/cellular-components,Transport vesicle,运输囊泡,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-001,icons/biology/stress-signaling/antioxidant-defense.svg,biology/stress-signaling,Antioxidant defense,抗氧化防御,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-002,icons/biology/stress-signaling/cold-stress.svg,biology/stress-signaling,Cold stress,低温胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-003,icons/biology/stress-signaling/drought-stress.svg,biology/stress-signaling,Drought stress,干旱胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-004,icons/biology/stress-signaling/dry-soil.svg,biology/stress-signaling,Dry soil,干旱土壤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-005,icons/biology/stress-signaling/flooded-soil.svg,biology/stress-signaling,Waterlogged soil,渍水土壤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-006,icons/biology/stress-signaling/fungal-hypha.svg,biology/stress-signaling,Fungal hypha,真菌菌丝,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-007,icons/biology/stress-signaling/heat-stress.svg,biology/stress-signaling,Heat stress,高温胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-008,icons/biology/stress-signaling/high-light.svg,biology/stress-signaling,High light,强光,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-009,icons/biology/stress-signaling/hypoxia.svg,biology/stress-signaling,Hypoxia,低氧胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-010,icons/biology/stress-signaling/ion-channel.svg,biology/stress-signaling,Membrane ion channel,膜离子通道,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-011,icons/biology/stress-signaling/mechanical-wounding.svg,biology/stress-signaling,Mechanical wounding,机械损伤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-012,icons/biology/stress-signaling/membrane-receptor.svg,biology/stress-signaling,Membrane receptor,膜受体,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-013,icons/biology/stress-signaling/osmotic-stress.svg,biology/stress-signaling,Osmotic stress,渗透胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-014,icons/biology/stress-signaling/pathogenic-bacterium.svg,biology/stress-signaling,Bacterial cell,细菌细胞,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-015,icons/biology/stress-signaling/protein-phosphorylation.svg,biology/stress-signaling,Protein phosphorylation,蛋白磷酸化,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-016,icons/biology/stress-signaling/reactive-oxygen-species.svg,biology/stress-signaling,Reactive oxygen species,活性氧,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-017,icons/biology/stress-signaling/soil-salinity.svg,biology/stress-signaling,Saline soil,盐胁迫土壤,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-018,icons/biology/stress-signaling/transcriptional-response.svg,biology/stress-signaling,Transcriptional response,转录响应,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-019,icons/biology/stress-signaling/uv-exposure.svg,biology/stress-signaling,UV exposure,紫外线胁迫,original-project-artwork,AI-assisted,not-assigned,draft
+STRESS-020,icons/biology/stress-signaling/virus-particle.svg,biology/stress-signaling,Virus particle,病毒颗粒,original-project-artwork,AI-assisted,not-assigned,draft

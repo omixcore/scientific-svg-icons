@@ -224,3 +224,28 @@ Editable conceptual components for plant-cell and molecular-mechanism figures; s
 | --- | --- | --- | --- |
 | [![Smooth endoplasmic reticulum](icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg)](icons/biology/cellular-components/smooth-endoplasmic-reticulum.svg) | [![Starch granule](icons/biology/cellular-components/starch-granule.svg)](icons/biology/cellular-components/starch-granule.svg) | [![Tonoplast](icons/biology/cellular-components/tonoplast.svg)](icons/biology/cellular-components/tonoplast.svg) | [![Transport vesicle](icons/biology/cellular-components/transport-vesicle.svg)](icons/biology/cellular-components/transport-vesicle.svg) |
 
+
+## Stress and signaling | 逆境与信号转导
+
+Editable conceptual symbols for environmental stress, cellular responses, and generic signaling. Depicted structures are schematic; tailor ion direction, species, and biological context to the experiment. 可编辑的环境逆境、细胞响应及信号转导示意组件；离子运输方向、物种和具体生物学含义应依据实验调整。
+
+| Antioxidant defense / 抗氧化防御 | Cold stress / 低温胁迫 | Drought stress / 干旱胁迫 | Dry soil / 干旱土壤 |
+| --- | --- | --- | --- |
+| [![Antioxidant defense](icons/biology/stress-signaling/antioxidant-defense.svg)](icons/biology/stress-signaling/antioxidant-defense.svg) | [![Cold stress](icons/biology/stress-signaling/cold-stress.svg)](icons/biology/stress-signaling/cold-stress.svg) | [![Drought stress](icons/biology/stress-signaling/drought-stress.svg)](icons/biology/stress-signaling/drought-stress.svg) | [![Dry soil](icons/biology/stress-signaling/dry-soil.svg)](icons/biology/stress-signaling/dry-soil.svg) |
+
+| Waterlogged soil / 渍水土壤 | Fungal hypha / 真菌菌丝 | Heat stress / 高温胁迫 | High light / 强光 |
+| --- | --- | --- | --- |
+| [![Waterlogged soil](icons/biology/stress-signaling/flooded-soil.svg)](icons/biology/stress-signaling/flooded-soil.svg) | [![Fungal hypha](icons/biology/stress-signaling/fungal-hypha.svg)](icons/biology/stress-signaling/fungal-hypha.svg) | [![Heat stress](icons/biology/stress-signaling/heat-stress.svg)](icons/biology/stress-signaling/heat-stress.svg) | [![High light](icons/biology/stress-signaling/high-light.svg)](icons/biology/stress-signaling/high-light.svg) |
+
+| Hypoxia / 低氧胁迫 | Membrane ion channel / 膜离子通道 | Mechanical wounding / 机械损伤 | Membrane receptor / 膜受体 |
+| --- | --- | --- | --- |
+| [![Hypoxia](icons/biology/stress-signaling/hypoxia.svg)](icons/biology/stress-signaling/hypoxia.svg) | [![Membrane ion channel](icons/biology/stress-signaling/ion-channel.svg)](icons/biology/stress-signaling/ion-channel.svg) | [![Mechanical wounding](icons/biology/stress-signaling/mechanical-wounding.svg)](icons/biology/stress-signaling/mechanical-wounding.svg) | [![Membrane receptor](icons/biology/stress-signaling/membrane-receptor.svg)](icons/biology/stress-signaling/membrane-receptor.svg) |
+
+| Osmotic stress / 渗透胁迫 | Bacterial cell / 细菌细胞 | Protein phosphorylation / 蛋白磷酸化 | Reactive oxygen species / 活性氧 |
+| --- | --- | --- | --- |
+| [![Osmotic stress](icons/biology/stress-signaling/osmotic-stress.svg)](icons/biology/stress-signaling/osmotic-stress.svg) | [![Bacterial cell](icons/biology/stress-signaling/pathogenic-bacterium.svg)](icons/biology/stress-signaling/pathogenic-bacterium.svg) | [![Protein phosphorylation](icons/biology/stress-signaling/protein-phosphorylation.svg)](icons/biology/stress-signaling/protein-phosphorylation.svg) | [![Reactive oxygen species](icons/biology/stress-signaling/reactive-oxygen-species.svg)](icons/biology/stress-signaling/reactive-oxygen-species.svg) |
+
+| Saline soil / 盐胁迫土壤 | Transcriptional response / 转录响应 | UV exposure / 紫外线胁迫 | Virus particle / 病毒颗粒 |
+| --- | --- | --- | --- |
+| [![Saline soil](icons/biology/stress-signaling/soil-salinity.svg)](icons/biology/stress-signaling/soil-salinity.svg) | [![Transcriptional response](icons/biology/stress-signaling/transcriptional-response.svg)](icons/biology/stress-signaling/transcriptional-response.svg) | [![UV exposure](icons/biology/stress-signaling/uv-exposure.svg)](icons/biology/stress-signaling/uv-exposure.svg) | [![Virus particle](icons/biology/stress-signaling/virus-particle.svg)](icons/biology/stress-signaling/virus-particle.svg) |
+
