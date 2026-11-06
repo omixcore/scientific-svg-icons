@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Mass spectrometer</title><desc id="desc">Schematic mass spectrometry instrument with sample inlet, analyzer, and spectrum display.</desc>
+
+<rect x="12" y="18" width="104" height="92" rx="9" fill="#DCEAF2" stroke="#263746" stroke-width="3"/>
+<rect x="24" y="29" width="80" height="40" rx="4" fill="#263746"/>
+<path d="M31 60 42 52 50 56 61 36 71 48 82 40 96 55" fill="none" stroke="#8BCB70" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="24" y="79" width="80" height="18" rx="4" fill="#8FB7D8" stroke="#426B92" stroke-width="2"/>
+<path d="M42 79v-8m22 8v-8m22 8v-8" stroke="#426B92" stroke-width="2.5"/>
+
+</svg>

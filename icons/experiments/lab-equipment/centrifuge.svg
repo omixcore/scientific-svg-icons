@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Laboratory centrifuge</title><desc id="desc">Benchtop centrifuge with lid, rotor, and sample tubes.</desc>
+
+<path d="M18 48h92l-8 61H26Z" fill="#DCEAF2" stroke="#263746" stroke-width="3" stroke-linejoin="round"/>
+<path d="M25 48c2-22 16-34 39-34s37 12 39 34Z" fill="#A9C8E7" stroke="#263746" stroke-width="3"/>
+<ellipse cx="64" cy="48" rx="25" ry="9" fill="#E7B45A" stroke="#986A36" stroke-width="2"/>
+<g fill="#F7F7F2" stroke="#426B92" stroke-width="1.8"><path d="M43 43h9v18h-9Z"/><path d="M59 39h10v22H59Z"/><path d="M77 43h9v18h-9Z"/></g>
+<rect x="42" y="81" width="44" height="15" rx="4" fill="#263746"/><circle cx="95" cy="89" r="4" fill="#8BCB70"/>
+
+</svg>

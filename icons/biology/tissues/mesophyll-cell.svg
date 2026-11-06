@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Mesophyll cell</title><desc id="desc">Schematic irregular mesophyll cell containing multiple chloroplasts.</desc>
+
+<path d="M18 62 27 34 52 18 81 24 107 43 111 73 91 101 61 111 31 96Z" fill="#D8EBC7" stroke="#397A50" stroke-width="3" stroke-linejoin="round"/>
+<g fill="#68A85C" stroke="#315F43" stroke-width="1.4"><ellipse cx="37" cy="43" rx="9" ry="5" transform="rotate(-30 37 43)"/><ellipse cx="64" cy="34" rx="9" ry="5"/><ellipse cx="91" cy="50" rx="9" ry="5" transform="rotate(35 91 50)"/><ellipse cx="94" cy="78" rx="9" ry="5" transform="rotate(-25 94 78)"/><ellipse cx="68" cy="96" rx="9" ry="5"/><ellipse cx="39" cy="83" rx="9" ry="5" transform="rotate(25 39 83)"/><ellipse cx="56" cy="63" rx="9" ry="5" transform="rotate(-20 56 63)"/></g>
+<circle cx="74" cy="67" r="12" fill="#B6C8E8" stroke="#526D9A" stroke-width="2"/><circle cx="77" cy="65" r="4" fill="#526D9A"/>
+
+</svg>

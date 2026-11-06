@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Gene expression</title><desc id="desc">Central dogma diagram showing DNA transcription to RNA and translation to protein.</desc>
+
+<path d="M18 26c27-15 27 15 54 0s27 15 38 0M18 42c27-15 27 15 54 0s27 15 38 0" fill="none" stroke="#4389C8" stroke-width="3" stroke-linecap="round"/>
+<path d="M64 49v15m-7-7 7 7 7-7" fill="none" stroke="#397A50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 77c14-16 22 16 36 0s22 16 42 0" fill="none" stroke="#E7A94B" stroke-width="4" stroke-linecap="round"/>
+<path d="M64 89v12m-7-7 7 7 7-7" fill="none" stroke="#397A50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#8EB6E8" stroke="#526D9A" stroke-width="1.5"><circle cx="39" cy="113" r="7"/><circle cx="55" cy="108" r="7"/><circle cx="71" cy="114" r="7"/><circle cx="87" cy="108" r="7"/></g>
+
+</svg>

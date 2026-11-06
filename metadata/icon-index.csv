@@ -13,3 +13,32 @@ EXP-PCR-001,icons/experiments/pcr/pcr-tube.svg,experiments/pcr,PCR tube,PCR 管,
 OMX-SEQ-001,icons/omics/sequencing/sequencer.svg,omics/sequencing,Sequencer,测序仪,original-project-artwork,project-initial-set,not-assigned,draft
 DIA-PATH-001,icons/diagrams/pathways/activation.svg,diagrams/pathways,Activation,激活,original-project-artwork,project-initial-set,not-assigned,draft
 DIA-PATH-002,icons/diagrams/pathways/inhibition.svg,diagrams/pathways,Inhibition,抑制,original-project-artwork,project-initial-set,not-assigned,draft
+TIS-001,icons/biology/tissues/leaf-cross-section.svg,biology/tissues,Leaf cross-section,叶片横切面,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-002,icons/biology/tissues/mesophyll-cell.svg,biology/tissues,Mesophyll cell,叶肉细胞,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-003,icons/biology/tissues/bundle-sheath-cell.svg,biology/tissues,Bundle sheath cell,维管束鞘细胞,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-004,icons/biology/tissues/vascular-bundle.svg,biology/tissues,Vascular bundle,维管束,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-005,icons/biology/tissues/xylem-vessel.svg,biology/tissues,Xylem vessel,木质部导管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+TIS-006,icons/biology/tissues/phloem-sieve-tube.svg,biology/tissues,Phloem sieve tube,韧皮部筛管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+CHL-001,icons/biology/chloroplasts/chloroplast-ultrastructure.svg,biology/chloroplasts,Chloroplast ultrastructure,叶绿体超微结构,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+CHL-002,icons/biology/chloroplasts/granum-stack.svg,biology/chloroplasts,Granum stack,基粒,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+CHL-003,icons/biology/chloroplasts/thylakoid-membrane.svg,biology/chloroplasts,Thylakoid membrane,类囊体膜,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-001,icons/biology/gene-expression/gene-expression.svg,biology/gene-expression,Gene expression,基因表达,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-002,icons/biology/gene-expression/transcription.svg,biology/gene-expression,Transcription,转录,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-003,icons/biology/gene-expression/translation.svg,biology/gene-expression,Translation,翻译,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+GEN-004,icons/biology/gene-expression/promoter-regulation.svg,biology/gene-expression,Promoter regulation,启动子调控,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-001,icons/omics/proteomics/mass-spectrometer.svg,omics/proteomics,Mass spectrometer,质谱仪,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-002,icons/omics/proteomics/peptide-spectrum.svg,omics/proteomics,Peptide mass spectrum,肽段质谱图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-003,icons/omics/proteomics/protein-heatmap.svg,omics/proteomics,Protein abundance heatmap,蛋白丰度热图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+PRO-004,icons/omics/proteomics/gel-electrophoresis.svg,omics/proteomics,Gel electrophoresis,凝胶电泳,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+MET-001,icons/omics/metabolomics/lc-ms-system.svg,omics/metabolomics,LC-MS system,液相色谱-质谱系统,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+MET-002,icons/omics/metabolomics/metabolite-extraction.svg,omics/metabolomics,Metabolite extraction,代谢物提取,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+MET-003,icons/omics/metabolomics/chromatogram.svg,omics/metabolomics,Chromatogram,色谱图,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+MET-004,icons/omics/metabolomics/metabolite-network.svg,omics/metabolomics,Metabolite network,代谢物网络,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+LAB-001,icons/experiments/lab-equipment/centrifuge.svg,experiments/lab-equipment,Laboratory centrifuge,实验室离心机,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+LAB-002,icons/experiments/lab-equipment/microcentrifuge-tube.svg,experiments/lab-equipment,Microcentrifuge tube,微量离心管,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+LAB-003,icons/experiments/lab-equipment/petri-dish.svg,experiments/lab-equipment,Petri dish,培养皿,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+LAB-004,icons/experiments/growth-chamber.svg,experiments,Plant growth chamber,植物生长箱,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-001,icons/diagrams/workflows/sample-to-omics.svg,diagrams/workflows,Sample-to-omics workflow,样品至组学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-002,icons/diagrams/workflows/rna-seq-workflow.svg,diagrams/workflows,RNA-seq workflow,RNA 测序流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-003,icons/diagrams/workflows/multi-omics-integration.svg,diagrams/workflows,Multi-omics integration,多组学整合,original-project-artwork,omixcore-initial-expansion,not-assigned,draft
+WFL-004,icons/diagrams/workflows/bioinformatics-pipeline.svg,diagrams/workflows,Bioinformatics pipeline,生物信息学分析流程,original-project-artwork,omixcore-initial-expansion,not-assigned,draft

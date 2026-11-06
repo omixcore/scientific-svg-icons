@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Protein abundance heatmap</title><desc id="desc">Schematic protein abundance heatmap with sample columns and protein rows.</desc>
+
+<rect x="20" y="17" width="88" height="94" rx="4" fill="#F5F7F7" stroke="#263746" stroke-width="2.5"/>
+<g stroke="#FFFFFF" stroke-width="1.5"><path d="M20 36h88M20 55h88M20 74h88M20 93h88M42 17v94M64 17v94M86 17v94"/></g>
+<g><rect x="21" y="18" width="20" height="17" fill="#A7CBE4"/><rect x="43" y="18" width="20" height="17" fill="#6BA4CE"/><rect x="65" y="18" width="20" height="17" fill="#E8B96A"/><rect x="87" y="18" width="20" height="17" fill="#D98262"/>
+<rect x="21" y="37" width="20" height="17" fill="#6BA4CE"/><rect x="43" y="37" width="20" height="17" fill="#D98262"/><rect x="65" y="37" width="20" height="17" fill="#A7CBE4"/><rect x="87" y="37" width="20" height="17" fill="#E8B96A"/>
+<rect x="21" y="56" width="20" height="17" fill="#E8B96A"/><rect x="43" y="56" width="20" height="17" fill="#A7CBE4"/><rect x="65" y="56" width="20" height="17" fill="#D98262"/><rect x="87" y="56" width="20" height="17" fill="#6BA4CE"/>
+<rect x="21" y="75" width="20" height="17" fill="#D98262"/><rect x="43" y="75" width="20" height="17" fill="#E8B96A"/><rect x="65" y="75" width="20" height="17" fill="#6BA4CE"/><rect x="87" y="75" width="20" height="17" fill="#A7CBE4"/>
+<rect x="21" y="94" width="20" height="16" fill="#A7CBE4"/><rect x="43" y="94" width="20" height="16" fill="#6BA4CE"/><rect x="65" y="94" width="20" height="16" fill="#E8B96A"/><rect x="87" y="94" width="20" height="16" fill="#D98262"/></g>
+
+</svg>

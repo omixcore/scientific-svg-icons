@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Multi-omics integration</title><desc id="desc">Integration of transcriptomics, proteomics, and metabolomics into a combined analysis.</desc>
+
+<g stroke="#426B92" stroke-width="2.5"><rect x="7" y="12" width="39" height="29" rx="5" fill="#DCEAF2"/><rect x="82" y="12" width="39" height="29" rx="5" fill="#E8E0F0"/><rect x="7" y="87" width="39" height="29" rx="5" fill="#F4E5B9"/></g>
+<g fill="none" stroke="#397A50" stroke-width="3" stroke-linecap="round"><path d="M27 41v17l37 9M101 41v17l-37 9M27 87V70l37-3"/></g>
+<circle cx="64" cy="65" r="21" fill="#A8C66C" stroke="#397A50" stroke-width="3"/>
+<g fill="#FFFFFF"><circle cx="57" cy="60" r="4"/><circle cx="70" cy="58" r="4"/><circle cx="65" cy="72" r="4"/></g>
+<path d="M57 60 70 58 65 72Z" fill="none" stroke="#397A50" stroke-width="2"/>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Phloem sieve tube</title><desc id="desc">Schematic phloem sieve tube with sieve plates and an adjacent companion cell.</desc>
+
+<rect x="28" y="13" width="43" height="102" rx="16" fill="#F4E5B9" stroke="#A77D42" stroke-width="3"/>
+<path d="M29 45h41M29 81h41" stroke="#A77D42" stroke-width="4"/>
+<g fill="#D5A65B"><circle cx="38" cy="45" r="2.5"/><circle cx="49" cy="45" r="2.5"/><circle cx="60" cy="45" r="2.5"/><circle cx="38" cy="81" r="2.5"/><circle cx="49" cy="81" r="2.5"/><circle cx="60" cy="81" r="2.5"/></g>
+<rect x="80" y="30" width="25" height="68" rx="12" fill="#C5DDB5" stroke="#397A50" stroke-width="2.5"/><ellipse cx="92" cy="61" rx="7" ry="11" fill="#8EB6E8" stroke="#526D9A" stroke-width="1.5"/>
+
+</svg>

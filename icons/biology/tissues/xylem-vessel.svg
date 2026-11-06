@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Xylem vessel</title><desc id="desc">Longitudinal schematic of a xylem vessel with thickened lignified secondary walls.</desc>
+
+<path d="M38 13h52l-5 102H43Z" fill="#D8E8F2" stroke="#426B92" stroke-width="3" stroke-linejoin="round"/>
+<path d="M43 28h42M42 48h43M41 68h43M40 88h44" stroke="#B47A43" stroke-width="5" stroke-linecap="round"/>
+<path d="M48 17v94M80 17v94" stroke="#426B92" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="m55 100 9 9 9-9" fill="none" stroke="#4389C8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

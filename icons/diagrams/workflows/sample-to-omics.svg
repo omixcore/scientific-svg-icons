@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Sample to omics workflow</title><desc id="desc">Workflow from plant sample collection to genomics, proteomics, and metabolomics analysis.</desc>
+
+<g fill="#DCEAF2" stroke="#426B92" stroke-width="2"><rect x="6" y="42" width="28" height="42" rx="5"/><rect x="49" y="12" width="29" height="28" rx="5"/><rect x="49" y="50" width="29" height="28" rx="5"/><rect x="49" y="88" width="29" height="28" rx="5"/><rect x="94" y="42" width="28" height="42" rx="5"/></g>
+<g fill="#397A50"><path d="M18 51c-9-11-3-17 5-13 8 4 3 13-5 13Z"/><path d="M18 51v20" stroke="#397A50" stroke-width="2.5"/></g>
+<g fill="#4389C8"><path d="M57 20h13v3H57zM57 26h13v3H57zM57 32h13v3H57z"/></g>
+<g fill="#E7A94B"><circle cx="58" cy="60" r="4"/><circle cx="69" cy="60" r="4"/><circle cx="58" cy="70" r="4"/><circle cx="69" cy="70" r="4"/></g>
+<path d="M57 97h13M63 91v12" stroke="#786092" stroke-width="3" stroke-linecap="round"/>
+<g fill="none" stroke="#397A50" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M34 63h13m-5-5 5 5-5 5"/><path d="M78 26h9v37h7m-5-5 5 5-5 5"/><path d="M78 64h16"/><path d="M78 102h9V65"/></g>
+
+</svg>

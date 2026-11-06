@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Microcentrifuge tube</title><desc id="desc">Conical microcentrifuge tube with hinged cap and sample liquid.</desc>
+
+<path d="M39 20h49l-6 75c-1 15-36 15-37 0Z" fill="#E7F1F6" stroke="#426B92" stroke-width="3" stroke-linejoin="round"/>
+<path d="M34 13h59v12H34Z" fill="#E7B45A" stroke="#986A36" stroke-width="2.5"/>
+<path d="M42 67h43l-3 28c-1 12-32 12-34 0Z" fill="#8FB7D8" opacity=".9"/>
+<path d="M88 18c12-5 19 1 21 9" fill="none" stroke="#986A36" stroke-width="3" stroke-linecap="round"/>
+
+</svg>

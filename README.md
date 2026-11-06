@@ -8,6 +8,7 @@
 - **Version:** `0.0.1`
 - **Primary format:** SVG
 - **Language:** English / 中文
+- **Icon index:** [metadata/icon-index.csv](metadata/icon-index.csv)
 
 ## Overview | 项目简介
 
@@ -24,46 +25,52 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | Directory | 内容 |
 | --- | --- |
 | `icons/biology/plants/` | Plants, leaves, maize, seedlings / 植物、叶片、玉米、幼苗 |
+| `icons/biology/tissues/` | Leaf anatomy, mesophyll, bundle sheath, vascular tissues / 叶片解剖、叶肉、维管束鞘及维管组织 |
+| `icons/biology/chloroplasts/` | Chloroplast ultrastructure and thylakoid components / 叶绿体超微结构与类囊体组分 |
+| `icons/biology/gene-expression/` | Transcription, translation, promoter regulation / 转录、翻译及启动子调控 |
 | `icons/biology/cells/` | Cells and organelles / 细胞与细胞器 |
 | `icons/biology/molecules/` | DNA, RNA, proteins / DNA、RNA、蛋白质 |
-| `icons/omics/sequencing/` | Sequencing and omics / 测序与组学 |
-| `icons/experiments/` | Microscopy and lab equipment / 显微观察与实验器材 |
+| `icons/omics/proteomics/` | Mass spectrometry, spectra, heatmaps, gels / 质谱、谱图、热图及凝胶 |
+| `icons/omics/metabolomics/` | LC-MS, extraction, chromatograms, networks / 液质联用、提取、色谱图及代谢网络 |
+| `icons/omics/sequencing/` | Sequencing instruments / 测序设备 |
+| `icons/experiments/` | Microscopy and laboratory equipment / 显微观察与实验室设备 |
 | `icons/diagrams/pathways/` | Pathway and interaction symbols / 通路与调控符号 |
+| `icons/diagrams/workflows/` | Experimental and bioinformatics workflows / 实验及生物信息学流程 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
-## Starter collection | 初始图标
+## Featured icon sets | 重点图标集
 
-The initial set contains original, editable SVG draft icons created for this repository. They are design starting points, not substitutes for scientifically precise structures or experimental data.
+### Plant anatomy | 植物组织与解剖
 
-初始图标为本仓库制作的原创可编辑 SVG 草稿，可作为科研绘图的设计起点，但不能替代精确的科学结构或实验数据。
-
-### Plants | 植物
-
-| Leaf | Maize | Seedling |
-| --- | --- | --- |
-| ![Leaf](icons/biology/plants/leaf.svg) | ![Maize](icons/biology/plants/maize.svg) | ![Seedling](icons/biology/plants/seedling.svg) |
-
-### Cells and molecules | 细胞与分子
-
-| Cell | Chloroplast | DNA |
-| --- | --- | --- |
-| ![Cell](icons/biology/cells/cell.svg) | ![Chloroplast](icons/biology/cells/chloroplast.svg) | ![DNA](icons/biology/molecules/dna-double-helix.svg) |
-
-| RNA | Protein |
-| --- | --- |
-| ![RNA](icons/biology/molecules/rna-single-strand.svg) | ![Protein](icons/biology/molecules/protein.svg) |
-
-### Experiments and omics | 实验与组学
-
-| Microscope | Micropipette | PCR tube | Sequencer |
+| Leaf cross-section | Mesophyll cell | Bundle sheath cell | Vascular bundle |
 | --- | --- | --- | --- |
-| ![Microscope](icons/experiments/microscopy/microscope.svg) | ![Micropipette](icons/experiments/lab-equipment/micropipette.svg) | ![PCR tube](icons/experiments/pcr/pcr-tube.svg) | ![Sequencer](icons/omics/sequencing/sequencer.svg) |
+| ![Leaf cross-section](icons/biology/tissues/leaf-cross-section.svg) | ![Mesophyll cell](icons/biology/tissues/mesophyll-cell.svg) | ![Bundle sheath cell](icons/biology/tissues/bundle-sheath-cell.svg) | ![Vascular bundle](icons/biology/tissues/vascular-bundle.svg) |
 
-### Pathway symbols | 通路符号
+Additional icons: [Xylem vessel](icons/biology/tissues/xylem-vessel.svg) · [Phloem sieve tube](icons/biology/tissues/phloem-sieve-tube.svg)
 
-| Activation | Inhibition |
-| --- | --- |
-| ![Activation](icons/diagrams/pathways/activation.svg) | ![Inhibition](icons/diagrams/pathways/inhibition.svg) |
+### Chloroplasts | 叶绿体
+
+[Chloroplast ultrastructure](icons/biology/chloroplasts/chloroplast-ultrastructure.svg) · [Granum stack](icons/biology/chloroplasts/granum-stack.svg) · [Thylakoid membrane](icons/biology/chloroplasts/thylakoid-membrane.svg)
+
+### Gene expression | 基因表达
+
+[Gene expression](icons/biology/gene-expression/gene-expression.svg) · [Transcription](icons/biology/gene-expression/transcription.svg) · [Translation](icons/biology/gene-expression/translation.svg) · [Promoter regulation](icons/biology/gene-expression/promoter-regulation.svg)
+
+### Proteomics | 蛋白质组学
+
+[Mass spectrometer](icons/omics/proteomics/mass-spectrometer.svg) · [Peptide spectrum](icons/omics/proteomics/peptide-spectrum.svg) · [Protein heatmap](icons/omics/proteomics/protein-heatmap.svg) · [Gel electrophoresis](icons/omics/proteomics/gel-electrophoresis.svg)
+
+### Metabolomics | 代谢组学
+
+[LC-MS system](icons/omics/metabolomics/lc-ms-system.svg) · [Metabolite extraction](icons/omics/metabolomics/metabolite-extraction.svg) · [Chromatogram](icons/omics/metabolomics/chromatogram.svg) · [Metabolite network](icons/omics/metabolomics/metabolite-network.svg)
+
+### Laboratory equipment | 实验仪器
+
+[Centrifuge](icons/experiments/lab-equipment/centrifuge.svg) · [Microcentrifuge tube](icons/experiments/lab-equipment/microcentrifuge-tube.svg) · [Petri dish](icons/experiments/lab-equipment/petri-dish.svg) · [Growth chamber](icons/experiments/growth-chamber.svg)
+
+### Workflows | 科研流程
+
+[Sample-to-omics](icons/diagrams/workflows/sample-to-omics.svg) · [RNA-seq workflow](icons/diagrams/workflows/rna-seq-workflow.svg) · [Multi-omics integration](icons/diagrams/workflows/multi-omics-integration.svg) · [Bioinformatics pipeline](icons/diagrams/workflows/bioinformatics-pipeline.svg)
 
 ## SVG conventions | SVG 规范
 
@@ -73,6 +80,7 @@ The initial set contains original, editable SVG draft icons created for this rep
 - Use descriptive English filenames in lowercase kebab-case.
 - Include an accessible `<title>` and, where useful, a `<desc>`.
 - Keep visual styles coherent within an icon family and preserve scientific accuracy.
+- Schematic tissue and organelle drawings are illustrative and should not be treated as microscopy-derived measurements.
 
 - 使用独立 SVG 文件，并设置清晰的 `viewBox`；不要嵌入位图。
 - 尽可能保持路径、文字和图层可编辑。
@@ -80,6 +88,7 @@ The initial set contains original, editable SVG draft icons created for this rep
 - 文件名使用有意义的英文小写 kebab-case 格式。
 - 添加可访问的 `<title>`，必要时添加 `<desc>`。
 - 同一系列图标保持风格协调，并保证科学准确性。
+- 组织和细胞器示意图仅用于视觉表达，不应视为显微测量结果。
 
 ## Naming and metadata | 命名与元数据
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Vascular bundle</title><desc id="desc">Schematic transverse section of a vascular bundle with xylem vessels and phloem cells.</desc>
+
+<path d="M19 64C19 35 39 16 65 16s45 19 45 48-19 48-45 48S19 93 19 64Z" fill="#F3E6C4" stroke="#A77D42" stroke-width="3"/>
+<g fill="#A9C8E7" stroke="#426B92" stroke-width="2"><circle cx="43" cy="45" r="12"/><circle cx="69" cy="38" r="13"/><circle cx="91" cy="51" r="10"/></g>
+<g fill="#E6B96D" stroke="#986A36" stroke-width="1.8"><circle cx="40" cy="78" r="7"/><circle cx="56" cy="87" r="7"/><circle cx="73" cy="82" r="7"/><circle cx="88" cy="76" r="7"/><circle cx="66" cy="65" r="6"/></g>
+<path d="M27 64h74" stroke="#A77D42" stroke-width="1.5" stroke-dasharray="3 4"/>
+
+</svg>

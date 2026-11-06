@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Metabolite network</title><desc id="desc">Schematic metabolite interaction network with connected nodes.</desc>
+
+<g stroke="#9AB5C9" stroke-width="3"><path d="M28 33 63 22 96 42 87 88 51 104 22 73 28 33M28 33l23 71M63 22l24 66M28 33l59 55M22 73l74-31"/></g>
+<g stroke="#263746" stroke-width="2"><circle cx="28" cy="33" r="10" fill="#8BCB70"/><circle cx="63" cy="22" r="10" fill="#E7B45A"/><circle cx="96" cy="42" r="10" fill="#A9C8E7"/><circle cx="87" cy="88" r="10" fill="#D6B8E5"/><circle cx="51" cy="104" r="10" fill="#E7A28C"/><circle cx="22" cy="73" r="10" fill="#9CC9B0"/></g>
+
+</svg>

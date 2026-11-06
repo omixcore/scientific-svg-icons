@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">RNA-seq workflow</title><desc id="desc">Workflow from tissue sampling through RNA extraction, library preparation, sequencing, and analysis.</desc>
+
+<g stroke="#426B92" stroke-width="2" fill="#DCEAF2"><rect x="5" y="39" width="23" height="47" rx="4"/><rect x="37" y="39" width="23" height="47" rx="4"/><rect x="69" y="39" width="23" height="47" rx="4"/><rect x="101" y="39" width="23" height="47" rx="4"/></g>
+<g fill="none" stroke="#397A50" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M28 62h8m-4-4 4 4-4 4M60 62h8m-4-4 4 4-4 4M92 62h8m-4-4 4 4-4 4"/></g>
+<path d="M10 54c5-8 8 8 13 0M42 54l6-7 6 7M74 53h13M106 70l5-13 5 13" fill="none" stroke="#4389C8" stroke-width="2.5" stroke-linecap="round"/>
+<g fill="#E7B45A"><circle cx="16" cy="72" r="3"/><circle cx="48" cy="72" r="3"/><circle cx="80" cy="72" r="3"/><circle cx="112" cy="72" r="3"/></g>
+
+</svg>

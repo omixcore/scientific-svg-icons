@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Transcription</title><desc id="desc">Schematic transcription with RNA polymerase reading DNA and producing an RNA strand.</desc>
+
+<path d="M10 28c25-15 25 15 50 0s25 15 58 0M10 46c25-15 25 15 50 0s25 15 58 0" fill="none" stroke="#4389C8" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="64" cy="38" rx="24" ry="22" fill="#E7B45A" fill-opacity=".85" stroke="#986A36" stroke-width="2.5"/>
+<path d="M61 59c-13 14 3 17 14 26s4 16 24 24" fill="none" stroke="#70A96A" stroke-width="4" stroke-linecap="round"/>
+<g fill="#70A96A"><circle cx="76" cy="82" r="3"/><circle cx="86" cy="91" r="3"/><circle cx="98" cy="104" r="3"/></g>
+
+</svg>

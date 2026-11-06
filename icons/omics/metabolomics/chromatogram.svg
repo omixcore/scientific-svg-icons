@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Chromatogram</title><desc id="desc">Schematic chromatogram with separated metabolite peaks over retention time.</desc>
+
+<path d="M16 14v98h100" fill="none" stroke="#263746" stroke-width="3" stroke-linecap="round"/>
+<path d="M18 99h96" stroke="#9AB5C9" stroke-width="1.5" stroke-dasharray="4 4"/>
+<path d="M18 99h17l7-2 5-7 4-34 4 34 5 7h9l7-2 5-15 4-36 5 36 5 15h8l6-4 4-19 4-11 4 11 4 19 5 4" fill="none" stroke="#4389C8" stroke-width="3" stroke-linejoin="round"/>
+
+</svg>

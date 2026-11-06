@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Granum stack</title><desc id="desc">Close-up schematic of stacked thylakoid discs forming a granum.</desc>
+
+<g fill="#9BCB76" stroke="#397A50" stroke-width="2"><ellipse cx="64" cy="27" rx="33" ry="9"/><ellipse cx="64" cy="41" rx="33" ry="9"/><ellipse cx="64" cy="55" rx="33" ry="9"/><ellipse cx="64" cy="69" rx="33" ry="9"/><ellipse cx="64" cy="83" rx="33" ry="9"/><ellipse cx="64" cy="97" rx="33" ry="9"/></g>
+<path d="M31 27v70M97 27v70" stroke="#315F43" stroke-width="1.5" stroke-dasharray="3 4"/>
+
+</svg>

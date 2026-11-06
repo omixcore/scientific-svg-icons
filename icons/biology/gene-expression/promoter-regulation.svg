@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Promoter regulation</title><desc id="desc">Schematic promoter region with transcription factor binding and RNA polymerase recruitment.</desc>
+
+<path d="M12 83h104" stroke="#4389C8" stroke-width="4" stroke-linecap="round"/>
+<rect x="25" y="70" width="24" height="26" rx="3" fill="#A8C66C" stroke="#397A50" stroke-width="2"/>
+<rect x="54" y="70" width="20" height="26" rx="3" fill="#E7B45A" stroke="#986A36" stroke-width="2"/>
+<path d="M37 66V47" stroke="#397A50" stroke-width="2.5"/><path d="m31 53 6-7 6 7" fill="none" stroke="#397A50" stroke-width="2.5"/>
+<circle cx="37" cy="32" r="13" fill="#A9C8E7" stroke="#426B92" stroke-width="2.5"/>
+<ellipse cx="89" cy="54" rx="19" ry="15" fill="#D8C6E8" stroke="#786092" stroke-width="2.5"/>
+<path d="M89 69v14" stroke="#786092" stroke-width="2.5"/>
+
+</svg>

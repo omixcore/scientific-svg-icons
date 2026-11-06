@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Peptide mass spectrum</title><desc id="desc">Simplified tandem mass spectrum with fragment-ion peaks.</desc>
+
+<path d="M17 14v96h99" fill="none" stroke="#263746" stroke-width="3" stroke-linecap="round"/>
+<path d="M18 97h98" stroke="#A9C8E7" stroke-width="1.5"/>
+<g stroke="#4389C8" stroke-width="4" stroke-linecap="round"><path d="M29 109V86"/><path d="M43 109V65"/><path d="M56 109V91"/><path d="M70 109V34"/><path d="M84 109V76"/><path d="M99 109V49"/><path d="M111 109V89"/></g>
+<g fill="#E7A94B"><circle cx="43" cy="65" r="3"/><circle cx="70" cy="34" r="3"/><circle cx="99" cy="49" r="3"/></g>
+
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Bioinformatics pipeline</title><desc id="desc">Analysis pipeline showing raw data, quality control, quantification, and downstream analysis.</desc>
+
+<g stroke="#426B92" stroke-width="2.5"><rect x="6" y="38" width="26" height="52" rx="5" fill="#DCEAF2"/><rect x="37" y="38" width="26" height="52" rx="5" fill="#DCEAF2"/><rect x="68" y="38" width="26" height="52" rx="5" fill="#DCEAF2"/><rect x="99" y="38" width="23" height="52" rx="5" fill="#DCEAF2"/></g>
+<g stroke="#397A50" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M32 64h5m-3-4 4 4-4 4M63 64h5m-3-4 4 4-4 4M94 64h5m-3-4 4 4-4 4"/></g>
+<g fill="#4389C8"><path d="M12 50h14M12 57h14M12 64h14M12 71h14"/><path d="M43 75 49 49l6 26"/><path d="M74 51h14v24H74z" fill="none" stroke="#4389C8" stroke-width="2"/><path d="M104 75 110 50l6 25" fill="none" stroke="#4389C8" stroke-width="2.5"/></g>
+
+</svg>
