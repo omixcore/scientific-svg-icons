@@ -243,3 +243,15 @@ MIC-COMP-008,icons/experiments/microscopy-components/mounting-medium-drop.svg,ex
 MIC-COMP-009,icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg,experiments/microscopy-components,Paraffin embedded tissue block,石蜡包埋组织块,original-project-artwork,AI-assisted,not-assigned,draft
 MIC-COMP-010,icons/experiments/microscopy-components/tissue-embedding-cassette.svg,experiments/microscopy-components,Tissue embedding cassette,组织包埋盒,original-project-artwork,AI-assisted,not-assigned,draft
 MIC-COMP-011,icons/experiments/microscopy-components/z-stack.svg,experiments/microscopy-components,Microscopy z stack,显微 Z 轴序列,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-001,icons/experiments/plant-physiology/chlorophyll-extraction-sample.svg,experiments/plant-physiology,Leaf pigment extraction tube,叶片色素提取管,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-002,icons/experiments/plant-physiology/electrolyte-leakage-sample.svg,experiments/plant-physiology,Electrolyte leakage sample,电解质渗漏测定样品,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-003,icons/experiments/plant-physiology/fresh-biomass-balance.svg,experiments/plant-physiology,Fresh biomass weighing,鲜重称量,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-004,icons/experiments/plant-physiology/ion-analysis-samples.svg,experiments/plant-physiology,Ion analysis sample tubes,离子含量测定样品管,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-005,icons/experiments/plant-physiology/leaf-water-content-sample.svg,experiments/plant-physiology,Leaf water-content sample,叶片含水量样品,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-006,icons/experiments/plant-physiology/root-length-measurement.svg,experiments/plant-physiology,Root length measurement,根长测量,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-007,icons/experiments/plant-physiology/root-shoot-separation.svg,experiments/plant-physiology,Root and shoot separation,根与地上部取样,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-008,icons/experiments/plant-physiology/salt-hydroponic-treatment.svg,experiments/plant-physiology,Salt treatment hydroponic vessel,盐处理水培容器,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-009,icons/experiments/plant-physiology/salt-seed-germination.svg,experiments/plant-physiology,Salt treatment germination dish,盐处理萌发培养皿,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-010,icons/experiments/plant-physiology/salt-solution-flask.svg,experiments/plant-physiology,Salt solution flask,盐溶液配制,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-011,icons/experiments/plant-physiology/shoot-height-measurement.svg,experiments/plant-physiology,Shoot height measurement,地上部高度测量,original-project-artwork,AI-assisted,not-assigned,draft
+PLANT-PHY-012,icons/experiments/plant-physiology/stained-root-sample.svg,experiments/plant-physiology,Stained root sample,根系染色样品,original-project-artwork,AI-assisted,not-assigned,draft

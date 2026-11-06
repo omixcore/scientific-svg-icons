@@ -47,6 +47,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/reporter-assays/` | Reporter and molecular assay illustrations / 报告基因与分子实验 |
 | `icons/experiments/plant-tissue-culture/` | Plant tissue culture / 植物组织培养 |
 | `icons/experiments/microscopy-components/` | Microscopy and specimen preparation / 显微成像与样品制备 |
+| `icons/experiments/plant-physiology/` | Plant physiology and salt stress assays / 植物生理与盐胁迫实验 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -401,4 +402,21 @@ Editable conceptual microscopy and specimen preparation illustrations. Calibrate
 | Paraffin embedded tissue block / 石蜡包埋组织块 | Tissue embedding cassette / 组织包埋盒 | Microscopy z stack / 显微 Z 轴序列 |  |
 | --- | --- | --- | --- |
 | [![Paraffin embedded tissue block](icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg)](icons/experiments/microscopy-components/paraffin-embedded-tissue-block.svg) | [![Tissue embedding cassette](icons/experiments/microscopy-components/tissue-embedding-cassette.svg)](icons/experiments/microscopy-components/tissue-embedding-cassette.svg) | [![Microscopy z stack](icons/experiments/microscopy-components/z-stack.svg)](icons/experiments/microscopy-components/z-stack.svg) |  |
+
+
+## Plant physiology | 植物生理实验
+
+Editable experimental illustrations; treatment concentration, measurement definitions and results must follow the actual experiment. 可编辑的实验示意图；处理浓度、测量定义和结果应依据实际实验确定。
+
+| Leaf pigment extraction tube / 叶片色素提取管 | Electrolyte leakage sample / 电解质渗漏测定样品 | Fresh biomass weighing / 鲜重称量 | Ion analysis sample tubes / 离子含量测定样品管 |
+| --- | --- | --- | --- |
+| [![Leaf pigment extraction tube](icons/experiments/plant-physiology/chlorophyll-extraction-sample.svg)](icons/experiments/plant-physiology/chlorophyll-extraction-sample.svg) | [![Electrolyte leakage sample](icons/experiments/plant-physiology/electrolyte-leakage-sample.svg)](icons/experiments/plant-physiology/electrolyte-leakage-sample.svg) | [![Fresh biomass weighing](icons/experiments/plant-physiology/fresh-biomass-balance.svg)](icons/experiments/plant-physiology/fresh-biomass-balance.svg) | [![Ion analysis sample tubes](icons/experiments/plant-physiology/ion-analysis-samples.svg)](icons/experiments/plant-physiology/ion-analysis-samples.svg) |
+
+| Leaf water-content sample / 叶片含水量样品 | Root length measurement / 根长测量 | Root and shoot separation / 根与地上部取样 | Salt treatment hydroponic vessel / 盐处理水培容器 |
+| --- | --- | --- | --- |
+| [![Leaf water-content sample](icons/experiments/plant-physiology/leaf-water-content-sample.svg)](icons/experiments/plant-physiology/leaf-water-content-sample.svg) | [![Root length measurement](icons/experiments/plant-physiology/root-length-measurement.svg)](icons/experiments/plant-physiology/root-length-measurement.svg) | [![Root and shoot separation](icons/experiments/plant-physiology/root-shoot-separation.svg)](icons/experiments/plant-physiology/root-shoot-separation.svg) | [![Salt treatment hydroponic vessel](icons/experiments/plant-physiology/salt-hydroponic-treatment.svg)](icons/experiments/plant-physiology/salt-hydroponic-treatment.svg) |
+
+| Salt treatment germination dish / 盐处理萌发培养皿 | Salt solution flask / 盐溶液配制 | Shoot height measurement / 地上部高度测量 | Stained root sample / 根系染色样品 |
+| --- | --- | --- | --- |
+| [![Salt treatment germination dish](icons/experiments/plant-physiology/salt-seed-germination.svg)](icons/experiments/plant-physiology/salt-seed-germination.svg) | [![Salt solution flask](icons/experiments/plant-physiology/salt-solution-flask.svg)](icons/experiments/plant-physiology/salt-solution-flask.svg) | [![Shoot height measurement](icons/experiments/plant-physiology/shoot-height-measurement.svg)](icons/experiments/plant-physiology/shoot-height-measurement.svg) | [![Stained root sample](icons/experiments/plant-physiology/stained-root-sample.svg)](icons/experiments/plant-physiology/stained-root-sample.svg) |
 
