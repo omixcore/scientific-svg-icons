@@ -67,8 +67,8 @@ OMX-ANA-004,icons/omics/analysis/qtl-interval.svg,omics/analysis,QTL interval ma
 OMX-ANA-005,icons/omics/analysis/wgcna-network.svg,omics/analysis,WGCNA co-expression network,WGCNA 共表达网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 OMX-ANA-006,icons/omics/analysis/gsea-enrichment.svg,omics/analysis,Gene set enrichment analysis,基因集富集分析,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
 OMX-ANA-007,icons/omics/analysis/ppi-network.svg,omics/analysis,Protein-protein interaction network,蛋白质互作网络,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-GEN-001,icons/biology/genetics/chromosome.svg,biology/genetics,Chromosome,染色体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-GEN-002,icons/biology/genetics/gene-locus.svg,biology/genetics,Gene locus,基因位点,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-GEN-003,icons/biology/genetics/haplotype-block.svg,biology/genetics,Haplotype block,单倍型区块,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-GEN-004,icons/biology/genetics/loss-of-function-mutant.svg,biology/genetics,Loss-of-function mutant,功能缺失突变体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
-GEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross,遗传杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-001,icons/biology/genetics/chromosome.svg,biology/genetics,Chromosome,染色体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-002,icons/biology/genetics/gene-locus.svg,biology/genetics,Gene locus,基因位点,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-003,icons/biology/genetics/haplotype-block.svg,biology/genetics,Haplotype block,单倍型区块,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-004,icons/biology/genetics/loss-of-function-mutant.svg,biology/genetics,Loss-of-function mutant,功能缺失突变体,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
+PGEN-005,icons/biology/genetics/genetic-cross.svg,biology/genetics,Genetic cross,遗传杂交,original-project-artwork,omixcore-professional-expansion,not-assigned,draft
