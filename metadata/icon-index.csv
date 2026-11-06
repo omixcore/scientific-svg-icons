@@ -255,3 +255,15 @@ PLANT-PHY-009,icons/experiments/plant-physiology/salt-seed-germination.svg,exper
 PLANT-PHY-010,icons/experiments/plant-physiology/salt-solution-flask.svg,experiments/plant-physiology,Salt solution flask,盐溶液配制,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-PHY-011,icons/experiments/plant-physiology/shoot-height-measurement.svg,experiments/plant-physiology,Shoot height measurement,地上部高度测量,original-project-artwork,AI-assisted,not-assigned,draft
 PLANT-PHY-012,icons/experiments/plant-physiology/stained-root-sample.svg,experiments/plant-physiology,Stained root sample,根系染色样品,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-001,icons/omics/transcriptomics/gene-count-matrix.svg,omics/transcriptomics,Gene count matrix,基因计数矩阵,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-002,icons/omics/transcriptomics/library-pooling.svg,omics/transcriptomics,Sequencing library pooling,测序文库混合,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-003,icons/omics/transcriptomics/plant-tissue-rna-sample.svg,omics/transcriptomics,Plant tissue sample for RNA,转录组植物组织样品,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-004,icons/omics/transcriptomics/polya-mrna-capture.svg,omics/transcriptomics,Poly(A) mRNA capture,Poly(A) mRNA 富集,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-005,icons/omics/transcriptomics/read-reference-alignment.svg,omics/transcriptomics,Read reference alignment,测序序列比对参考基因组,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-006,icons/omics/transcriptomics/reverse-transcription.svg,omics/transcriptomics,Reverse transcription,逆转录,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-007,icons/omics/transcriptomics/rna-extraction-tube.svg,omics/transcriptomics,RNA extraction tube,RNA 提取管,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-008,icons/omics/transcriptomics/rna-fragmentation.svg,omics/transcriptomics,RNA fragmentation,RNA 片段化,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-009,icons/omics/transcriptomics/rna-integrity-gel.svg,omics/transcriptomics,RNA integrity gel,RNA 完整性凝胶,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-010,icons/omics/transcriptomics/sequencing-adapter-ligation.svg,omics/transcriptomics,Sequencing adapter ligation,测序接头连接,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-011,icons/omics/transcriptomics/sequencing-flow-cell.svg,omics/transcriptomics,Sequencing flow cell,测序流动池,original-project-artwork,AI-assisted,not-assigned,draft
+TX-COMP-012,icons/omics/transcriptomics/sequencing-library-tube.svg,omics/transcriptomics,Sequencing library tube,测序文库管,original-project-artwork,AI-assisted,not-assigned,draft

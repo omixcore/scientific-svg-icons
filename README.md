@@ -48,6 +48,7 @@ Figdraw 4、灵匠可视等平台可作为素材检索和视觉组织方式的�
 | `icons/experiments/plant-tissue-culture/` | Plant tissue culture / 植物组织培养 |
 | `icons/experiments/microscopy-components/` | Microscopy and specimen preparation / 显微成像与样品制备 |
 | `icons/experiments/plant-physiology/` | Plant physiology and salt stress assays / 植物生理与盐胁迫实验 |
+| `icons/omics/transcriptomics/` | Transcriptomics and RNA sequencing / 转录组与 RNA 测序 |
 | `metadata/` | Icon index and licensing records / 图标索引与授权记录 |
 
 ## Featured icon sets | 重点图标集
@@ -419,4 +420,21 @@ Editable experimental illustrations; treatment concentration, measurement defini
 | Salt treatment germination dish / 盐处理萌发培养皿 | Salt solution flask / 盐溶液配制 | Shoot height measurement / 地上部高度测量 | Stained root sample / 根系染色样品 |
 | --- | --- | --- | --- |
 | [![Salt treatment germination dish](icons/experiments/plant-physiology/salt-seed-germination.svg)](icons/experiments/plant-physiology/salt-seed-germination.svg) | [![Salt solution flask](icons/experiments/plant-physiology/salt-solution-flask.svg)](icons/experiments/plant-physiology/salt-solution-flask.svg) | [![Shoot height measurement](icons/experiments/plant-physiology/shoot-height-measurement.svg)](icons/experiments/plant-physiology/shoot-height-measurement.svg) | [![Stained root sample](icons/experiments/plant-physiology/stained-root-sample.svg)](icons/experiments/plant-physiology/stained-root-sample.svg) |
+
+
+## Transcriptomics | 转录组学
+
+Editable conceptual components for RNA sequencing workflows. Library preparation steps vary with the protocol; graphics do not represent actual sample quality or sequencing results. 可编辑的 RNA 测序流程素材；建库步骤因方案而异，图示不代表实际样品质量或测序结果。
+
+| Gene count matrix / 基因计数矩阵 | Sequencing library pooling / 测序文库混合 | Plant tissue sample for RNA / 转录组植物组织样品 | Poly(A) mRNA capture / Poly(A) mRNA 富集 |
+| --- | --- | --- | --- |
+| [![Gene count matrix](icons/omics/transcriptomics/gene-count-matrix.svg)](icons/omics/transcriptomics/gene-count-matrix.svg) | [![Sequencing library pooling](icons/omics/transcriptomics/library-pooling.svg)](icons/omics/transcriptomics/library-pooling.svg) | [![Plant tissue sample for RNA](icons/omics/transcriptomics/plant-tissue-rna-sample.svg)](icons/omics/transcriptomics/plant-tissue-rna-sample.svg) | [![Poly(A) mRNA capture](icons/omics/transcriptomics/polya-mrna-capture.svg)](icons/omics/transcriptomics/polya-mrna-capture.svg) |
+
+| Read reference alignment / 测序序列比对参考基因组 | Reverse transcription / 逆转录 | RNA extraction tube / RNA 提取管 | RNA fragmentation / RNA 片段化 |
+| --- | --- | --- | --- |
+| [![Read reference alignment](icons/omics/transcriptomics/read-reference-alignment.svg)](icons/omics/transcriptomics/read-reference-alignment.svg) | [![Reverse transcription](icons/omics/transcriptomics/reverse-transcription.svg)](icons/omics/transcriptomics/reverse-transcription.svg) | [![RNA extraction tube](icons/omics/transcriptomics/rna-extraction-tube.svg)](icons/omics/transcriptomics/rna-extraction-tube.svg) | [![RNA fragmentation](icons/omics/transcriptomics/rna-fragmentation.svg)](icons/omics/transcriptomics/rna-fragmentation.svg) |
+
+| RNA integrity gel / RNA 完整性凝胶 | Sequencing adapter ligation / 测序接头连接 | Sequencing flow cell / 测序流动池 | Sequencing library tube / 测序文库管 |
+| --- | --- | --- | --- |
+| [![RNA integrity gel](icons/omics/transcriptomics/rna-integrity-gel.svg)](icons/omics/transcriptomics/rna-integrity-gel.svg) | [![Sequencing adapter ligation](icons/omics/transcriptomics/sequencing-adapter-ligation.svg)](icons/omics/transcriptomics/sequencing-adapter-ligation.svg) | [![Sequencing flow cell](icons/omics/transcriptomics/sequencing-flow-cell.svg)](icons/omics/transcriptomics/sequencing-flow-cell.svg) | [![Sequencing library tube](icons/omics/transcriptomics/sequencing-library-tube.svg)](icons/omics/transcriptomics/sequencing-library-tube.svg) |
 
